@@ -1,3 +1,5 @@
+[官方文档地址](https://python.langchain.com/api_reference/index.html)
+
 # 安装langchain
 
 # 开始第一个demo
