@@ -22,24 +22,14 @@
   ```shell
   pip install python-dotenv
   ```
-  加载环境变量关键代码：
-
-  ```python
-  import os
-  from dotenv import load_dotenv
-  
-  load_dotenv()  # 加载.env文件
-  ```
-
-  
 
 + 创建main.py
 
   ```python
-  import os
-  from dotenv import load_dotenv
   from langchain_core.prompts import ChatPromptTemplate
   from langchain_openai import ChatOpenAI
+  import os
+  from dotenv import load_dotenv
   load_dotenv()
   api_key = os.getenv("OPENAI_API_KEY")
   prompt = ChatPromptTemplate.from_template(
@@ -68,7 +58,7 @@ ollama run deepseek-r1:1.5b
 
 新建local.py文件
 
-```python
+```
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_ollama import ChatOllama
 
@@ -87,101 +77,7 @@ response = chain.invoke({"item": "程序员的工作日常"})
 print(response.content)
 ```
 
-# LLM和ChatModule
 
-二者的选择取决于任务是否需要结构化对话管理。若涉及多轮交互，应优先使用 ChatOllama；若仅为单次文本生成，OllamaLLM 则更为轻量高效
-
-- **ChatOllama**
-  输出结果为包含元数据的消息对象（如`content`属性存储文本），便于在 LangChain 的对话链（ConversationChain）中传递和解析。例如，调用`ai_msg.content`可提取回复文本，同时保留消息类型信息以实现对话流管理。
-
-- **OllamaLLM**
-  输出直接为字符串文本，适合与 LangChain 的提示模板（`PromptTemplate`）或处理管道（Pipeline）结合，快速构建文本生成任务的工作流。例如，在 RAG 应用中，可通过`chain = prompt | model`将提示词与模型串联，简化流程编排。
-
-  
-
-```python
-from langchain_core.messages import AIMessage, HumanMessage
-from langchain_ollama import ChatOllama, OllamaLLM
-OllamaChat = ChatOllama(
-    model="deepseek-r1:1.5b",
-    temperature=0.7,
-    base_url="http://localhost:11434"
-)
-
-Ollama_LLM = OllamaLLM(
-    model="deepseek-r1:1.5b",
-    temperature=0.7,
-    base_url="http://localhost:11434"
-)
-
-print(OllamaChat.invoke([
-    AIMessage(role="system", content="你好，我是丁凯乐"),
-    HumanMessage(role="user", content="你好，我是凯南"),
-    AIMessage(role="system", content="很高兴认识你"),
-    HumanMessage(role="system", content="你知道我叫什么吗？")
-
-]))
-print(Ollama_LLM.invoke("你好啊，你叫什么名字？"))
-
-```
-
-输出结果：
-
-```shell
-content='<think>\n\n</think>\n\n您好！我在中国，是通过中国的官方渠道和机构联系的。如果您有任何问题或需要帮助，请随时告诉我。我会尽力为您提供及时、准确的信息和帮助。' additional_kwargs={} response_metadata={'model': 'deepseek-r1:1.5b', 'created_at': '2025-02-25T06:53:09.443872Z', 'done': True, 'done_reason': 'stop', 'total_duration': 562442042, 'load_duration': 30472792, 'prompt_eval_count': 28, 'prompt_eval_duration': 97000000, 'eval_count': 40, 'eval_duration': 433000000, 'message': Message(role='assistant', content='', images=None, tool_calls=None)} id='run-be227598-7a92-4413-b636-9657b314cb95-0' usage_metadata={'input_tokens': 28, 'output_tokens': 40, 'total_tokens': 68}
-<think>
-
-</think>
-
-您好！我是由中国的深度求索（DeepSeek）公司开发的智能助手DeepSeek-R1。我的名称是DeepSeek-R1，我擅长通过思考来帮您解答复杂的数学，代码和逻辑推理等理工类问题。
-
-Process finished with exit code 0
-```
-
-
-
-# 流式输出
-
-```python
-from langchain_ollama import OllamaLLM
-
-llm = OllamaLLM(
-    model="deepseek-r1:1.5b",
-    temperature=0.7,
-    base_url="http://localhost:11434"
-)
-
-for chunk in llm.stream("胸有成竹是什么意思"):
-    print(chunk, end="", flush=False)
-```
-
-flush置为False是为了不清空控制台
-
-
-
-# 统计token的消耗
-
-```python
-from langchain_ollama import ChatOllama
-from langchain_core.messages import HumanMessage
-
-llm = ChatOllama(
-    model="deepseek-r1:1.5b",
-    temperature=0.7,
-    base_url="http://localhost:11434",
-    stream_usage=True  # 流模式需开启统计
-)
-
-response = llm.invoke([
-    HumanMessage(content="望梅止渴是什么意思")
-])
-
-# 输出内容和token统计
-print(f"响应内容: {response.content}")
-print(f"输入Token: {response.usage_metadata['input_tokens']}")
-print(f"输出Token: {response.usage_metadata['output_tokens']}")
-print(f"总消耗Token: {response.usage_metadata['total_tokens']}")
-```
 
 
 
@@ -551,181 +447,6 @@ message = chat_template.invoke({"msgs": [HumanMessage(content="hi!"), HumanMessa
 print(message)
 ```
 
-## 示例筛选
-
-### LengthBasedExampleSelector
-
-长度动态选择提示词组
-
-可以配置LengthBasedExampleSelector中的max_length来决定生成的提示词长度，决定选择多少提示词组；
-
-注意，dynamic_prompt.format(adjective="forward")   入参adjective的长度也会影响到选中的词组数量
-
-```python
-from langchain_core.example_selectors import LengthBasedExampleSelector
-from langchain_core.prompts import PromptTemplate, FewShotPromptTemplate
-
-# 假设已经有这么多的提示词示例组
-examples = [
-    {"input": "happy", "output": "sad"},
-    {"input": "tall", "output": "short"},
-    {"input": "sunny", "output": "rainy"},
-    {"input": "windy", "output": "calm"},
-    {"input": "hot", "output": "cold"},
-    {"input": "fast", "output": "slow"},
-    {"input": "big", "output": "small"},
-    {"input": "bright", "output": "dark"},
-    {"input": "strong", "output": "weak"},
-    {"input": "clean", "output": "dirty"},
-    {"input": "heavy", "output": "light"},
-    {"input": "happy", "output": "angry"},
-    {"input": "high", "output": "low"},
-    {"input": "rich", "output": "poor"},
-    {"input": "beautiful", "output": "ugly"},
-    {"input": "full", "output": "empty"},
-    {"input": "young", "output": "old"},
-    {"input": "loud", "output": "quiet"},
-    {"input": "soft", "output": "hard"},
-    {"input": "strong", "output": "fragile"},
-    {"input": "sweet", "output": "sour"},
-    {"input": "clean", "output": "messy"},
-    {"input": "open", "output": "closed"},
-    {"input": "warm", "output": "cool"}
-]
-
-# 构造提示词模板
-example_prompt = PromptTemplate(
-    input_variables=["input", "output"],
-    template="原词：{input}\n 反义：{output}"
-)
-
-# 调用长度示例选择器
-example_selector = LengthBasedExampleSelector(
-    examples=examples,  # 传入示例提示词组
-    example_prompt=example_prompt,  # 传入的提示词模板
-    max_length=20  # 格式化后，的提示词的最大长度
-)
-
-dynamic_prompt = FewShotPromptTemplate(
-    example_selector=example_selector,
-    example_prompt=example_prompt,
-    prefix="给出每个输入词的反义词",
-    suffix="原词：{adjective}\n反义:",
-    input_variables=["adjective"]
-)
-
-print(dynamic_prompt.format(adjective="forward"))
-
-```
-
-### MMR检索相关示例
-
-MMR是一种在信息检索中常用的方法，它的目标是在相关性和多样性之间找到一个平衡
-
-首先找出与输入相似（余弦相似度最大）的样本
-
-比方要选出50个，并不是一次性选出50个的，而是一次选一个，直到选到50个
-
-然后在迭代添加样本的过程中，对于与选择样本过于接近（即相似度过高）的样本进行惩罚（选择过的就不会再选了）
-
-技能确保选出样本与输入高度相关，又能保证选出的样本之间有足够的多样性
-
-关注如何在相关性和多样性之间找到一个平衡
-
-```
-pip install faiss-cpu
-```
-
-```python
-from langchain.prompts.example_selector import MaxMarginalRelevanceExampleSelector
-from langchain_openai import OpenAIEmbeddings
-from langchain_community.vectorstores import FAISS
-from langchain.prompts import FewShotPromptTemplate
-from langchain_core.prompts import PromptTemplate
-from langchain_ollama import OllamaEmbeddings
-import os
-from dotenv import load_dotenv
-
-load_dotenv()
-
-api_key = os.getenv("OPENAI_API_KEY")
-
-# 假设已经有这么多的提示词示例组
-examples = [
-    {"input": "happy", "output": "sad"},
-    {"input": "tall", "output": "short"},
-    {"input": "sunny", "output": "rainy"},
-    {"input": "windy", "output": "calm"},
-    {"input": "hot", "output": "cold"},
-    {"input": "fast", "output": "slow"},
-    {"input": "big", "output": "small"},
-    {"input": "bright", "output": "dark"},
-    {"input": "strong", "output": "weak"},
-    {"input": "clean", "output": "dirty"},
-    {"input": "heavy", "output": "light"},
-    {"input": "happy", "output": "angry"},
-    {"input": "高兴", "output": "悲伤"},
-    {"input": "愤怒", "output": "冷静"},
-    {"input": "晴天", "output": "雨天"},
-    {"input": "有风", "output": "平静"},
-    {"input": "轻松", "output": "紧张"},
-    {"input": "快", "output": "慢"},
-    {"input": "亲切", "output": "冷漠"},
-    {"input": "明亮", "output": "暗"},
-    {"input": "强", "output": "弱"}
-]
-
-example_prompt = PromptTemplate(
-    input_variables=["input", "output"],
-    template="原词：{input}\n反义：{output}"
-)
-
-# 初始化OpenAIEmbeddings时显式传递密钥
-# embeddings = OpenAIEmbeddings(openai_api_key=api_key)
-embeddings = OllamaEmbeddings(
-    base_url="http://localhost:11434",
-    model="deepseek-r1:1.5b"
-)
-
-example_selector = MaxMarginalRelevanceExampleSelector.from_examples(
-    examples,
-    embeddings,  # 使用已初始化的embeddings对象
-    FAISS,
-    k=2 # 选中的数量
-)
-
-mmr_prompt = FewShotPromptTemplate(
-    example_selector=example_selector,
-    example_prompt=example_prompt,
-    prefix="请根据以下示例生成反义词：",
-    suffix="原词是：{adjective}\n反义词：",
-    input_variables=["adjective"]
-)
-
-print(mmr_prompt.format(adjective="worried"))
-```
-
-### 根据输入相似度选择实例
-
-它通过计算两个向量（在这里，向量可以代表文本、句子或则词语）之间的余弦值来衡量他们的相似度
-
-余弦值越接近1，表示两个向量越相似
-
-主要关注的是如何准确衡量两个向量的相似度
-
-```python
-from langchain.prompts.example_selector import SemanticSimilarityExampleSelector
-
-from langchain_community.vectorstores import Chroma
-
-example_selector = SemanticSimilarityExampleSelector.from_examples(
-    examples,
-    embeddings,  # 使用已初始化的embeddings对象
-    Chroma,
-    k=2
-)
-```
-
 
 
 ## 提示词追加示例
@@ -879,17 +600,7 @@ for example in selected_examples:
     print("\n".join([f"{k}: {v}" for k, v in example.items()]))
 ```
 
-# OutPut Parsers
 
-自定义的输出规则，让LLM不仅只是聊天文本，还可以与现实各种系统无缝对接
-
-## 输出函数参数
-
-```python
-pip install pydantic
-```
-
-[Pydantic](https://docs.pydantic.dev/dev/) 是一个基于Python的数据验证和设置管理库，通过使用Pydantic，可以轻松为数据模型设置类型注释，以确保数据的**有效性和正确性**。
 
 # LangChain 工作流编排 
 
