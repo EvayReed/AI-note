@@ -624,8 +624,11 @@ MMR是一种在信息检索中常用的方法，它的目标是在相关性和�
 
 关注如何在相关性和多样性之间找到一个平衡
 
-```python
+```shell
 pip install faiss-cpu
+```
+
+```python
 from langchain.prompts.example_selector import MaxMarginalRelevanceExampleSelector
 from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
@@ -1001,6 +1004,21 @@ print(docs[0].page_content)
 print(docs[0].metadata)
 ```
 
+### UnstructuredLoader
+
+```
+pip install langchain_unstructured
+```
+
+```python
+from langchain_unstructured import UnstructuredLoader
+
+loader = UnstructuredLoader("../files/load_test.xlsx", mode="elements")
+docs = loader.load()
+print(docs)
+
+```
+
 ### UnstructuredHTMLLoader
 
 ```python
@@ -1046,6 +1064,23 @@ loader = PyPDFLoader("files/load_test.pdf")
 docs = loader.load()
 print(docs[0])
 ```
+
+### DocxLoader
+
+```
+pip install docx2txt
+```
+
+```python
+from langchain_community.document_loaders import Docx2txtLoader
+
+load_file=Docx2txtLoader('../files/load_test.docx')
+doc=load_file.load()
+
+print(doc)
+```
+
+
 
 ## 文档转换
 
@@ -1100,4 +1135,97 @@ print(len(embeddings))
 for i in range(len(embeddings)):
     print(f"Embedding {i}: {embeddings[i]}")
 ````
+
+
+
+### embed_query
+
+```python
+from langchain_ollama import OllamaEmbeddings
+e_model = OllamaEmbeddings(
+    base_url="http://localhost:11434",
+    model="deepseek-r1:1.5b"
+)
+embeddings = e_model.embed_query(
+    "What is the capital of France?"
+)
+
+for i in range(len(embeddings)):
+    print(f"Embedding {i}: {embeddings[i]}")
+print(f"总数量：{len(embeddings)}")
+print(embeddings[:5])
+
+```
+
+
+
+### 嵌入向量
+
+```python
+from langchain_ollama import OllamaEmbeddings
+from langchain.embeddings import CacheBackedEmbeddings
+from langchain.storage import LocalFileStore
+
+fs = LocalFileStore("./embed_cache")  # 新增实例化文件存储对象
+
+e_model = OllamaEmbeddings(
+    base_url="http://localhost:11434",
+    model="deepseek-r1:1.5b"
+)
+
+cached_embeddings = CacheBackedEmbeddings.from_bytes_store(
+    e_model,
+    fs,
+    namespace=e_model.model.replace(":", "_")
+)
+
+test_texts = ["万一奥特曼打不过小怪兽"]
+embeddings = cached_embeddings.embed_documents(test_texts)
+
+# 查看缓存文件
+print(list(fs.yield_keys()))  # 输出生成的键名
+```
+
+
+
+### 文件转换成向量储存到缓存中
+
+```python
+from langchain.embeddings import CacheBackedEmbeddings
+from langchain_ollama import OllamaEmbeddings
+from langchain_community.vectorstores import FAISS
+from langchain.storage import LocalFileStore
+from langchain_community.document_loaders import TextLoader
+from langchain.text_splitter import CharacterTextSplitter
+
+fs = LocalFileStore("./embed_cache")
+
+e_model = OllamaEmbeddings(
+    base_url="http://localhost:11434",
+    model="deepseek-r1:1.5b"
+)
+
+cached_embeddings = CacheBackedEmbeddings.from_bytes_store(
+    e_model,
+    fs,
+    namespace=e_model.model.replace(":", "_")
+)
+
+raw_documents = TextLoader("../files/load_test.txt").load()
+
+text_splitter = CharacterTextSplitter(chunk_size=500, chunk_overlap=0)
+documents = text_splitter.split_documents(raw_documents)
+
+db=FAISS.from_documents(documents, cached_embeddings)
+
+print(len(list(fs.yield_keys())))
+```
+
+
+
+## 实现文档存储，提问查询文档
+
+```shell
+pip install nltk
+```
 
