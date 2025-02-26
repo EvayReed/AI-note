@@ -1,0 +1,2 @@
+This is an example of the txt format.
+You are all on your own.
