@@ -79,6 +79,102 @@ print(response.content)
 
 
 
+# LLM和ChatModule
+
+二者的选择取决于任务是否需要结构化对话管理。若涉及多轮交互，应优先使用 ChatOllama；若仅为单次文本生成，OllamaLLM 则更为轻量高效
+
+- **ChatOllama**
+  输出结果为包含元数据的消息对象（如`content`属性存储文本），便于在 LangChain 的对话链（ConversationChain）中传递和解析。例如，调用`ai_msg.content`可提取回复文本，同时保留消息类型信息以实现对话流管理。
+
+- **OllamaLLM**
+  输出直接为字符串文本，适合与 LangChain 的提示模板（`PromptTemplate`）或处理管道（Pipeline）结合，快速构建文本生成任务的工作流。例如，在 RAG 应用中，可通过`chain = prompt | model`将提示词与模型串联，简化流程编排。
+
+  
+
+```python
+from langchain_core.messages import AIMessage, HumanMessage
+from langchain_ollama import ChatOllama, OllamaLLM
+OllamaChat = ChatOllama(
+    model="deepseek-r1:1.5b",
+    temperature=0.7,
+    base_url="http://localhost:11434"
+)
+
+Ollama_LLM = OllamaLLM(
+    model="deepseek-r1:1.5b",
+    temperature=0.7,
+    base_url="http://localhost:11434"
+)
+
+print(OllamaChat.invoke([
+    AIMessage(role="system", content="你好，我是丁凯乐"),
+    HumanMessage(role="user", content="你好，我是凯南"),
+    AIMessage(role="system", content="很高兴认识你"),
+    HumanMessage(role="system", content="你知道我叫什么吗？")
+
+]))
+print(Ollama_LLM.invoke("你好啊，你叫什么名字？"))
+
+```
+
+输出结果：
+
+```shell
+content='<think>\n\n</think>\n\n您好！我在中国，是通过中国的官方渠道和机构联系的。如果您有任何问题或需要帮助，请随时告诉我。我会尽力为您提供及时、准确的信息和帮助。' additional_kwargs={} response_metadata={'model': 'deepseek-r1:1.5b', 'created_at': '2025-02-25T06:53:09.443872Z', 'done': True, 'done_reason': 'stop', 'total_duration': 562442042, 'load_duration': 30472792, 'prompt_eval_count': 28, 'prompt_eval_duration': 97000000, 'eval_count': 40, 'eval_duration': 433000000, 'message': Message(role='assistant', content='', images=None, tool_calls=None)} id='run-be227598-7a92-4413-b636-9657b314cb95-0' usage_metadata={'input_tokens': 28, 'output_tokens': 40, 'total_tokens': 68}
+<think>
+
+</think>
+
+您好！我是由中国的深度求索（DeepSeek）公司开发的智能助手DeepSeek-R1。我的名称是DeepSeek-R1，我擅长通过思考来帮您解答复杂的数学，代码和逻辑推理等理工类问题。
+
+Process finished with exit code 0
+```
+
+
+
+# 流式输出
+
+```python
+from langchain_ollama import OllamaLLM
+
+llm = OllamaLLM(
+    model="deepseek-r1:1.5b",
+    temperature=0.7,
+    base_url="http://localhost:11434"
+)
+
+for chunk in llm.stream("胸有成竹是什么意思"):
+    print(chunk, end="", flush=False)
+```
+
+flush置为False是为了不清空控制台
+
+
+
+# 统计token的消耗
+
+```python
+from langchain_ollama import ChatOllama
+from langchain_core.messages import HumanMessage
+
+llm = ChatOllama(
+    model="deepseek-r1:1.5b",
+    temperature=0.7,
+    base_url="http://localhost:11434",
+    stream_usage=True  # 流模式需开启统计
+)
+
+response = llm.invoke([
+    HumanMessage(content="望梅止渴是什么意思")
+])
+
+# 输出内容和token统计
+print(f"响应内容: {response.content}")
+print(f"输入Token: {response.usage_metadata['input_tokens']}")
+print(f"输出Token: {response.usage_metadata['output_tokens']}")
+print(f"总消耗Token: {response.usage_metadata['total_tokens']}")
+```
+
 
 
 # 底层原理
@@ -149,7 +245,7 @@ print(response.content)
 
 
 
-# LangChain结构组成
+# 结构组成
 
 + **LangChain库：**Python和JavaScript库，（用python居多）包含接口和集成多种组件的运行时基础以及现成的链和代理的实现
 + **Langchain模板**： LangChain官方提供的一些AI任务模板，执行AI任务的时候可以使用官方提供的模板库中的模板
@@ -166,7 +262,7 @@ print(response.content)
 
 
 
-# LangCchain任务处理流程
+# 任务处理流程
 
 输入问题，经过提示词模板加工，以为LLM或者Chat Model的形式去与大模型交流；拿到结果后，通过output parse转换成想要的格式 
 
@@ -193,7 +289,7 @@ Langchain对大模型的封装主要包括LLM和Chat Model两种类型
 
 
 
-# LangChain提示词模版
+# 提示词工程
 
 ## PromptTemplate 消息模板
 
@@ -447,7 +543,177 @@ message = chat_template.invoke({"msgs": [HumanMessage(content="hi!"), HumanMessa
 print(message)
 ```
 
+## 示例筛选
 
+### LengthBasedExampleSelector
+
+长度动态选择提示词组
+
+可以配置LengthBasedExampleSelector中的max_length来决定生成的提示词长度，决定选择多少提示词组；
+
+注意，dynamic_prompt.format(adjective="forward")   入参adjective的长度也会影响到选中的词组数量
+
+```python
+from langchain_core.example_selectors import LengthBasedExampleSelector
+from langchain_core.prompts import PromptTemplate, FewShotPromptTemplate
+
+# 假设已经有这么多的提示词示例组
+examples = [
+    {"input": "happy", "output": "sad"},
+    {"input": "tall", "output": "short"},
+    {"input": "sunny", "output": "rainy"},
+    {"input": "windy", "output": "calm"},
+    {"input": "hot", "output": "cold"},
+    {"input": "fast", "output": "slow"},
+    {"input": "big", "output": "small"},
+    {"input": "bright", "output": "dark"},
+    {"input": "strong", "output": "weak"},
+    {"input": "clean", "output": "dirty"},
+    {"input": "heavy", "output": "light"},
+    {"input": "happy", "output": "angry"},
+    {"input": "high", "output": "low"},
+    {"input": "rich", "output": "poor"},
+    {"input": "beautiful", "output": "ugly"},
+    {"input": "full", "output": "empty"},
+    {"input": "young", "output": "old"},
+    {"input": "loud", "output": "quiet"},
+    {"input": "soft", "output": "hard"},
+    {"input": "strong", "output": "fragile"},
+    {"input": "sweet", "output": "sour"},
+    {"input": "clean", "output": "messy"},
+    {"input": "open", "output": "closed"},
+    {"input": "warm", "output": "cool"}
+]
+
+# 构造提示词模板
+example_prompt = PromptTemplate(
+    input_variables=["input", "output"],
+    template="原词：{input}\n 反义：{output}"
+)
+
+# 调用长度示例选择器
+example_selector = LengthBasedExampleSelector(
+    examples=examples,  # 传入示例提示词组
+    example_prompt=example_prompt,  # 传入的提示词模板
+    max_length=20  # 格式化后，的提示词的最大长度
+)
+
+dynamic_prompt = FewShotPromptTemplate(
+    example_selector=example_selector,
+    example_prompt=example_prompt,
+    prefix="给出每个输入词的反义词",
+    suffix="原词：{adjective}\n反义:",
+    input_variables=["adjective"]
+)
+
+print(dynamic_prompt.format(adjective="forward"))
+
+```
+
+### MMR检索相关示例
+
+MMR是一种在信息检索中常用的方法，它的目标是在相关性和多样性之间找到一个平衡
+
+首先找出与输入相似（余弦相似度最大）的样本
+
+比方要选出50个，并不是一次性选出50个的，而是一次选一个，直到选到50个
+
+然后在迭代添加样本的过程中，对于与选择样本过于接近（即相似度过高）的样本进行惩罚（选择过的就不会再选了）
+
+技能确保选出样本与输入高度相关，又能保证选出的样本之间有足够的多样性
+
+关注如何在相关性和多样性之间找到一个平衡
+
+```python
+pip install faiss-cpu
+from langchain.prompts.example_selector import MaxMarginalRelevanceExampleSelector
+from langchain_openai import OpenAIEmbeddings
+from langchain_community.vectorstores import FAISS
+from langchain.prompts import FewShotPromptTemplate
+from langchain_core.prompts import PromptTemplate
+from langchain_ollama import OllamaEmbeddings
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+api_key = os.getenv("OPENAI_API_KEY")
+
+# 假设已经有这么多的提示词示例组
+examples = [
+    {"input": "happy", "output": "sad"},
+    {"input": "tall", "output": "short"},
+    {"input": "sunny", "output": "rainy"},
+    {"input": "windy", "output": "calm"},
+    {"input": "hot", "output": "cold"},
+    {"input": "fast", "output": "slow"},
+    {"input": "big", "output": "small"},
+    {"input": "bright", "output": "dark"},
+    {"input": "strong", "output": "weak"},
+    {"input": "clean", "output": "dirty"},
+    {"input": "heavy", "output": "light"},
+    {"input": "happy", "output": "angry"},
+    {"input": "高兴", "output": "悲伤"},
+    {"input": "愤怒", "output": "冷静"},
+    {"input": "晴天", "output": "雨天"},
+    {"input": "有风", "output": "平静"},
+    {"input": "轻松", "output": "紧张"},
+    {"input": "快", "output": "慢"},
+    {"input": "亲切", "output": "冷漠"},
+    {"input": "明亮", "output": "暗"},
+    {"input": "强", "output": "弱"}
+]
+
+example_prompt = PromptTemplate(
+    input_variables=["input", "output"],
+    template="原词：{input}\n反义：{output}"
+)
+
+# 初始化OpenAIEmbeddings时显式传递密钥
+# embeddings = OpenAIEmbeddings(openai_api_key=api_key)
+embeddings = OllamaEmbeddings(
+    base_url="http://localhost:11434",
+    model="deepseek-r1:1.5b"
+)
+
+example_selector = MaxMarginalRelevanceExampleSelector.from_examples(
+    examples,
+    embeddings,  # 使用已初始化的embeddings对象
+    FAISS,
+    k=2 # 选中的数量
+)
+
+mmr_prompt = FewShotPromptTemplate(
+    example_selector=example_selector,
+    example_prompt=example_prompt,
+    prefix="请根据以下示例生成反义词：",
+    suffix="原词是：{adjective}\n反义词：",
+    input_variables=["adjective"]
+)
+
+print(mmr_prompt.format(adjective="worried"))
+```
+
+### 根据输入相似度选择实例
+
+它通过计算两个向量（在这里，向量可以代表文本、句子或则词语）之间的余弦值来衡量他们的相似度
+
+余弦值越接近1，表示两个向量越相似
+
+主要关注的是如何准确衡量两个向量的相似度
+
+```python
+from langchain.prompts.example_selector import SemanticSimilarityExampleSelector
+
+from langchain_community.vectorstores import Chroma
+
+example_selector = SemanticSimilarityExampleSelector.from_examples(
+    examples,
+    embeddings,  # 使用已初始化的embeddings对象
+    Chroma,
+    k=2
+)
+```
 
 ## 提示词追加示例
 
@@ -602,7 +868,7 @@ for example in selected_examples:
 
 
 
-# LangChain 工作流编排 
+# 工作流编排 
 
 LCEL是一种强大的工作流编排工具，可以从基本组件构建复杂任务链条（chain）， 并支持诸如流式处理、并行处理和日志记录等开箱急用的功能
 
@@ -633,4 +899,205 @@ LCEL（LangChain 表达式语言）的并行执行优化机制旨在提升 AI �
 + **访问中间结果**
 
 对于更复杂的链，访问中间步骤的结果通常非常有用，即使在生成最终输出之前，这可以用于让最终用户知道正在发生的事情。并且在每个LangServe服务器上都可以使用
+
+
+
+# 增强检索（RAG）
+
+大模型的缺陷：知识内容不够新，无法实时的去学习一些内容，知识库的更新会比较慢，有很多的知识是短缺的；大模型底模的数据源大多来源于互联网上爬下来的，一些闭源的数据，或者某些行业更精钻的数据是无法感知的，所以在问一些非常专业的问题的时候，回答得就很泛泛
+
+ RAG正可以解决这一短板； 它结合了检索、生成、两种技术；
+
+​	检索：从已有的知识库中找到相关的信息
+
+​	生成：根据检索的信息，生成新的内容
+
+RAG为大模型LLM提供来自外部知识源的额外信息。生成更准确的附带有上下文的答案，同时减少幻觉
+
+流程： 问题 => 向量化 => 把向量化之后的索引存入数据库  =>  在数据库中通过近似搜索的技术，找到相关的文本块或者相关信息  => 形成上下文嵌入到prompt中  =>  带有搜索到的内容信息传递给大模型
+
+
+
+## RaG的实现
+
+各种文档   =>    各种loader    =>   文本切片    =>     嵌入向量化     =>     向量存储     =>    各种检索链
+
++ **Load（数据加载）**
+  - **功能**：从本地文件、数据库或网络资源中加载原始数据（如 PDF、TXT、HTML），并进行初步解析。
+  - 关键点：不同的数据格式，用不同的loader进行解析，需适配不同文件格式（如用`PyPDF2`处理 PDF，`BeautifulSoup`解析网页），支持多源异构数据集成。若数据量大，需优化读取效率（如分块加载）。
++ **Transform（数据转换与清洗）**
+  - **功能**：将原始文本转化为结构化数据，并进行预处理。
+  - 核心操作
+    - **文本清洗**：去除噪声（如 HTML 标签、特殊符号）、分段分句、关键信息提取。
+    - **语义优化**：根据业务需求截取段落（如仅保留前 3 段）、替换敏感词或同义词（如将 “客户” 统一为 “用户”）。
+    - **向量化准备**：拆分文本为适合模型处理的片段（如按 512 tokens 分块）。
++ **Embed（向量嵌入）**
+  - **功能**：通过嵌入模型（如 OpenAI 的`text-embedding-3`、Hugging Face 的`BERT`）将文本转化为高维向量（坐标），捕捉语义信息。
+  - 技术细节
+    - 向量维度需与后续检索模块兼容（如 1536 维对应 OpenAI 模型）。
+    - 可优化嵌入质量：微调模型或加入领域知识增强语义表征。
++ **Store（向量存储）**
+  - **功能**：将向量存入专用数据库，支持高效检索。
+  - 常用方案
+    - **本地轻量级**：Chroma、FAISS（适合中小规模数据）。
+    - **分布式服务**：Elasticsearch、Pinecone（支持海量数据和高并发查询）。
+  - **优化点**：索引结构设计（如 HNSW 算法加速近邻搜索）。
++ **Retrieve（向量检索）**
+  - **功能**：根据用户问题检索最相关的文本片段，供生成模型参考。
+  - 策略选择
+    - **相似度计算**：余弦相似度、欧氏距离。
+    - **混合检索**：结合关键词匹配与语义搜索（如 BM25 + 向量加权）。
+    - **结果优化**：去重、多样性控制（如 MMR 算法避免相似结果扎堆）。
+
+
+
+## Loader
+
+### TextLoader
+
+```python
+from langchain_community.document_loaders import TextLoader
+
+loader = TextLoader("./files/markdown.md")
+# TextLoader可以解析很多种类型的文件
+# loader = TextLoader("./files/csv.csv")
+docs = loader.load()
+print(docs[0].page_content)  # 输出文件主体文本
+print(docs[0].metadata)
+```
+### CSVLoader
+
+```python
+from langchain_community.document_loaders import CSVLoader
+loader = CSVLoader("./files/csv.csv")
+docs = loader.load()
+print(docs[0].page_content)  # 输出文件主体文本
+print(docs[0].metadata)
+```
+
+### DirectoryLoader
+
+加载ecxel文件需要额外安装unstructured
+
+```
+pip install "unstructured[xlsx]"
+```
+
+os系统需要额外安装libmagic
+
+```
+brew install libmagic 
+```
+
+[brew的安装教程](https://blog.csdn.net/ganyingxie123456/article/details/132182152)
+
+```python
+from langchain_community.document_loaders import DirectoryLoader
+
+loader = DirectoryLoader("./files/", glob="*.xlsx")
+docs = loader.load()
+
+print(docs[0].page_content)
+print(docs[0].metadata)
+```
+
+### UnstructuredHTMLLoader
+
+```python
+from langchain_community.document_loaders import UnstructuredHTMLLoader
+loader = UnstructuredHTMLLoader("./files/load_test.html")
+docs = loader.load()
+
+print(docs)
+```
+
+### JSONLoader
+
+```python
+from langchain_community.document_loaders import JSONLoader
+
+loader = JSONLoader(
+    file_path="./files/load_test.json",
+    jq_schema=".test",
+)
+docs = loader.load()
+
+print(docs[0].page_content)
+```
+
+- `.test` 表示提取根节点下的 `test` 字段值。若需提取嵌套字段，可使用 `.parent.child`；若遍历数组，可用 `.[]` 或 `.messages[]`。
+  - 提取单值：`.field`
+  - 遍历数组：`.messages[].content`
+  - 条件过滤：`.users[] | select(.age > 18)`
+
+
+
+### PyPDFLoader
+
+```
+pip install pypdf 
+```
+
+```python
+from langchain_community.document_loaders import PyPDFLoader
+
+loader = PyPDFLoader("files/load_test.pdf")
+# loader = TextLoader("./files/load_test.csv")
+docs = loader.load()
+print(docs[0])
+```
+
+## 文档转换
+
+### 文档切割
+
+原理：
+
++ 将文档分成小的，有意义的快（句子）。
++ 将小的块组合成一个更大的块，知道达到一定的大小（先切割后组合）
++ 组合的时候是根据空间向量的距离相似度，一旦达到一定的大小，接着开始创建与下一个块重叠的部分
+
+```python
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+
+with open("./files/load_test.txt") as f:
+    zuizhonghuanxiang = f.read()
+
+text_splitter = RecursiveCharacterTextSplitter(
+    chunk_size=50,  # 每个chunk的大小
+    chunk_overlap=10,  # 每个chunk的重叠大小
+    length_function=len,  # 计算每个chunk长度的函数
+    add_start_index=True  # 是否在每个chunk的metadata中添加起始索引
+)
+
+doc = text_splitter.create_documents([zuizhonghuanxiang])
+
+for document in doc:
+    print(document, '\n')
+```
+
+
+
+## 文本向量化
+
+### embed_documents
+
+````python
+from langchain_ollama import OllamaEmbeddings
+e_model = OllamaEmbeddings(
+    base_url="http://localhost:11434",
+    model="deepseek-r1:1.5b"
+)
+embeddings = e_model.embed_documents(
+    [
+        "你快乐吗",
+        "我很快乐",
+        "第一步就是向后退一步",
+        "快乐就是没有什么道理"
+    ]
+)
+print(len(embeddings))
+for i in range(len(embeddings)):
+    print(f"Embedding {i}: {embeddings[i]}")
+````
 
