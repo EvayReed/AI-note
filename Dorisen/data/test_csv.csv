@@ -1,0 +1,1501 @@
+name,year,movie_rated,run_length,genres,release_date,rating,num_raters,num_reviews
+Inception,2010,PG-13,2h 28min,Action; Adventure; Sci-Fi; ,16 July 2010 (USA),8.8,1981675,3820
+The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,2h 58min,Action; Adventure; Drama; ,19 December 2001 (USA),8.8,1609165,5365
+The Lord of the Rings: The Return of the King,2003,PG-13,3h 21min,Adventure; Drama; Fantasy; ,17 December 2003 (USA),8.9,1593859,3681
+The Dark Knight Rises,2012,PG-13,2h 44min,Action; Adventure; ,20 July 2012 (USA),8.4,1470329,2979
+The Lord of the Rings: The Two Towers,2002,PG-13,2h 59min,Adventure; Drama; Fantasy; ,18 December 2002 (USA),8.7,1440188,2559
+Interstellar,2014,PG-13,2h 49min,Adventure; Drama; Sci-Fi; ,7 November 2014 (USA),8.6,1430797,3977
+Gladiator,2000,R,2h 35min,Action; Adventure; Drama; ,5 May 2000 (USA),8.5,1297718,2636
+Batman Begins,2005,PG-13,2h 20min,Action; Adventure; ,15 June 2005 (USA),8.2,1269027,2885
+The Avengers,2012,PG-13,2h 23min,Action; Adventure; Sci-Fi; ,4 May 2012 (USA),8.0,1236048,1929
+Inglourious Basterds,2009,R,2h 33min,Adventure; Drama; War; ,21 August 2009 (USA),8.3,1219372,1856
+Star Wars: Episode IV - A New Hope,1977,PG,2h 1min,Action; Adventure; Fantasy; ,25 May 1977 (USA),8.6,1197132,1834
+Star Wars: Episode V - The Empire Strikes Back,1980,PG,2h 4min,Action; Adventure; Fantasy; ,20 June 1980 (USA),8.7,1124834,1214
+Avatar,2009,PG-13,2h 42min,Action; Adventure; Fantasy; ,18 December 2009 (USA),7.8,1096125,3415
+Guardians of the Galaxy,2014,PG-13,2h 1min,Action; Adventure; Comedy; ,1 August 2014 (USA),8.0,1017405,1390
+Back to the Future,1985,PG,1h 56min,Adventure; Comedy; Sci-Fi; ,3 July 1985 (USA),8.5,1015004,1176
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,2h 23min,Action; Adventure; Fantasy; ,9 July 2003 (USA),8.0,997264,2186
+WALL·E,2008,G,1h 38min,Animation; Adventure; ,27 June 2008 (USA),8.4,967917,1268
+Star Wars: Episode VI - Return of the Jedi,1983,PG,2h 11min,Action; Adventure; Fantasy; ,25 May 1983 (USA),8.3,922278,828
+Finding Nemo,2003,G,1h 40min,Animation; Adventure; Comedy; ,30 May 2003 (USA),8.1,922080,968
+Iron Man,2008,PG-13,2h 6min,Action; Adventure; Sci-Fi; ,2 May 2008 (USA),7.9,915640,1319
+The Lion King,1994,G,1h 28min,Animation; Adventure; Drama; ,24 June 1994 (USA),8.5,910179,1009
+Up,2009,PG,1h 36min,Animation; Adventure; Comedy; ,29 May 2009 (USA),8.2,905044,891
+Deadpool,2016,R,1h 48min,Action; Adventure; Comedy; ,12 February 2016 (USA),8.0,876091,1440
+Raiders of the Lost Ark,1981,PG,1h 55min,Action; Adventure; ,12 June 1981 (USA),8.4,859523,931
+Toy Story,1995,G,1h 21min,Animation; Adventure; Comedy; ,22 November 1995 (USA),8.3,858215,606
+Mad Max: Fury Road,2015,R,2h,Action; Adventure; Sci-Fi; ,15 May 2015 (USA),8.1,848011,1990
+Star Wars: Episode VII - The Force Awakens,2015,PG-13,2h 18min,Action; Adventure; Sci-Fi; ,18 December 2015 (USA),7.9,841234,4794
+Jurassic Park,1993,PG-13,2h 7min,Action; Adventure; Sci-Fi; ,11 June 1993 (USA),8.1,836793,1133
+The Hunger Games,2012,PG-13,2h 22min,Action; Adventure; Sci-Fi; ,23 March 2012 (USA),7.2,826505,2037
+"Monsters, Inc.",2001,G,1h 32min,Animation; Adventure; Comedy; ,2 November 2001 (USA),8.0,789773,680
+Avengers: Infinity War,2018,PG-13,2h 29min,Action; Adventure; Sci-Fi; ,27 April 2018 (USA),8.4,784777,4248
+The Hobbit: An Unexpected Journey,2012,PG-13,2h 49min,Adventure; Fantasy; ,14 December 2012 (USA),7.8,743338,1430
+Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,2h 10min,Adventure; Drama; Fantasy; ,15 July 2011 (USA),8.1,737642,953
+Avengers: Endgame,2019,PG-13,3h 1min,Action; Adventure; Drama; ,26 April 2019 (USA),8.4,736177,8805
+Iron Man 3,2013,PG-13,2h 10min,Action; Adventure; Sci-Fi; ,3 May 2013 (USA),7.2,735568,1314
+Toy Story 3,2010,G,1h 43min,Animation; Adventure; Comedy; ,18 June 2010 (USA),8.3,734948,884
+The Martian,2015,PG-13,2h 24min,Adventure; Drama; Sci-Fi; ,2 October 2015 (USA),8.0,734923,1312
+Thor,2011,PG-13,1h 55min,Action; Adventure; Fantasy; ,6 May 2011 (USA),7.0,726753,915
+Captain America: The First Avenger,2011,PG-13,2h 4min,Action; Adventure; Sci-Fi; ,22 July 2011 (USA),6.9,718921,882
+Avengers: Age of Ultron,2015,PG-13,2h 21min,Action; Adventure; Sci-Fi; ,1 May 2015 (USA),7.3,717521,1303
+Captain America: The Winter Soldier,2014,PG-13,2h 16min,Action; Adventure; Sci-Fi; ,4 April 2014 (USA),7.7,714445,937
+Star Wars: Episode I - The Phantom Menace,1999,PG,2h 16min,Action; Adventure; Fantasy; ,19 May 1999 (USA),6.5,708990,3843
+Iron Man 2,2010,PG-13,2h 4min,Action; Adventure; Sci-Fi; ,7 May 2010 (USA),7.0,701922,881
+Star Wars: Episode III - Revenge of the Sith,2005,PG-13,2h 20min,Action; Adventure; Fantasy; ,19 May 2005 (USA),7.5,690205,3553
+The Grand Budapest Hotel,2014,R,1h 39min,Adventure; Comedy; Crime; ,28 March 2014 (USA),8.1,681915,865
+The Revenant,2015,R,2h 36min,Action; Adventure; Drama; ,8 January 2016 (USA),8.0,678829,1594
+Man of Steel,2013,PG-13,2h 23min,Action; Adventure; Sci-Fi; ,14 June 2013 (USA),7.0,675229,2747
+Indiana Jones and the Last Crusade,1989,PG-13,2h 7min,Action; Adventure; ,24 May 1989 (USA),8.2,672206,567
+Spider-Man,2002,PG-13,2h 1min,Action; Adventure; Sci-Fi; ,3 May 2002 (USA),7.3,671751,2124
+I Am Legend,2007,PG-13,1h 41min,Action; Adventure; Drama; ,14 December 2007 (USA),7.2,670748,1543
+X-Men: Days of Future Past,2014,PG-13,2h 12min,Action; Adventure; Sci-Fi; ,23 May 2014 (USA),8.0,647269,821
+How to Train Your Dragon,2010,PG,1h 38min,Animation; Action; Adventure; ,26 March 2010 (USA),8.1,647266,626
+Pirates of the Caribbean: Dead Man's Chest,2006,PG-13,2h 31min,Action; Adventure; Fantasy; ,7 July 2006 (USA),7.3,641045,1889
+The Incredibles,2004,PG,1h 55min,Animation; Action; Adventure; ,5 November 2004 (USA),8.0,638952,946
+Captain America: Civil War,2016,PG-13,2h 27min,Action; Adventure; Sci-Fi; ,6 May 2016 (USA),7.8,638731,1410
+Aliens,1986,R,2h 17min,Action; Adventure; Sci-Fi; ,18 July 1986 (USA),8.3,635164,1280
+X-Men: First Class,2011,PG-13,2h 11min,Action; Adventure; Sci-Fi; ,3 June 2011 (USA),7.7,634147,767
+Star Wars: Episode II - Attack of the Clones,2002,PG,2h 22min,Action; Adventure; Fantasy; ,16 May 2002 (USA),6.5,621911,3652
+Ratatouille,2007,G,1h 51min,Animation; Adventure; Comedy; ,29 June 2007 (USA),8.0,620375,741
+Harry Potter and the Sorcerer's Stone,2001,PG,2h 32min,Adventure; Fantasy; ,16 November 2001 (USA),7.6,618786,1737
+Spirited Away,2001,PG,2h 5min,Animation; Adventure; ,28 March 2003 (USA),8.6,618550,1287
+Skyfall,2012,PG-13,2h 23min,Action; Adventure; Thriller; ,9 November 2012 (USA),7.7,617644,1587
+Batman v Superman: Dawn of Justice,2016,PG-13,2h 31min,Action; Adventure; Sci-Fi; ,25 March 2016 (USA),6.4,608225,3696
+The Hunger Games: Catching Fire,2013,PG-13,2h 26min,Action; Adventure; Mystery; ,22 November 2013 (USA),7.5,600099,720
+Shrek,2001,PG,1h 30min,Animation; Adventure; Comedy; ,18 May 2001 (USA),7.8,596499,1062
+The Hobbit: The Desolation of Smaug,2013,PG-13,2h 41min,Adventure; Fantasy; ,13 December 2013 (USA),7.8,588294,985
+Black Panther,2018,PG-13,2h 14min,Action; Adventure; Sci-Fi; ,16 February 2018 (USA),7.3,587388,3190
+Inside Out,2015,PG,1h 35min,Animation; Adventure; Comedy; ,19 June 2015 (USA),8.1,586923,1027
+Transformers,2007,PG-13,2h 24min,Action; Adventure; Sci-Fi; ,3 July 2007 (USA),7.0,586895,1869
+World War Z,2013,PG-13,1h 56min,Action; Adventure; Horror; ,21 June 2013 (USA),7.0,586801,1125
+2001: A Space Odyssey,1968,G,2h 29min,Adventure; Sci-Fi; ,12 May 1968 (UK),8.3,582718,2143
+Pirates of the Caribbean: At World's End,2007,PG-13,2h 49min,Action; Adventure; Fantasy; ,25 May 2007 (USA),7.1,582275,1290
+Suicide Squad,2016,PG-13,2h 3min,Action; Adventure; Fantasy; ,5 August 2016 (USA),6.0,581986,2253
+Edge of Tomorrow,2014,PG-13,1h 53min,Action; Adventure; Sci-Fi; ,6 June 2014 (USA),7.9,581938,967
+Thor: The Dark World,2013,PG-13,1h 52min,Action; Adventure; Fantasy; ,8 November 2013 (USA),6.9,578425,695
+Kingsman: The Secret Service,2014,R,2h 9min,Action; Adventure; Comedy; ,13 February 2015 (USA),7.7,575952,935
+Doctor Strange,2016,PG-13,1h 55min,Action; Adventure; Fantasy; ,4 November 2016 (USA),7.5,573177,945
+Sherlock Holmes,2009,PG-13,2h 8min,Action; Adventure; Mystery; ,25 December 2009 (USA),7.6,571401,693
+Star Trek,2009,PG-13,2h 7min,Action; Adventure; Sci-Fi; ,8 May 2009 (USA),7.9,570077,1650
+Life of Pi,2012,PG,2h 7min,Adventure; Drama; Fantasy; ,21 November 2012 (USA),7.9,567025,914
+Casino Royale,2006,PG-13,2h 24min,Action; Adventure; Thriller; ,17 November 2006 (USA),8.0,566966,2401
+Jurassic World,2015,PG-13,2h 4min,Action; Adventure; Sci-Fi; ,12 June 2015 (USA),7.0,566272,1531
+X-Men,2000,PG-13,1h 44min,Action; Adventure; Sci-Fi; ,14 July 2000 (USA),7.4,559246,1447
+Prometheus,2012,R,2h 4min,Adventure; Mystery; Sci-Fi; ,8 June 2012 (USA),7.0,557986,2543
+Thor: Ragnarok,2017,PG-13,2h 10min,Action; Adventure; Comedy; ,3 November 2017 (USA),7.9,557591,1576
+Frozen,2013,PG,1h 42min,Animation; Adventure; Comedy; ,27 November 2013 (USA),7.4,557241,1109
+Into the Wild,2007,R,2h 28min,Adventure; Biography; Drama; ,19 October 2007 (USA),8.1,556447,939
+Ant-Man,2015,PG-13,1h 57min,Action; Adventure; Comedy; ,17 July 2015 (USA),7.3,549076,718
+The Amazing Spider-Man,2012,PG-13,2h 16min,Action; Adventure; Sci-Fi; ,3 July 2012 (USA),6.9,547661,1342
+Guardians of the Galaxy Vol. 2,2017,PG-13,2h 16min,Action; Adventure; Comedy; ,5 May 2017 (USA),7.6,544357,1044
+Star Wars: Episode VIII - The Last Jedi,2017,PG-13,2h 32min,Action; Adventure; Fantasy; ,15 December 2017 (USA),7.0,543307,6691
+Rogue One: A Star Wars Story,2016,PG-13,2h 13min,Action; Adventure; Sci-Fi; ,16 December 2016 (USA),7.8,534483,1763
+Jaws,1975,PG,2h 4min,Adventure; Thriller; ,20 June 1975 (USA),8.0,531977,1203
+Harry Potter and the Chamber of Secrets,2002,PG,2h 41min,Adventure; Fantasy; ,15 November 2002 (USA),7.4,531256,930
+Wonder Woman,2017,PG-13,2h 21min,Action; Adventure; Fantasy; ,2 June 2017 (USA),7.4,531221,2179
+Spider-Man 2,2004,PG-13,2h 7min,Action; Adventure; Sci-Fi; ,30 June 2004 (USA),7.3,529344,1450
+Harry Potter and the Prisoner of Azkaban,2004,PG,2h 22min,Adventure; Fantasy; ,4 June 2004 (USA),7.9,528503,1592
+Harry Potter and the Goblet of Fire,2005,PG-13,2h 37min,Adventure; Fantasy; ,18 November 2005 (USA),7.7,526115,1980
+Independence Day,1996,PG-13,2h 25min,Action; Adventure; Sci-Fi; ,3 July 1996 (USA),7.0,516789,939
+Toy Story 2,1999,G,1h 32min,Animation; Adventure; Comedy; ,24 November 1999 (USA),7.9,511239,611
+WALL·E,2008,G,1h 38min,Animation; Adventure; ,27 June 2008 (USA),8.4,967917,1268
+Finding Nemo,2003,G,1h 40min,Animation; Adventure; Comedy; ,30 May 2003 (USA),8.1,922080,968
+The Lion King,1994,G,1h 28min,Animation; Adventure; Drama; ,24 June 1994 (USA),8.5,910179,1009
+Up,2009,PG,1h 36min,Animation; Adventure; Comedy; ,29 May 2009 (USA),8.2,905044,891
+Toy Story,1995,G,1h 21min,Animation; Adventure; Comedy; ,22 November 1995 (USA),8.3,858215,606
+"Monsters, Inc.",2001,G,1h 32min,Animation; Adventure; Comedy; ,2 November 2001 (USA),8.0,789773,680
+Toy Story 3,2010,G,1h 43min,Animation; Adventure; Comedy; ,18 June 2010 (USA),8.3,734948,884
+How to Train Your Dragon,2010,PG,1h 38min,Animation; Action; Adventure; ,26 March 2010 (USA),8.1,647266,626
+The Incredibles,2004,PG,1h 55min,Animation; Action; Adventure; ,5 November 2004 (USA),8.0,638952,946
+Ratatouille,2007,G,1h 51min,Animation; Adventure; Comedy; ,29 June 2007 (USA),8.0,620375,741
+Spirited Away,2001,PG,2h 5min,Animation; Adventure; ,28 March 2003 (USA),8.6,618550,1287
+Shrek,2001,PG,1h 30min,Animation; Adventure; Comedy; ,18 May 2001 (USA),7.8,596499,1062
+Inside Out,2015,PG,1h 35min,Animation; Adventure; Comedy; ,19 June 2015 (USA),8.1,586923,1027
+Frozen,2013,PG,1h 42min,Animation; Adventure; Comedy; ,27 November 2013 (USA),7.4,557241,1109
+Toy Story 2,1999,G,1h 32min,Animation; Adventure; Comedy; ,24 November 1999 (USA),7.9,511239,611
+Despicable Me,2010,PG,1h 35min,Animation; Comedy; ,9 July 2010 (USA),7.6,488575,359
+Ice Age,2002,PG,1h 21min,Animation; Adventure; Comedy; ,15 March 2002 (USA),7.5,428802,491
+Zootopia,2016,PG,1h 48min,Animation; Adventure; Comedy; ,4 March 2016 (USA),8.0,417226,710
+Beauty and the Beast,1991,G,1h 24min,Animation; Fantasy; ,22 November 1991 (USA),8.0,408618,433
+Shrek 2,2004,PG,1h 33min,Animation; Adventure; Comedy; ,19 May 2004 (USA),7.2,407523,542
+Kung Fu Panda,2008,PG,1h 32min,Animation; Action; Adventure; ,6 June 2008 (USA),7.5,406720,425
+Big Hero 6,2014,PG,1h 42min,Animation; Action; Adventure; ,7 November 2014 (USA),7.8,398088,557
+Tangled,2010,PG,1h 40min,Animation; Adventure; Comedy; ,24 November 2010 (USA),7.7,393285,489
+Wreck-It Ralph,2012,PG,1h 41min,Animation; Adventure; Comedy; ,2 November 2012 (USA),7.7,369053,443
+Brave,2012,PG,1h 33min,Animation; Adventure; Comedy; ,22 June 2012 (USA),7.1,361913,515
+Despicable Me 2,2013,PG,1h 38min,Animation; Adventure; Comedy; ,3 July 2013 (USA),7.3,361388,321
+Aladdin,1992,G,1h 30min,Animation; Adventure; Comedy; ,25 November 1992 (USA),8.0,360969,330
+Madagascar,2005,PG,1h 26min,Animation; Adventure; Comedy; ,27 May 2005 (USA),6.9,355365,420
+Cars,2006,G,1h 57min,Animation; Comedy; ,9 June 2006 (USA),7.1,354991,663
+Coco,2017,PG,1h 45min,Animation; Adventure; ,22 November 2017 (USA),8.4,345200,1087
+Princess Mononoke,1997,PG-13,2h 14min,Animation; Adventure; Fantasy; ,19 December 1997 (USA),8.4,326489,702
+Spider-Man: Into the Spider-Verse,2018,PG,1h 57min,Animation; Action; Adventure; ,14 December 2018 (USA),8.4,326477,1810
+The Lego Movie,2014,PG,1h 40min,Animation; Action; Adventure; ,7 February 2014 (USA),7.7,317860,554
+Howl's Moving Castle,2004,PG,1h 59min,Animation; Adventure; ,17 June 2005 (USA),8.2,313971,435
+Monsters University,2013,G,1h 44min,Animation; Adventure; Comedy; ,21 June 2013 (USA),7.3,311892,331
+The Simpsons Movie,2007,PG-13,1h 27min,Animation; Adventure; Comedy; ,27 July 2007 (USA),7.3,303713,849
+How to Train Your Dragon 2,2014,PG,1h 42min,Animation; Action; Adventure; ,13 June 2014 (USA),7.8,296544,404
+The Nightmare Before Christmas,1993,PG,1h 16min,Animation; Fantasy; ,29 October 1993 (USA),8.0,283685,522
+My Neighbor Totoro,1988,G,1h 26min,Animation; Fantasy; ,13 July 1990 (USA),8.2,273795,464
+Shrek the Third,2007,PG,1h 33min,Animation; Adventure; Comedy; ,18 May 2007 (USA),6.1,272620,360
+A Bug's Life,1998,G,1h 35min,Animation; Adventure; Comedy; ,25 November 1998 (USA),7.2,259956,368
+Moana,2016,PG,1h 47min,Animation; Adventure; Comedy; ,23 November 2016 (USA),7.6,256243,521
+Ice Age: The Meltdown,2006,PG,1h 31min,Animation; Adventure; Comedy; ,31 March 2006 (USA),6.8,249504,267
+Kung Fu Panda 2,2011,PG,1h 30min,Animation; Action; Adventure; ,26 May 2011 (USA),7.2,245225,243
+Mulan,1998,G,1h 28min,Animation; Adventure; ,19 June 1998 (USA),7.6,242128,312
+Incredibles 2,2018,PG,1h 58min,Animation; Action; Adventure; ,15 June 2018 (USA),7.6,236249,1067
+Corpse Bride,2005,PG,1h 17min,Animation; Drama; ,23 September 2005 (USA),7.3,235900,521
+Finding Dory,2016,PG,1h 37min,Animation; Adventure; Comedy; ,17 June 2016 (USA),7.3,231496,427
+The Little Mermaid,1989,G,1h 23min,Animation; Fantasy; ,17 November 1989 (USA),7.6,229928,279
+Rango,2011,PG,1h 47min,Animation; Adventure; Comedy; ,4 March 2011 (USA),7.2,229568,400
+Grave of the Fireflies,1988,Not Rated,1h 29min,Animation; Drama; War; ,26 July 1989 (USA),8.5,221955,707
+Megamind,2010,PG,1h 35min,Animation; Action; Comedy; ,5 November 2010 (USA),7.2,221204,255
+Ice Age: Dawn of the Dinosaurs,2009,PG,1h 34min,Animation; Adventure; Comedy; ,1 July 2009 (USA),6.9,217346,148
+Hotel Transylvania,2012,PG,1h 31min,Animation; Comedy; ,28 September 2012 (USA),7.1,217079,225
+The Adventures of Tintin,2011,PG,1h 47min,Animation; Action; Adventure; ,21 December 2011 (USA),7.3,212112,497
+Minions,2015,PG,1h 31min,Animation; Adventure; Comedy; ,10 July 2015 (USA),6.4,206432,352
+Rio,2011,G,1h 36min,Animation; Adventure; Comedy; ,15 April 2011 (USA),6.9,201298,212
+Cloudy with a Chance of Meatballs,2009,PG,1h 30min,Animation; Adventure; Comedy; ,18 September 2009 (USA),6.9,198668,183
+Hercules,1997,G,1h 33min,Animation; Adventure; Comedy; ,27 June 1997 (USA),7.3,198490,218
+Madagascar: Escape 2 Africa,2008,PG,1h 29min,Animation; Adventure; Comedy; ,7 November 2008 (USA),6.6,198485,144
+Tarzan,1999,G,1h 28min,Animation; Adventure; ,18 June 1999 (USA),7.3,196820,296
+The Lion King,2019,PG,1h 58min,Animation; Adventure; Drama; ,19 July 2019 (USA),6.9,195404,2871
+Fantastic Mr. Fox,2009,PG,1h 27min,Animation; Adventure; Comedy; ,25 November 2009 (USA),7.9,191094,323
+Coraline,2009,PG,1h 40min,Animation; Drama; ,6 February 2009 (USA),7.7,189260,375
+"South Park: Bigger, Longer & Uncut",1999,R,1h 21min,Animation; Comedy; Fantasy; ,30 June 1999 (USA),7.7,189125,957
+Ice Age: Continental Drift,2012,PG,1h 28min,Animation; Adventure; Comedy; ,13 July 2012 (USA),6.6,186465,152
+The Croods,2013,PG,1h 38min,Animation; Action; Adventure; ,22 March 2013 (USA),7.2,185579,234
+Bolt,2008,PG,1h 36min,Animation; Adventure; Comedy; ,21 November 2008 (USA),6.8,184675,214
+Toy Story 4,2019,G,1h 40min,Animation; Adventure; Comedy; ,21 June 2019 (USA),7.8,184363,1271
+Shrek Forever After,2010,PG,1h 33min,Animation; Adventure; Comedy; ,21 May 2010 (USA),6.3,179074,210
+The Secret Life of Pets,2016,PG,1h 27min,Animation; Adventure; Comedy; ,8 July 2016 (USA),6.5,178058,333
+Who Framed Roger Rabbit,1988,PG,1h 44min,Animation; Adventure; Comedy; ,22 June 1988 (USA),7.7,177334,286
+Snow White and the Seven Dwarfs,1937,Approved,1h 23min,Animation; Fantasy; ,4 February 1938 (USA),7.6,175923,250
+The Emperor's New Groove,2000,G,1h 18min,Animation; Adventure; Comedy; ,15 December 2000 (USA),7.3,173677,326
+Your Name.,2016,PG,1h 46min,Animation; Drama; Fantasy; ,7 April 2017 (USA),8.4,173204,624
+Enchanted,2007,PG,1h 47min,Animation; Comedy; ,21 November 2007 (USA),7.0,172996,419
+Chicken Run,2000,G,1h 24min,Animation; Adventure; Comedy; ,23 June 2000 (USA),7.0,172974,388
+Sausage Party,2016,R,1h 29min,Animation; Adventure; Comedy; ,12 August 2016 (USA),6.1,170630,544
+The Iron Giant,1999,PG,1h 26min,Animation; Action; Adventure; ,6 August 1999 (USA),8.0,167070,577
+The Polar Express,2004,G,1h 40min,Animation; Adventure; Comedy; ,10 November 2004 (USA),6.6,167034,521
+Happy Feet,2006,PG,1h 48min,Animation; Adventure; Comedy; ,17 November 2006 (USA),6.4,165838,585
+Pocahontas,1995,G,1h 21min,Animation; Adventure; Drama; ,23 June 1995 (USA),6.7,164719,262
+Shark Tale,2004,PG,1h 30min,Animation; Adventure; Comedy; ,1 October 2004 (USA),6.0,162954,317
+Lilo & Stitch,2002,PG,1h 25min,Animation; Adventure; Comedy; ,21 June 2002 (USA),7.2,162337,394
+The Jungle Book,1967,G,1h 18min,Animation; Adventure; ,18 October 1967 (USA),7.6,161262,170
+Mary and Max,2009,Not Rated,1h 32min,Animation; Comedy; Drama; ,9 April 2009 (Australia),8.1,159951,232
+Beowulf,2007,PG-13,1h 55min,Animation; Action; Adventure; ,16 November 2007 (USA),6.2,159254,535
+Madagascar 3: Europe's Most Wanted,2012,PG,1h 33min,Animation; Adventure; Comedy; ,8 June 2012 (USA),6.8,157811,187
+Akira,1988,R,2h 4min,Animation; Drama; Sci-Fi; ,16 July 1988 (Japan),8.0,157623,526
+Space Jam,1996,PG,1h 28min,Animation; Adventure; Comedy; ,15 November 1996 (USA),6.4,157470,184
+Over the Hedge,2006,PG,1h 23min,Animation; Adventure; Comedy; ,19 May 2006 (USA),6.7,155579,292
+Cars 2,2011,G,1h 46min,Animation; Adventure; Comedy; ,24 June 2011 (USA),6.1,153400,336
+Rise of the Guardians,2012,PG,1h 37min,Animation; Action; Adventure; ,21 November 2012 (USA),7.3,152650,215
+One Hundred and One Dalmatians,1961,G,1h 19min,Animation; Adventure; Comedy; ,25 January 1961 (USA),7.2,148001,138
+Antz,1998,PG,1h 23min,Animation; Adventure; Comedy; ,2 October 1998 (USA),6.5,143835,307
+Castle in the Sky,1986,PG,2h 5min,Animation; Adventure; Drama; ,2 August 1986 (Japan),8.0,143574,231
+Monsters vs. Aliens,2009,PG,1h 34min,Animation; Action; Adventure; ,27 March 2009 (USA),6.4,143391,211
+Nausicaä of the Valley of the Wind,1984,PG,1h 57min,Animation; Adventure; Fantasy; ,25 November 1987 (USA),8.1,142815,236
+Cinderella,1950,G,1h 14min,Animation; Fantasy; ,4 March 1950 (USA),7.3,141190,154
+Puss in Boots,2011,PG,1h 30min,Animation; Adventure; Comedy; ,28 October 2011 (USA),6.6,140720,154
+Schindler's List,1993,R,3h 15min,Biography; Drama; History; ,4 February 1994 (USA),8.9,1173324,1814
+The Wolf of Wall Street,2013,R,3h,Biography; Crime; Drama; ,25 December 2013 (USA),8.2,1128148,1436
+Goodfellas,1990,R,2h 26min,Biography; Crime; Drama; ,21 September 1990 (USA),8.7,982784,1296
+Braveheart,1995,R,2h 58min,Biography; Drama; History; ,24 May 1995 (USA),8.3,936728,1271
+A Beautiful Mind,2001,PG-13,2h 15min,Biography; Drama; ,4 January 2002 (USA),8.2,821709,1292
+Catch Me If You Can,2002,PG-13,2h 21min,Biography; Crime; Drama; ,25 December 2002 (USA),8.1,790873,828
+The Intouchables,2011,R,1h 52min,Biography; Comedy; Drama; ,13 July 2012 (India),8.5,731145,622
+The Pianist,2002,R,2h 30min,Biography; Drama; Music; ,28 March 2003 (USA),8.5,701576,924
+The Imitation Game,2014,PG-13,1h 54min,Biography; Drama; Thriller; ,25 December 2014 (USA),8.0,662291,825
+The King's Speech,2010,R,1h 58min,Biography; Drama; History; ,25 December 2010 (USA),8.0,624817,754
+12 Years a Slave,2013,R,2h 14min,Biography; Drama; History; ,8 November 2013 (USA),8.1,619715,869
+The Social Network,2010,PG-13,2h,Biography; Drama; ,1 October 2010 (USA),7.7,604248,869
+Argo,2012,R,2h,Biography; Drama; Thriller; ,12 October 2012 (USA),7.7,560352,789
+Into the Wild,2007,R,2h 28min,Adventure; Biography; Drama; ,19 October 2007 (USA),8.1,556447,939
+The Pursuit of Happyness,2006,PG-13,1h 57min,Biography; Drama; ,15 December 2006 (USA),8.0,433708,769
+Bohemian Rhapsody,2018,PG-13,2h 14min,Biography; Drama; Music; ,2 November 2018 (USA),8.0,428335,3356
+Dallas Buyers Club,2013,R,1h 57min,Biography; Drama; ,22 November 2013 (USA),8.0,427034,408
+American Sniper,2014,R,2h 13min,Action; Biography; Drama; ,16 January 2015 (USA),7.3,426309,1036
+Rush,2013,R,2h 3min,Biography; Drama; Sport; ,27 September 2013 (USA),8.1,419377,564
+Hacksaw Ridge,2016,R,2h 19min,Biography; Drama; History; ,4 November 2016 (USA),8.1,412911,893
+Captain Phillips,2013,PG-13,2h 14min,Biography; Crime; Drama; ,11 October 2013 (USA),7.8,409137,623
+Spotlight,2015,R,2h 9min,Biography; Crime; Drama; ,20 November 2015 (USA),8.1,401931,601
+The Theory of Everything,2014,PG-13,2h 3min,Biography; Drama; Romance; ,26 November 2014 (USA),7.7,387358,500
+American Gangster,2007,R,2h 37min,Biography; Crime; Drama; ,2 November 2007 (USA),7.8,381835,495
+Amadeus,1984,R,2h 40min,Biography; Drama; History; ,19 September 1984 (USA),8.3,358503,634
+Moneyball,2011,PG-13,2h 13min,Biography; Drama; Sport; ,23 September 2011 (USA),7.6,350546,409
+The Big Short,2015,R,2h 10min,Biography; Comedy; Drama; ,23 December 2015 (USA),7.8,344612,535
+127 Hours,2010,R,1h 34min,Biography; Drama; ,28 January 2011 (USA),7.6,340395,481
+Green Book,2018,PG-13,2h 10min,Biography; Comedy; Drama; ,16 November 2018 (USA),8.2,332263,1453
+The Fighter,2010,R,1h 56min,Biography; Drama; Sport; ,17 December 2010 (USA),7.8,332120,443
+Hotel Rwanda,2004,PG-13,2h 1min,Biography; Drama; History; ,4 February 2005 (USA),8.1,327493,669
+The Aviator,2004,PG-13,2h 50min,Biography; Drama; ,25 December 2004 (USA),7.5,325104,838
+Downfall,2004,R,2h 36min,Biography; Drama; History; ,8 April 2005 (USA),8.2,322655,633
+Raging Bull,1980,R,2h 9min,Biography; Drama; Sport; ,19 December 1980 (USA),8.2,311225,583
+The Irishman,2019,R,3h 29min,Biography; Crime; Drama; ,27 November 2019 (USA),7.9,297140,2676
+The Blind Side,2009,PG-13,2h 9min,Biography; Drama; Sport; ,20 November 2009 (USA),7.6,283748,507
+Public Enemies,2009,R,2h 20min,Biography; Crime; Drama; ,1 July 2009 (USA),7.0,275842,639
+Donnie Brasco,1997,R,2h 7min,Biography; Crime; Drama; ,28 February 1997 (USA),7.7,269135,283
+Lone Survivor,2013,R,2h 1min,Action; Biography; Drama; ,10 January 2014 (USA),7.5,260009,491
+Lawrence of Arabia,1962,Approved,3h 48min,Adventure; Biography; Drama; ,11 December 1962 (UK),8.3,259310,666
+Lincoln,2012,PG-13,2h 30min,Biography; Drama; History; ,16 November 2012 (USA),7.3,239112,794
+Blow,2001,R,2h 4min,Biography; Crime; Drama; ,6 April 2001 (USA),7.6,235138,454
+Changeling,2008,R,2h 21min,Biography; Crime; Drama; ,31 October 2008 (USA),7.7,232041,432
+Ford v Ferrari,2019,PG-13,2h 32min,Action; Biography; Drama; ,15 November 2019 (USA),8.1,232004,1265
+Dog Day Afternoon,1975,R,2h 5min,Biography; Crime; Drama; ,25 December 1975 (USA),8.0,229265,321
+Walk the Line,2005,PG-13,2h 16min,Biography; Drama; Music; ,18 November 2005 (USA),7.8,227982,897
+Sully,2016,PG-13,1h 36min,Biography; Drama; ,9 September 2016 (USA),7.4,226801,477
+The Greatest Showman,2017,PG,1h 45min,Biography; Drama; ,20 December 2017 (USA),7.6,222573,1796
+Gandhi,1982,PG,3h 11min,Biography; Drama; History; ,25 February 1983 (USA),8.0,214287,298
+The Elephant Man,1980,PG,2h 4min,Biography; Drama; ,10 October 1980 (USA),8.1,212720,416
+Ip Man,2008,R,1h 46min,Action; Biography; Drama; ,12 December 2008 (China),8.0,206556,210
+Lion,2016,PG-13,1h 58min,Biography; Drama; ,6 January 2017 (USA),8.0,204274,546
+BlacKkKlansman,2018,R,2h 15min,Biography; Crime; Drama; ,10 August 2018 (USA),7.5,199225,841
+Butch Cassidy and the Sundance Kid,1969,PG,1h 50min,Biography; Crime; Drama; ,24 September 1969 (USA),8.0,198267,425
+The Sound of Music,1965,G,2h 52min,Biography; Drama; ,1 April 1965 (USA),8.0,197238,482
+Finding Neverland,2004,PG,1h 46min,Biography; Drama; ,17 December 2004 (USA),7.7,195635,656
+Remember the Titans,2000,PG,1h 53min,Biography; Drama; Sport; ,29 September 2000 (USA),7.8,193009,452
+Everest,2015,PG-13,2h 1min,Action; Adventure; Biography; ,25 September 2015 (USA),7.1,191623,335
+Hidden Figures,2016,PG,2h 7min,Biography; Drama; History; ,6 January 2017 (USA),7.8,191159,500
+Straight Outta Compton,2015,R,2h 27min,Biography; Drama; History; ,14 August 2015 (USA),7.9,174973,385
+Cinderella Man,2005,PG-13,2h 24min,Biography; Drama; History; ,3 June 2005 (USA),8.0,172730,595
+Jarhead,2005,R,2h 5min,Action; Biography; Drama; ,4 November 2005 (USA),7.0,172053,695
+The Last King of Scotland,2006,R,2h 3min,Biography; Drama; History; ,19 January 2007 (USA),7.7,172012,371
+"I, Tonya",2017,R,1h 59min,Biography; Comedy; Drama; ,19 January 2018 (USA),7.5,170713,472
+War Dogs,2016,R,1h 54min,Biography; Comedy; Crime; ,19 August 2016 (USA),7.1,170314,215
+Erin Brockovich,2000,R,2h 11min,Biography; Drama; ,17 March 2000 (USA),7.3,169430,525
+The Assassination of Jesse James by the Coward Robert Ford,2007,R,2h 40min,Biography; Crime; Drama; ,19 October 2007 (USA),7.5,164772,466
+Black Mass,2015,R,2h 3min,Biography; Crime; Drama; ,18 September 2015 (USA),6.9,163703,335
+Darkest Hour,2017,PG-13,2h 5min,Biography; Drama; ,22 December 2017 (USA),7.4,163237,629
+Ed Wood,1994,R,2h 7min,Biography; Comedy; Drama; ,7 October 1994 (USA),7.8,162359,460
+Milk,2008,R,2h 8min,Biography; Drama; ,30 January 2009 (USA),7.5,161721,310
+The Favourite,2018,R,1h 59min,Biography; Comedy; Drama; ,21 December 2018 (USA),7.5,160787,1196
+Alexander,2004,R,2h 55min,Action; Biography; Drama; ,24 November 2004 (USA),5.6,159847,1430
+"Girl, Interrupted",1999,R,2h 7min,Biography; Drama; ,14 January 2000 (USA),7.3,159130,418
+The Danish Girl,2015,R,1h 59min,Biography; Drama; Romance; ,22 January 2016 (USA),7.1,158324,289
+The Insider,1999,R,2h 37min,Biography; Drama; Thriller; ,5 November 1999 (USA),7.8,156188,546
+First Man,2018,PG-13,2h 21min,Biography; Drama; History; ,12 October 2018 (USA),7.3,155735,1305
+Legend,2015,R,2h 12min,Biography; Crime; Drama; ,20 November 2015 (USA),6.9,152203,266
+American Made,2017,R,1h 55min,Action; Biography; Comedy; ,29 September 2017 (USA),7.2,151699,332
+In the Name of the Father,1993,R,2h 13min,Biography; Drama; ,25 February 1994 (USA),8.1,151362,184
+Steve Jobs,2015,R,2h 2min,Biography; Drama; ,23 October 2015 (USA),7.2,149109,409
+Saving Mr. Banks,2013,PG-13,2h 5min,Biography; Comedy; Drama; ,20 December 2013 (USA),7.5,148154,354
+Invictus,2009,PG-13,2h 14min,Biography; Drama; History; ,11 December 2009 (USA),7.3,146805,277
+Dangal,2016,Not Rated,2h 41min,Action; Biography; Drama; ,21 December 2016 (USA),8.4,144657,385
+Unbroken,2014,PG-13,2h 17min,Biography; Drama; Sport; ,25 December 2014 (USA),7.2,141388,429
+Ray,2004,PG-13,2h 32min,Biography; Drama; Music; ,29 October 2004 (USA),7.7,135305,460
+Monster,2003,R,1h 49min,Biography; Crime; Drama; ,30 January 2004 (USA),7.3,131859,568
+Foxcatcher,2014,R,2h 14min,Biography; Drama; Sport; ,16 January 2015 (USA),7.0,131687,335
+The Disaster Artist,2017,R,1h 44min,Biography; Comedy; Drama; ,8 December 2017 (USA),7.4,131444,395
+Molly's Game,2017,R,2h 20min,Biography; Crime; Drama; ,5 January 2018 (USA),7.4,130955,356
+Snowden,2016,R,2h 14min,Biography; Crime; Drama; ,16 September 2016 (USA),7.3,130626,240
+Joy,2015,PG-13,2h 4min,Biography; Drama; ,25 December 2015 (USA),6.6,124767,328
+Seven Years in Tibet,1997,PG-13,2h 16min,Adventure; Biography; Drama; ,10 October 1997 (USA),7.1,123376,147
+"Good Morning, Vietnam",1987,R,2h 1min,Biography; Comedy; Drama; ,15 January 1988 (USA),7.3,122643,155
+Capote,2005,R,1h 54min,Biography; Crime; Drama; ,3 February 2006 (USA),7.3,122624,448
+Coach Carter,2005,PG-13,2h 16min,Biography; Drama; Sport; ,14 January 2005 (USA),7.3,122245,237
+Tombstone,1993,R,2h 10min,Action; Biography; Drama; ,25 December 1993 (USA),7.8,122041,502
+Man on the Moon,1999,R,1h 58min,Biography; Comedy; Drama; ,22 December 1999 (USA),7.4,121652,572
+Spartacus,1960,PG-13,3h 17min,Adventure; Biography; Drama; ,17 November 1960 (Brazil),7.9,120924,319
+Rocketman,2019,R,2h 1min,Biography; Drama; Music; ,31 May 2019 (USA),7.3,120434,944
+Guardians of the Galaxy,2014,PG-13,2h 1min,Comedy; ,1 August 2014 (USA),8.0,1017578,1390
+Back to the Future,1985,PG,1h 56min,Comedy; ,3 July 1985 (USA),8.5,1015437,1178
+Finding Nemo,2003,G,1h 40min,Comedy; ,30 May 2003 (USA),8.1,922237,968
+Up,2009,PG,1h 36min,Comedy; ,29 May 2009 (USA),8.2,905205,891
+The Truman Show,1998,PG,1h 43min,Comedy; ,5 June 1998 (USA),8.1,901368,1152
+Deadpool,2016,R,1h 48min,Comedy; ,12 February 2016 (USA),8.0,876235,1440
+Toy Story,1995,G,1h 21min,Comedy; ,22 November 1995 (USA),8.3,858390,606
+"Monsters, Inc.",2001,G,1h 32min,Comedy; ,2 November 2001 (USA),8.0,789914,681
+Snatch,2000,R,1h 42min,Comedy; ,19 January 2001 (USA),8.3,761777,837
+Toy Story 3,2010,G,1h 43min,Comedy; ,18 June 2010 (USA),8.3,735087,884
+The Intouchables,2011,R,1h 52min,Comedy; ,13 July 2012 (India),8.5,731286,622
+The Big Lebowski,1998,R,1h 57min,Comedy; ,6 March 1998 (USA),8.1,706193,1225
+The Hangover,2009,R,1h 40min,Comedy; ,5 June 2009 (USA),7.7,702442,718
+Amélie,2001,R,2h 2min,Comedy; Romance; ,8 February 2002 (USA),8.3,686825,1481
+The Grand Budapest Hotel,2014,R,1h 39min,Comedy; ,28 March 2014 (USA),8.1,682068,865
+Silver Linings Playbook,2012,R,2h 2min,Comedy; Romance; ,25 December 2012 (USA),7.7,648078,836
+Ratatouille,2007,G,1h 51min,Comedy; ,29 June 2007 (USA),8.0,620481,741
+Life Is Beautiful,1997,PG-13,1h 56min,Comedy; Romance; ,12 February 1999 (USA),8.6,600633,1318
+Shrek,2001,PG,1h 30min,Comedy; ,18 May 2001 (USA),7.8,596584,1063
+Inside Out,2015,PG,1h 35min,Comedy; ,19 June 2015 (USA),8.1,587091,1027
+Kingsman: The Secret Service,2014,R,2h 9min,Comedy; ,13 February 2015 (USA),7.7,576034,936
+Groundhog Day,1993,PG,1h 41min,Comedy; Romance; ,12 February 1993 (USA),8.0,566305,769
+Birdman or (The Unexpected Virtue of Ignorance),2014,R,1h 59min,Comedy; ,14 November 2014 (USA),7.7,561924,1379
+Ted,2012,R,1h 46min,Comedy; ,29 June 2012 (USA),6.9,559723,658
+Thor: Ragnarok,2017,PG-13,2h 10min,Comedy; ,3 November 2017 (USA),7.9,557789,1578
+Frozen,2013,PG,1h 42min,Comedy; ,27 November 2013 (USA),7.4,557363,1110
+Ant-Man,2015,PG-13,1h 57min,Comedy; ,17 July 2015 (USA),7.3,549225,718
+Guardians of the Galaxy Vol. 2,2017,PG-13,2h 16min,Comedy; ,5 May 2017 (USA),7.6,544505,1044
+"Lock, Stock and Two Smoking Barrels",1998,R,1h 47min,Comedy; ,28 August 1998 (UK),8.2,521113,582
+Kick-Ass,2010,R,1h 57min,Comedy; ,16 April 2010 (USA),7.6,515837,845
+Toy Story 2,1999,G,1h 32min,Comedy; ,24 November 1999 (USA),7.9,511333,611
+Superbad,2007,R,1h 53min,Comedy; ,17 August 2007 (USA),7.6,508483,655
+Zombieland,2009,R,1h 28min,Comedy; ,2 October 2009 (USA),7.6,507445,712
+Men in Black,1997,PG-13,1h 38min,Comedy; ,2 July 1997 (USA),7.3,504085,344
+21 Jump Street,2012,R,1h 49min,Comedy; ,16 March 2012 (USA),7.2,499686,401
+Shaun of the Dead,2004,R,1h 39min,Comedy; ,24 September 2004 (USA),7.9,499316,971
+Despicable Me,2010,PG,1h 35min,Comedy; ,9 July 2010 (USA),7.6,488655,360
+Monty Python and the Holy Grail,1975,PG,1h 31min,Comedy; ,6 December 1979 (India),8.2,488567,774
+Once Upon a Time... in Hollywood,2019,R,2h 41min,Comedy; ,26 July 2019 (USA),7.7,488535,5064
+La La Land,2016,PG-13,2h 8min,Comedy; ,25 December 2016 (USA),8.0,483017,1774
+Juno,2007,PG-13,1h 36min,Comedy; ,25 December 2007 (USA),7.4,481757,925
+American Psycho,2000,R,1h 41min,Comedy; ,14 April 2000 (USA),7.6,468059,1258
+Back to the Future Part II,1989,PG,1h 48min,Comedy; ,22 November 1989 (USA),7.8,462540,414
+500 Days of Summer,2009,PG-13,1h 35min,Comedy; Romance; ,7 August 2009 (USA),7.7,461834,601
+"Crazy, Stupid, Love",2011,PG-13,1h 58min,Comedy; Romance; ,29 July 2011 (USA),7.4,460023,370
+Deadpool 2,2018,R,1h 59min,Comedy; ,18 May 2018 (USA),7.7,455361,1310
+The Hangover Part II,2011,R,1h 42min,Comedy; ,26 May 2011 (USA),6.4,453967,421
+Hot Fuzz,2007,R,2h 1min,Comedy; ,20 April 2007 (USA),7.8,450327,811
+Home Alone,1990,PG,1h 43min,Comedy; ,16 November 1990 (USA),7.6,448866,422
+Parasite,2019,R,2h 12min,Comedy; ,8 November 2019 (USA),8.6,443010,2601
+Mr. & Mrs. Smith,2005,PG-13,2h,Comedy; ,10 June 2005 (USA),6.5,439831,829
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,1h 35min,Comedy; ,29 January 1964 (USA),8.4,438092,933
+Little Miss Sunshine,2006,R,1h 41min,Comedy; ,18 August 2006 (USA),7.8,429216,950
+Ice Age,2002,PG,1h 21min,Comedy; ,15 March 2002 (USA),7.5,428871,491
+Zootopia,2016,PG,1h 48min,Comedy; ,4 March 2016 (USA),8.0,417325,711
+Horrible Bosses,2011,R,1h 38min,Comedy; ,8 July 2011 (USA),6.9,413945,439
+Love Actually,2003,R,2h 15min,Comedy; Romance; ,14 November 2003 (USA),7.6,413896,1136
+Charlie and the Chocolate Factory,2005,PG,1h 55min,Comedy; ,15 July 2005 (USA),6.6,413780,1436
+Shrek 2,2004,PG,1h 33min,Comedy; ,19 May 2004 (USA),7.2,407590,542
+Dead Poets Society,1989,PG,2h 8min,Comedy; ,9 June 1989 (USA),8.1,407018,626
+"Three Billboards Outside Ebbing, Missouri",2017,R,1h 55min,Comedy; ,1 December 2017 (USA),8.2,404557,1169
+Lost in Translation,2003,R,1h 42min,Comedy; ,3 October 2003 (USA),7.7,399082,1974
+Tangled,2010,PG,1h 40min,Comedy; ,24 November 2010 (USA),7.7,393363,489
+The Terminal,2004,PG-13,2h 8min,Comedy; Romance; ,18 June 2004 (USA),7.4,393039,702
+We're the Millers,2013,R,1h 50min,Comedy; ,7 August 2013 (USA),7.0,392433,381
+Back to the Future Part III,1990,PG,1h 58min,Comedy; ,25 May 1990 (USA),7.4,389841,335
+The 40-Year-Old Virgin,2005,R,1h 56min,Comedy; Romance; ,19 August 2005 (USA),7.1,384072,587
+In Bruges,2008,R,1h 47min,Comedy; ,29 February 2008 (USA),7.9,381466,628
+Midnight in Paris,2011,PG-13,1h 34min,Comedy; Romance; ,10 June 2011 (USA),7.7,376680,609
+This Is the End,2013,R,1h 47min,Comedy; ,12 June 2013 (USA),6.6,376448,760
+Tropic Thunder,2008,R,1h 47min,Comedy; ,13 August 2008 (USA),7.0,369967,630
+Wreck-It Ralph,2012,PG,1h 41min,Comedy; ,2 November 2012 (USA),7.7,369121,443
+American Pie,1999,R,1h 35min,Comedy; ,9 July 1999 (USA),7.0,368148,807
+Scott Pilgrim vs. the World,2010,PG-13,1h 52min,Comedy; ,13 August 2010 (USA),7.5,364286,663
+Bruce Almighty,2003,PG-13,1h 41min,Comedy; ,23 May 2003 (USA),6.8,363633,640
+Brave,2012,PG,1h 33min,Comedy; ,22 June 2012 (USA),7.1,361984,515
+Despicable Me 2,2013,PG,1h 38min,Comedy; ,3 July 2013 (USA),7.3,361446,321
+Aladdin,1992,G,1h 30min,Comedy; ,25 November 1992 (USA),8.0,361080,330
+The Devil Wears Prada,2006,PG-13,1h 49min,Comedy; ,30 June 2006 (USA),6.9,359709,705
+Monty Python's Life of Brian,1979,R,1h 34min,Comedy; ,17 August 1979 (USA),8.1,356682,392
+Madagascar,2005,PG,1h 26min,Comedy; ,27 May 2005 (USA),6.9,355425,420
+Cars,2006,G,1h 57min,Comedy; ,9 June 2006 (USA),7.1,355079,663
+Easy A,2010,PG-13,1h 32min,Comedy; Romance; ,17 September 2010 (USA),7.0,348230,339
+Dumb and Dumber,1994,PG-13,1h 47min,Comedy; ,16 December 1994 (USA),7.3,345454,473
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,R,1h 24min,Comedy; ,3 November 2006 (USA),7.3,345007,1247
+Ghostbusters,1984,PG,1h 45min,Comedy; ,8 June 1984 (USA),7.8,344766,555
+The Big Short,2015,R,2h 10min,Comedy; ,23 December 2015 (USA),7.8,344748,536
+The Breakfast Club,1985,R,1h 37min,Comedy; ,15 February 1985 (USA),7.9,344566,871
+Knocked Up,2007,R,2h 9min,Comedy; Romance; ,1 June 2007 (USA),6.9,343791,584
+Knives Out,2019,PG-13,2h 10min,Comedy; ,27 November 2019 (USA),7.9,342300,2175
+22 Jump Street,2014,R,1h 52min,Comedy; ,13 June 2014 (USA),7.0,337286,355
+The Mask,1994,PG-13,1h 41min,Comedy; ,29 July 1994 (USA),6.9,335546,278
+Men in Black II,2002,PG-13,1h 28min,Comedy; ,3 July 2002 (USA),6.2,335021,647
+Green Book,2018,PG-13,2h 10min,Comedy; ,16 November 2018 (USA),8.2,332517,1453
+Friends with Benefits,2011,R,1h 49min,Comedy; Romance; ,22 July 2011 (USA),6.5,332366,238
+3 Idiots,2009,PG-13,2h 50min,Comedy; ,25 December 2009 (India),8.4,328127,622
+Yes Man,2008,PG-13,1h 44min,Comedy; Romance; ,19 December 2008 (USA),6.8,327950,302
+Men in Black 3,2012,PG-13,1h 46min,Comedy; ,25 May 2012 (USA),6.8,327676,388
+Wedding Crashers,2005,R,1h 59min,Comedy; Romance; ,15 July 2005 (USA),6.9,326314,667
+Anchorman: The Legend of Ron Burgundy,2004,PG-13,1h 34min,Comedy; ,9 July 2004 (USA),7.2,322831,618
+The Dark Knight,2008,PG-13,2h 32min,Action; Crime; Drama; ,18 July 2008 (USA),9.0,2224522,6836
+Pulp Fiction,1994,R,2h 34min,Crime; Drama; ,14 October 1994 (USA),8.9,1767445,3014
+The Godfather,1972,R,2h 55min,Crime; Drama; ,24 March 1972 (USA),9.2,1558661,3886
+Se7en,1995,R,2h 7min,Crime; Drama; Mystery; ,22 September 1995 (USA),8.6,1390231,1460
+The Silence of the Lambs,1991,R,1h 58min,Crime; Drama; Thriller; ,14 February 1991 (USA),8.6,1223451,1298
+The Departed,2006,R,2h 31min,Crime; Drama; Thriller; ,6 October 2006 (USA),8.5,1150788,2313
+The Wolf of Wall Street,2013,R,3h,Biography; Crime; Drama; ,25 December 2013 (USA),8.2,1128148,1436
+The Green Mile,1999,R,3h 9min,Crime; Drama; Fantasy; ,10 December 1999 (USA),8.6,1101707,1725
+The Godfather: Part II,1974,R,3h 22min,Crime; Drama; ,18 December 1974 (USA),9.0,1089268,1007
+Léon: The Professional,1994,R,1h 50min,Action; Crime; Drama; ,18 November 1994 (USA),8.5,999596,1193
+Goodfellas,1990,R,2h 26min,Biography; Crime; Drama; ,21 September 1990 (USA),8.7,982784,1296
+Kill Bill: Vol. 1,2003,R,1h 51min,Action; Crime; Thriller; ,10 October 2003 (USA),8.1,970439,2272
+The Usual Suspects,1995,R,1h 46min,Crime; Mystery; Thriller; ,16 August 1995 (USA),8.5,961807,1355
+Reservoir Dogs,1992,R,1h 39min,Crime; Drama; Thriller; ,2 September 1992 (France),8.3,889962,1145
+No Country for Old Men,2007,R,2h 2min,Crime; Drama; Thriller; ,21 November 2007 (USA),8.1,823136,1824
+Joker,2019,R,2h 2min,Crime; Drama; Thriller; ,4 October 2019 (USA),8.5,822351,10279
+Catch Me If You Can,2002,PG-13,2h 21min,Biography; Crime; Drama; ,25 December 2002 (USA),8.1,790873,828
+Snatch,2000,R,1h 42min,Comedy; Crime; ,19 January 2001 (USA),8.3,761662,837
+A Clockwork Orange,1971,R,2h 16min,Crime; Drama; Sci-Fi; ,2 February 1972 (USA),8.3,735080,1553
+Sin City,2005,R,2h 4min,Crime; Thriller; ,1 April 2005 (USA),8.0,731417,1777
+Scarface,1983,R,2h 50min,Crime; Drama; ,9 December 1983 (USA),8.3,715023,1029
+The Big Lebowski,1998,R,1h 57min,Comedy; Crime; Sport; ,6 March 1998 (USA),8.1,705941,1225
+Taxi Driver,1976,R,1h 54min,Crime; Drama; ,9 February 1976 (USA),8.3,696631,1161
+City of God,2002,R,2h 10min,Crime; Drama; ,13 February 2004 (USA),8.6,681961,997
+The Grand Budapest Hotel,2014,R,1h 39min,Adventure; Comedy; Crime; ,28 March 2014 (USA),8.1,681915,865
+Kill Bill: Vol. 2,2004,R,2h 17min,Action; Crime; Thriller; ,16 April 2004 (USA),8.0,663568,1022
+12 Angry Men,1957,Approved,1h 36min,Crime; Drama; ,10 April 1957 (USA),8.9,661761,1575
+Fargo,1996,R,1h 38min,Crime; Drama; Thriller; ,5 April 1996 (USA),8.1,596614,947
+Now You See Me,2013,PG-13,1h 55min,Crime; Mystery; Thriller; ,31 May 2013 (USA),7.3,581643,760
+Prisoners,2013,R,2h 33min,Crime; Drama; Mystery; ,20 September 2013 (USA),8.1,575034,901
+Heat,1995,R,2h 50min,Crime; Drama; Thriller; ,15 December 1995 (USA),8.2,557728,1074
+Drive,2011,R,1h 40min,Crime; Drama; ,16 September 2011 (USA),7.8,554576,1521
+"Lock, Stock and Two Smoking Barrels",1998,R,1h 47min,Action; Comedy; Crime; ,28 August 1998 (UK),8.2,521026,582
+L.A. Confidential,1997,R,2h 18min,Crime; Drama; Mystery; ,19 September 1997 (USA),8.2,518387,710
+Kick-Ass,2010,R,1h 57min,Action; Comedy; Crime; ,16 April 2010 (USA),7.6,515786,844
+John Wick,2014,R,1h 41min,Action; Crime; Thriller; ,24 October 2014 (USA),7.4,514550,1157
+Ocean's Eleven,2001,PG-13,1h 56min,Crime; Thriller; ,7 December 2001 (USA),7.7,500919,932
+21 Jump Street,2012,R,1h 49min,Action; Comedy; Crime; ,16 March 2012 (USA),7.2,499602,401
+Minority Report,2002,PG-13,2h 25min,Action; Crime; Mystery; ,21 June 2002 (USA),7.6,495543,1381
+The Hateful Eight,2015,R,2h 48min,Crime; Drama; Mystery; ,30 December 2015 (USA),7.8,493749,1430
+American Psycho,2000,R,1h 41min,Comedy; Crime; Drama; ,14 April 2000 (USA),7.6,467924,1258
+Casino,1995,R,2h 58min,Crime; Drama; ,22 November 1995 (USA),8.2,448054,623
+Nightcrawler,2014,R,1h 57min,Crime; Drama; Thriller; ,31 October 2014 (USA),7.9,443660,758
+Mr. & Mrs. Smith,2005,PG-13,2h,Action; Comedy; Crime; ,10 June 2005 (USA),6.5,439781,829
+American Hustle,2013,R,2h 18min,Crime; Drama; ,20 December 2013 (USA),7.2,438125,817
+Zodiac,2007,R,2h 37min,Crime; Drama; Mystery; ,2 March 2007 (USA),7.7,436889,768
+Baby Driver,2017,R,1h 53min,Action; Crime; Drama; ,28 June 2017 (USA),7.6,416067,1096
+Horrible Bosses,2011,R,1h 38min,Comedy; Crime; ,8 July 2011 (USA),6.9,413881,439
+Crash,2004,R,1h 52min,Crime; Drama; Thriller; ,6 May 2005 (USA),7.7,413651,1693
+Captain Phillips,2013,PG-13,2h 14min,Biography; Crime; Drama; ,11 October 2013 (USA),7.8,409137,623
+Mystic River,2003,R,2h 18min,Crime; Drama; Mystery; ,15 October 2003 (USA),7.9,408998,1036
+The Girl with the Dragon Tattoo,2011,R,2h 38min,Crime; Drama; Mystery; ,21 December 2011 (USA),7.8,408988,723
+"Three Billboards Outside Ebbing, Missouri",2017,R,1h 55min,Comedy; Crime; Drama; ,1 December 2017 (USA),8.2,404402,1169
+Spotlight,2015,R,2h 9min,Biography; Crime; Drama; ,20 November 2015 (USA),8.1,401931,601
+Gangs of New York,2002,R,2h 47min,Crime; Drama; ,20 December 2002 (USA),7.5,394333,1216
+We're the Millers,2013,R,1h 50min,Comedy; Crime; ,7 August 2013 (USA),7.0,392362,381
+American Gangster,2007,R,2h 37min,Biography; Crime; Drama; ,2 November 2007 (USA),7.8,381835,495
+In Bruges,2008,R,1h 47min,Comedy; Crime; Drama; ,29 February 2008 (USA),7.9,381417,628
+Training Day,2001,R,2h 2min,Crime; Drama; Thriller; ,5 October 2001 (USA),7.7,378412,711
+Sicario,2015,R,2h 1min,Action; Crime; Drama; ,2 October 2015 (USA),7.6,356962,719
+Wanted,2008,R,1h 50min,Action; Crime; Fantasy; ,27 June 2008 (USA),6.7,353620,779
+Collateral,2004,R,2h,Crime; Drama; Thriller; ,6 August 2004 (USA),7.5,350028,890
+Ocean's Twelve,2004,PG-13,2h 5min,Crime; Thriller; ,10 December 2004 (USA),6.5,349317,669
+The Godfather: Part III,1990,R,2h 42min,Crime; Drama; ,25 December 1990 (USA),7.6,347672,652
+John Wick: Chapter 2,2017,R,2h 2min,Action; Crime; Thriller; ,10 February 2017 (USA),7.5,347579,860
+Fast Five,2011,PG-13,2h 10min,Action; Adventure; Crime; ,29 April 2011 (USA),7.3,345450,424
+Face_Off,1997,R,2h 18min,Action; Crime; Sci-Fi; ,27 June 1997 (USA),7.3,341451,609
+Knives Out,2019,PG-13,2h 10min,Comedy; Crime; Drama; ,27 November 2019 (USA),7.9,341415,2172
+The Town,2010,R,2h 5min,Crime; Drama; Thriller; ,17 September 2010 (USA),7.5,341073,498
+The Fast and the Furious,2001,PG-13,1h 46min,Action; Crime; Thriller; ,22 June 2001 (USA),6.8,338840,1059
+22 Jump Street,2014,R,1h 52min,Action; Comedy; Crime; ,13 June 2014 (USA),7.0,337234,355
+The Italian Job,2003,PG-13,1h 51min,Action; Crime; Thriller; ,30 May 2003 (USA),7.0,335566,519
+The Mask,1994,PG-13,1h 41min,Action; Comedy; Crime; ,29 July 1994 (USA),6.9,335452,277
+Inside Man,2006,R,2h 9min,Crime; Drama; Mystery; ,24 March 2006 (USA),7.6,329265,718
+The Equalizer,2014,R,2h 12min,Action; Crime; Thriller; ,26 September 2014 (USA),7.2,322279,613
+Man on Fire,2004,R,2h 26min,Action; Crime; Drama; ,23 April 2004 (USA),7.7,322039,762
+Ocean's Thirteen,2007,PG-13,2h 2min,Action; Crime; Thriller; ,8 June 2007 (USA),6.9,312811,316
+Pineapple Express,2008,R,1h 51min,Action; Comedy; Crime; ,6 August 2008 (USA),6.9,308854,425
+Jackie Brown,1997,R,2h 34min,Crime; Drama; Thriller; ,25 December 1997 (USA),7.5,306877,536
+Burn After Reading,2008,R,1h 36min,Comedy; Crime; Drama; ,12 September 2008 (USA),7.0,301462,622
+Once Upon a Time in America,1984,R,3h 49min,Crime; Drama; ,1 June 1984 (USA),8.4,299388,676
+The Irishman,2019,R,3h 29min,Biography; Crime; Drama; ,27 November 2019 (USA),7.9,297140,2676
+Lucky Number Slevin,2006,R,1h 50min,Crime; Drama; Mystery; ,7 April 2006 (USA),7.7,295883,548
+Home Alone 2: Lost in New York,1992,PG,2h,Adventure; Comedy; Crime; ,20 November 1992 (USA),6.8,289368,261
+Lord of War,2005,R,2h 2min,Action; Crime; Drama; ,16 September 2005 (USA),7.6,288544,482
+Deja Vu,2006,PG-13,2h 6min,Action; Crime; Sci-Fi; ,22 November 2006 (USA),7.0,287330,458
+To Kill a Mockingbird,1962,Approved,2h 9min,Crime; Drama; ,16 March 1963 (USA),8.2,287100,567
+The Hangover Part III,2013,R,1h 40min,Comedy; Crime; ,23 May 2013 (USA),5.8,286488,318
+RED,2010,PG-13,1h 51min,Action; Comedy; Crime; ,15 October 2010 (USA),7.0,282437,362
+3:10 to Yuma,2007,R,2h 2min,Action; Crime; Drama; ,7 September 2007 (USA),7.7,281948,625
+The Transporter,2002,PG-13,1h 32min,Action; Crime; Thriller; ,11 October 2002 (USA),6.8,279981,473
+From Dusk Till Dawn,1996,R,1h 48min,Action; Crime; Horror; ,19 January 1996 (USA),7.2,279303,664
+"O Brother, Where Art Thou?",2000,PG-13,1h 47min,Adventure; Comedy; Crime; ,2 February 2001 (USA),7.7,277150,905
+Public Enemies,2009,R,2h 20min,Biography; Crime; Drama; ,1 July 2009 (USA),7.0,275842,639
+The Untouchables,1987,R,1h 59min,Crime; Drama; Thriller; ,3 June 1987 (USA),7.9,270871,496
+Con Air,1997,R,1h 55min,Action; Crime; Thriller; ,6 June 1997 (USA),6.9,269643,398
+Donnie Brasco,1997,R,2h 7min,Biography; Crime; Drama; ,28 February 1997 (USA),7.7,269135,283
+Batman Returns,1992,PG-13,2h 6min,Action; Crime; Fantasy; ,19 June 1992 (USA),7.0,267156,679
+The Nice Guys,2016,R,1h 56min,Action; Comedy; Crime; ,20 May 2016 (USA),7.4,266631,450
+Law Abiding Citizen,2009,R,1h 49min,Action; Crime; Drama; ,16 October 2009 (USA),7.4,265136,548
+The Shawshank Redemption,1994,R,2h 22min,Drama; ,14 October 1994 (USA),9.3,2258845,8022
+The Dark Knight,2008,PG-13,2h 32min,Action; Crime; Drama; ,18 July 2008 (USA),9.0,2224522,6836
+Fight Club,1999,R,2h 19min,Drama; ,15 October 1999 (USA),8.8,1794454,3719
+Pulp Fiction,1994,R,2h 34min,Crime; Drama; ,14 October 1994 (USA),8.9,1767445,3014
+Forrest Gump,1994,PG-13,2h 22min,Drama; Romance; ,6 July 1994 (USA),8.8,1741097,2354
+The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,2h 58min,Action; Adventure; Drama; ,19 December 2001 (USA),8.8,1609165,5365
+The Lord of the Rings: The Return of the King,2003,PG-13,3h 21min,Adventure; Drama; Fantasy; ,17 December 2003 (USA),8.9,1593859,3681
+The Godfather,1972,R,2h 55min,Crime; Drama; ,24 March 1972 (USA),9.2,1558661,3886
+The Lord of the Rings: The Two Towers,2002,PG-13,2h 59min,Adventure; Drama; Fantasy; ,18 December 2002 (USA),8.7,1440188,2559
+Interstellar,2014,PG-13,2h 49min,Adventure; Drama; Sci-Fi; ,7 November 2014 (USA),8.6,1430797,3977
+Se7en,1995,R,2h 7min,Crime; Drama; Mystery; ,22 September 1995 (USA),8.6,1390231,1460
+Django Unchained,2012,R,2h 45min,Drama; Western; ,25 December 2012 (USA),8.4,1307059,1525
+Gladiator,2000,R,2h 35min,Action; Adventure; Drama; ,5 May 2000 (USA),8.5,1297718,2636
+The Silence of the Lambs,1991,R,1h 58min,Crime; Drama; Thriller; ,14 February 1991 (USA),8.6,1223451,1298
+Inglourious Basterds,2009,R,2h 33min,Adventure; Drama; War; ,21 August 2009 (USA),8.3,1219372,1856
+Saving Private Ryan,1998,R,2h 49min,Drama; War; ,24 July 1998 (USA),8.6,1194194,2588
+Schindler's List,1993,R,3h 15min,Biography; Drama; History; ,4 February 1994 (USA),8.9,1173324,1814
+The Departed,2006,R,2h 31min,Crime; Drama; Thriller; ,6 October 2006 (USA),8.5,1150788,2313
+The Prestige,2006,PG-13,2h 10min,Drama; Mystery; Sci-Fi; ,20 October 2006 (USA),8.5,1144513,1394
+The Wolf of Wall Street,2013,R,3h,Biography; Crime; Drama; ,25 December 2013 (USA),8.2,1128148,1436
+The Green Mile,1999,R,3h 9min,Crime; Drama; Fantasy; ,10 December 1999 (USA),8.6,1101707,1725
+The Godfather: Part II,1974,R,3h 22min,Crime; Drama; ,18 December 1974 (USA),9.0,1089268,1007
+American Beauty,1999,R,2h 2min,Drama; ,1 October 1999 (USA),8.3,1043085,2891
+Titanic,1997,PG-13,3h 14min,Drama; Romance; ,19 December 1997 (USA),7.8,1017237,2863
+American History X,1998,R,1h 59min,Drama; ,20 November 1998 (USA),8.5,1007450,1577
+V for Vendetta,2005,R,2h 12min,Action; Drama; Sci-Fi; ,17 March 2006 (USA),8.2,1002944,2205
+Léon: The Professional,1994,R,1h 50min,Action; Crime; Drama; ,18 November 1994 (USA),8.5,999596,1193
+Goodfellas,1990,R,2h 26min,Biography; Crime; Drama; ,21 September 1990 (USA),8.7,982784,1296
+Braveheart,1995,R,2h 58min,Biography; Drama; History; ,24 May 1995 (USA),8.3,936728,1271
+The Lion King,1994,G,1h 28min,Animation; Adventure; Drama; ,24 June 1994 (USA),8.5,910179,1009
+The Truman Show,1998,PG,1h 43min,Comedy; Drama; Sci-Fi; ,5 June 1998 (USA),8.1,901062,1151
+Reservoir Dogs,1992,R,1h 39min,Crime; Drama; Thriller; ,2 September 1992 (France),8.3,889962,1145
+The Sixth Sense,1999,PG-13,1h 47min,Drama; Mystery; Thriller; ,6 August 1999 (USA),8.1,888920,2223
+One Flew Over the Cuckoo's Nest,1975,R,2h 13min,Drama; ,19 November 1975 (USA),8.7,884818,967
+Eternal Sunshine of the Spotless Mind,2004,R,1h 48min,Drama; Romance; Sci-Fi; ,19 March 2004 (USA),8.3,882495,1800
+The Shining,1980,R,2h 26min,Drama; Horror; ,13 June 1980 (USA),8.4,860290,1805
+Good Will Hunting,1997,R,2h 6min,Drama; Romance; ,9 January 1998 (USA),8.3,830139,887
+Gone Girl,2014,R,2h 29min,Drama; Mystery; Thriller; ,3 October 2014 (USA),8.1,825450,1449
+No Country for Old Men,2007,R,2h 2min,Crime; Drama; Thriller; ,21 November 2007 (USA),8.1,823136,1824
+Joker,2019,R,2h 2min,Crime; Drama; Thriller; ,4 October 2019 (USA),8.5,822351,10279
+A Beautiful Mind,2001,PG-13,2h 15min,Biography; Drama; ,4 January 2002 (USA),8.2,821709,1292
+Catch Me If You Can,2002,PG-13,2h 21min,Biography; Crime; Drama; ,25 December 2002 (USA),8.1,790873,828
+Slumdog Millionaire,2008,R,2h,Drama; Romance; ,25 December 2008 (USA),8.0,782675,1126
+Gravity,2013,PG-13,1h 31min,Drama; Sci-Fi; Thriller; ,4 October 2013 (USA),7.7,751305,2090
+Requiem for a Dream,2000,R,1h 42min,Drama; ,15 December 2000 (USA),8.3,743198,2115
+Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,2h 10min,Adventure; Drama; Fantasy; ,15 July 2011 (USA),8.1,737642,953
+Avengers: Endgame,2019,PG-13,3h 1min,Action; Adventure; Drama; ,26 April 2019 (USA),8.4,736177,8805
+A Clockwork Orange,1971,R,2h 16min,Crime; Drama; Sci-Fi; ,2 February 1972 (USA),8.3,735080,1553
+The Martian,2015,PG-13,2h 24min,Adventure; Drama; Sci-Fi; ,2 October 2015 (USA),8.0,734923,1312
+The Intouchables,2011,R,1h 52min,Biography; Comedy; Drama; ,13 July 2012 (India),8.5,731145,622
+Donnie Darko,2001,R,1h 53min,Drama; Mystery; Sci-Fi; ,30 January 2002 (France),8.0,724910,2276
+300,2006,R,1h 57min,Action; Drama; ,9 March 2007 (USA),7.6,719421,2176
+Scarface,1983,R,2h 50min,Crime; Drama; ,9 December 1983 (USA),8.3,715023,1029
+Gran Torino,2008,R,1h 56min,Drama; ,9 January 2009 (USA),8.1,703113,990
+The Pianist,2002,R,2h 30min,Biography; Drama; Music; ,28 March 2003 (USA),8.5,701576,924
+Taxi Driver,1976,R,1h 54min,Crime; Drama; ,9 February 1976 (USA),8.3,696631,1161
+Whiplash,2014,R,1h 46min,Drama; Music; ,20 February 2015 (India),8.5,683157,1195
+Black Swan,2010,R,1h 48min,Drama; Thriller; ,17 December 2010 (USA),8.0,682523,1273
+City of God,2002,R,2h 10min,Crime; Drama; ,13 February 2004 (USA),8.6,681961,997
+The Revenant,2015,R,2h 36min,Action; Adventure; Drama; ,8 January 2016 (USA),8.0,678829,1594
+I Am Legend,2007,PG-13,1h 41min,Action; Adventure; Drama; ,14 December 2007 (USA),7.2,670748,1543
+The Imitation Game,2014,PG-13,1h 54min,Biography; Drama; Thriller; ,25 December 2014 (USA),8.0,662291,825
+12 Angry Men,1957,Approved,1h 36min,Crime; Drama; ,10 April 1957 (USA),8.9,661761,1575
+Full Metal Jacket,1987,R,1h 56min,Drama; War; ,10 July 1987 (USA),8.3,652861,844
+Silver Linings Playbook,2012,R,2h 2min,Comedy; Drama; Romance; ,25 December 2012 (USA),7.7,647995,835
+The King's Speech,2010,R,1h 58min,Biography; Drama; History; ,25 December 2010 (USA),8.0,624817,754
+Logan,2017,R,2h 17min,Action; Drama; Sci-Fi; ,3 March 2017 (USA),8.1,621174,1559
+Trainspotting,1996,R,1h 33min,Drama; ,9 August 1996 (USA),8.1,620080,623
+12 Years a Slave,2013,R,2h 14min,Biography; Drama; History; ,8 November 2013 (USA),8.1,619715,869
+Million Dollar Baby,2004,PG-13,2h 12min,Drama; Sport; ,28 January 2005 (USA),8.1,618903,1219
+The Social Network,2010,PG-13,2h,Biography; Drama; ,1 October 2010 (USA),7.7,604248,869
+Pan's Labyrinth,2006,R,1h 58min,Drama; Fantasy; War; ,19 January 2007 (USA),8.2,603269,1271
+Life Is Beautiful,1997,PG-13,1h 56min,Comedy; Drama; Romance; ,12 February 1999 (USA),8.6,600493,1317
+Fargo,1996,R,1h 38min,Crime; Drama; Thriller; ,5 April 1996 (USA),8.1,596614,947
+Apocalypse Now,1979,R,2h 27min,Drama; Mystery; War; ,15 August 1979 (USA),8.4,585989,1183
+Prisoners,2013,R,2h 33min,Crime; Drama; Mystery; ,20 September 2013 (USA),8.1,575034,901
+The Curious Case of Benjamin Button,2008,PG-13,2h 46min,Drama; Fantasy; Romance; ,25 December 2008 (USA),7.8,572217,948
+Arrival,2016,PG-13,1h 56min,Drama; Mystery; Sci-Fi; ,11 November 2016 (USA),7.9,569760,1861
+Life of Pi,2012,PG,2h 7min,Adventure; Drama; Fantasy; ,21 November 2012 (USA),7.9,567025,914
+Birdman or (The Unexpected Virtue of Ignorance),2014,R,1h 59min,Comedy; Drama; ,14 November 2014 (USA),7.7,561800,1378
+Argo,2012,R,2h,Biography; Drama; Thriller; ,12 October 2012 (USA),7.7,560352,789
+Heat,1995,R,2h 50min,Crime; Drama; Thriller; ,15 December 1995 (USA),8.2,557728,1074
+Into the Wild,2007,R,2h 28min,Adventure; Biography; Drama; ,19 October 2007 (USA),8.1,556447,939
+Drive,2011,R,1h 40min,Crime; Drama; ,16 September 2011 (USA),7.8,554576,1521
+Looper,2012,R,1h 53min,Action; Drama; Sci-Fi; ,28 September 2012 (USA),7.4,523452,761
+Dunkirk,2017,PG-13,1h 46min,Action; Drama; History; ,21 July 2017 (USA),7.9,523089,2359
+L.A. Confidential,1997,R,2h 18min,Crime; Drama; Mystery; ,19 September 1997 (USA),8.2,518387,710
+Her,2013,R,2h 6min,Drama; Romance; Sci-Fi; ,10 January 2014 (USA),8.0,518282,1060
+Cast Away,2000,PG-13,2h 23min,Adventure; Drama; Romance; ,22 December 2000 (USA),7.8,506369,1180
+Casablanca,1942,PG,1h 42min,Drama; Romance; War; ,23 January 1943 (USA),8.5,506224,1292
+The Notebook,2004,PG-13,2h 3min,Drama; Romance; ,25 June 2004 (USA),7.8,503872,1256
+Rocky,1976,PG,2h,Drama; Sport; ,3 December 1976 (USA),8.1,502746,694
+There Will Be Blood,2007,R,2h 38min,Drama; ,25 January 2008 (USA),8.2,498312,1318
+Oldboy,2003,R,1h 41min,Action; Drama; Mystery; ,21 November 2003 (South Korea),8.4,496687,1000
+The Hateful Eight,2015,R,2h 48min,Crime; Drama; Mystery; ,30 December 2015 (USA),7.8,493749,1430
+Rise of the Planet of the Apes,2011,PG-13,1h 45min,Action; Drama; Sci-Fi; ,5 August 2011 (USA),7.6,488748,706
+"I, Robot",2004,PG-13,1h 55min,Action; Drama; Sci-Fi; ,16 July 2004 (USA),7.1,488324,839
+Once Upon a Time... in Hollywood,2019,R,2h 41min,Comedy; Drama; ,26 July 2019 (USA),7.7,488015,5060
+Watchmen,2009,R,2h 42min,Action; Drama; Mystery; ,6 March 2009 (USA),7.6,487717,1398
+Blood Diamond,2006,R,2h 23min,Adventure; Drama; Thriller; ,8 December 2006 (USA),8.0,486637,725
+The Lord of the Rings: The Return of the King,2003,PG-13,3h 21min,Adventure; Drama; Fantasy; ,17 December 2003 (USA),8.9,1593859,3681
+The Lord of the Rings: The Two Towers,2002,PG-13,2h 59min,Adventure; Drama; Fantasy; ,18 December 2002 (USA),8.7,1440188,2559
+Star Wars: Episode IV - A New Hope,1977,PG,2h 1min,Action; Adventure; Fantasy; ,25 May 1977 (USA),8.6,1197132,1834
+Star Wars: Episode V - The Empire Strikes Back,1980,PG,2h 4min,Action; Adventure; Fantasy; ,20 June 1980 (USA),8.7,1124834,1214
+The Green Mile,1999,R,3h 9min,Crime; Drama; Fantasy; ,10 December 1999 (USA),8.6,1101707,1725
+Avatar,2009,PG-13,2h 42min,Action; Adventure; Fantasy; ,18 December 2009 (USA),7.8,1096125,3415
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,2h 23min,Action; Adventure; Fantasy; ,9 July 2003 (USA),8.0,997264,2186
+Star Wars: Episode VI - Return of the Jedi,1983,PG,2h 11min,Action; Adventure; Fantasy; ,25 May 1983 (USA),8.3,922278,828
+The Hobbit: An Unexpected Journey,2012,PG-13,2h 49min,Adventure; Fantasy; ,14 December 2012 (USA),7.8,743338,1430
+Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,2h 10min,Adventure; Drama; Fantasy; ,15 July 2011 (USA),8.1,737642,953
+Thor,2011,PG-13,1h 55min,Action; Adventure; Fantasy; ,6 May 2011 (USA),7.0,726753,915
+Star Wars: Episode I - The Phantom Menace,1999,PG,2h 16min,Action; Adventure; Fantasy; ,19 May 1999 (USA),6.5,708990,3843
+Star Wars: Episode III - Revenge of the Sith,2005,PG-13,2h 20min,Action; Adventure; Fantasy; ,19 May 2005 (USA),7.5,690205,3553
+Pirates of the Caribbean: Dead Man's Chest,2006,PG-13,2h 31min,Action; Adventure; Fantasy; ,7 July 2006 (USA),7.3,641045,1889
+Star Wars: Episode II - Attack of the Clones,2002,PG,2h 22min,Action; Adventure; Fantasy; ,16 May 2002 (USA),6.5,621911,3652
+Harry Potter and the Sorcerer's Stone,2001,PG,2h 32min,Adventure; Fantasy; ,16 November 2001 (USA),7.6,618786,1737
+Pan's Labyrinth,2006,R,1h 58min,Drama; Fantasy; War; ,19 January 2007 (USA),8.2,603269,1271
+The Hobbit: The Desolation of Smaug,2013,PG-13,2h 41min,Adventure; Fantasy; ,13 December 2013 (USA),7.8,588294,985
+Pirates of the Caribbean: At World's End,2007,PG-13,2h 49min,Action; Adventure; Fantasy; ,25 May 2007 (USA),7.1,582275,1290
+Suicide Squad,2016,PG-13,2h 3min,Action; Adventure; Fantasy; ,5 August 2016 (USA),6.0,581986,2253
+Thor: The Dark World,2013,PG-13,1h 52min,Action; Adventure; Fantasy; ,8 November 2013 (USA),6.9,578425,695
+Doctor Strange,2016,PG-13,1h 55min,Action; Adventure; Fantasy; ,4 November 2016 (USA),7.5,573177,945
+The Curious Case of Benjamin Button,2008,PG-13,2h 46min,Drama; Fantasy; Romance; ,25 December 2008 (USA),7.8,572217,948
+Life of Pi,2012,PG,2h 7min,Adventure; Drama; Fantasy; ,21 November 2012 (USA),7.9,567025,914
+Groundhog Day,1993,PG,1h 41min,Comedy; Fantasy; Romance; ,12 February 1993 (USA),8.0,566223,769
+Star Wars: Episode VIII - The Last Jedi,2017,PG-13,2h 32min,Action; Adventure; Fantasy; ,15 December 2017 (USA),7.0,543307,6691
+Harry Potter and the Chamber of Secrets,2002,PG,2h 41min,Adventure; Fantasy; ,15 November 2002 (USA),7.4,531256,930
+Wonder Woman,2017,PG-13,2h 21min,Action; Adventure; Fantasy; ,2 June 2017 (USA),7.4,531221,2179
+Harry Potter and the Prisoner of Azkaban,2004,PG,2h 22min,Adventure; Fantasy; ,4 June 2004 (USA),7.9,528503,1592
+Harry Potter and the Goblet of Fire,2005,PG-13,2h 37min,Adventure; Fantasy; ,18 November 2005 (USA),7.7,526115,1980
+Zombieland,2009,R,1h 28min,Adventure; Comedy; Fantasy; ,2 October 2009 (USA),7.6,507361,713
+Monty Python and the Holy Grail,1975,PG,1h 31min,Adventure; Comedy; Fantasy; ,6 December 1979 (India),8.2,488482,774
+Pirates of the Caribbean: On Stranger Tides,2011,PG-13,2h 16min,Action; Adventure; Fantasy; ,20 May 2011 (USA),6.6,469914,535
+The Hobbit: The Battle of the Five Armies,2014,PG-13,2h 24min,Adventure; Fantasy; ,17 December 2014 (USA),7.4,461617,883
+Harry Potter and the Deathly Hallows: Part 1,2010,PG-13,2h 26min,Adventure; Fantasy; ,19 November 2010 (USA),7.7,459135,691
+Edward Scissorhands,1990,PG-13,1h 45min,Drama; Fantasy; Romance; ,14 December 1990 (USA),7.9,434894,656
+Hancock,2008,PG-13,1h 32min,Action; Fantasy; ,2 July 2008 (USA),6.4,434772,654
+Twilight,2008,PG-13,2h 2min,Drama; Fantasy; Romance; ,21 November 2008 (USA),5.2,413276,1654
+Beauty and the Beast,1991,G,1h 24min,Animation; Fantasy; ,22 November 1991 (USA),8.0,408618,433
+Big Fish,2003,PG-13,2h 5min,Adventure; Drama; Fantasy; ,9 January 2004 (USA),8.0,406042,874
+Fantastic Beasts and Where to Find Them,2016,PG-13,2h 12min,Adventure; Fantasy; ,18 November 2016 (USA),7.3,395319,820
+It's a Wonderful Life,1946,Passed,2h 10min,Drama; Fantasy; ,7 January 1947 (USA),8.6,385375,939
+The Mummy,1999,PG-13,2h 4min,Action; Adventure; Fantasy; ,7 May 1999 (USA),7.0,382315,1056
+The Princess Bride,1987,PG,1h 38min,Adventure; Fantasy; ,9 October 1987 (USA),8.1,382045,844
+Midnight in Paris,2011,PG-13,1h 34min,Comedy; Fantasy; Romance; ,10 June 2011 (USA),7.7,376575,609
+Alice in Wonderland,2010,PG,1h 48min,Adventure; Fantasy; ,5 March 2010 (USA),6.4,374817,790
+Justice League,2017,PG-13,2h,Action; Adventure; Fantasy; ,17 November 2017 (USA),6.4,367091,1997
+The Wizard of Oz,1939,PG,1h 42min,Adventure; Fantasy; ,25 August 1939 (USA),8.0,364936,681
+Scott Pilgrim vs. the World,2010,PG-13,1h 52min,Action; Comedy; Fantasy; ,13 August 2010 (USA),7.5,364197,663
+Bruce Almighty,2003,PG-13,1h 41min,Comedy; Drama; Fantasy; ,23 May 2003 (USA),6.8,363587,640
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,PG,2h 23min,Adventure; Fantasy; ,9 December 2005 (USA),6.9,356904,1506
+The Shape of Water,2017,R,2h 3min,Adventure; Drama; Fantasy; ,22 December 2017 (USA),7.3,353658,1589
+Wanted,2008,R,1h 50min,Action; Crime; Fantasy; ,27 June 2008 (USA),6.7,353620,779
+The Illusionist,2006,PG-13,1h 50min,Drama; Fantasy; History; ,1 September 2006 (USA),7.6,349169,687
+Ghostbusters,1984,PG,1h 45min,Action; Comedy; Fantasy; ,8 June 1984 (USA),7.8,344694,555
+Aquaman,2018,PG-13,2h 23min,Action; Adventure; Fantasy; ,21 December 2018 (USA),7.0,341895,3845
+Star Wars: Episode IX - The Rise of Skywalker,2019,PG-13,2h 22min,Action; Adventure; Fantasy; ,20 December 2019 (USA),6.7,337831,7460
+Princess Mononoke,1997,PG-13,2h 14min,Animation; Adventure; Fantasy; ,19 December 1997 (USA),8.4,326489,702
+Sleepy Hollow,1999,R,1h 45min,Fantasy; Horror; Mystery; ,19 November 1999 (USA),7.3,320861,1023
+Fantastic Four,2005,PG-13,1h 46min,Action; Adventure; Fantasy; ,8 July 2005 (USA),5.7,306644,1024
+Being John Malkovich,1999,R,1h 53min,Comedy; Drama; Fantasy; ,3 December 1999 (USA),7.7,301714,878
+Hellboy,2004,PG-13,2h 2min,Action; Fantasy; Horror; ,2 April 2004 (USA),6.8,301510,649
+Click,2006,PG-13,1h 47min,Comedy; Drama; Fantasy; ,23 June 2006 (USA),6.4,298607,774
+Hugo,2011,PG,2h 6min,Drama; Fantasy; ,23 November 2011 (USA),7.5,297933,749
+Constantine,2005,R,2h 1min,Action; Fantasy; Horror; ,18 February 2005 (USA),7.0,296689,1074
+The Mummy Returns,2001,PG-13,2h 10min,Action; Adventure; Fantasy; ,4 May 2001 (USA),6.3,295189,924
+About Time,2013,R,2h 3min,Comedy; Drama; Fantasy; ,8 November 2013 (USA),7.8,287246,640
+The Secret Life of Walter Mitty,2013,PG,1h 54min,Comedy; Drama; Fantasy; ,25 December 2013 (USA),7.3,286991,648
+The Nightmare Before Christmas,1993,PG,1h 16min,Animation; Fantasy; ,29 October 1993 (USA),8.0,283685,522
+Liar Liar,1997,PG-13,1h 26min,Comedy; Fantasy; ,21 March 1997 (USA),6.9,274268,290
+My Neighbor Totoro,1988,G,1h 26min,Animation; Fantasy; ,13 July 1990 (USA),8.2,273795,464
+Batman Returns,1992,PG-13,2h 6min,Action; Crime; Fantasy; ,19 June 1992 (USA),7.0,267156,679
+Prince of Persia: The Sands of Time,2010,PG-13,1h 56min,Action; Adventure; Fantasy; ,28 May 2010 (USA),6.6,266583,478
+Clash of the Titans,2010,PG-13,1h 46min,Action; Adventure; Fantasy; ,2 April 2010 (USA),5.8,265931,679
+Beauty and the Beast,2017,PG,2h 9min,Fantasy; ,17 March 2017 (USA),7.1,261369,1122
+Kong: Skull Island,2017,PG-13,1h 58min,Action; Adventure; Fantasy; ,10 March 2017 (USA),6.6,259866,945
+The Twilight Saga: New Moon,2009,PG-13,2h 10min,Adventure; Drama; Fantasy; ,20 November 2009 (USA),4.7,258910,955
+Pirates of the Caribbean: Dead Men Tell No Tales,2017,PG-13,2h 9min,Action; Adventure; Fantasy; ,26 May 2017 (USA),6.6,251787,652
+Hellboy II: The Golden Army,2008,PG-13,2h,Action; Adventure; Fantasy; ,11 July 2008 (USA),7.0,251482,375
+1408,2007,PG-13,1h 44min,Fantasy; Horror; Mystery; ,22 June 2007 (USA),6.8,250909,635
+Beetlejuice,1988,PG,1h 32min,Comedy; Fantasy; ,30 March 1988 (USA),7.5,249689,372
+"Crouching Tiger, Hidden Dragon",2000,PG-13,2h,Action; Adventure; Fantasy; ,12 January 2001 (USA),7.8,248473,1670
+Stardust,2007,PG-13,2h 7min,Adventure; Fantasy; ,10 August 2007 (USA),7.6,248403,554
+Underworld,2003,R,2h 1min,Action; Fantasy; Thriller; ,19 September 2003 (USA),7.0,248222,833
+Fantastic 4: Rise of the Silver Surfer,2007,PG,1h 32min,Action; Adventure; Fantasy; ,15 June 2007 (USA),5.6,246767,468
+Vanilla Sky,2001,R,2h 16min,Fantasy; Mystery; Romance; ,14 December 2001 (USA),6.9,243020,1293
+Dark Shadows,2012,PG-13,1h 53min,Comedy; Fantasy; Horror; ,11 May 2012 (USA),6.2,241602,528
+Van Helsing,2004,PG-13,2h 11min,Action; Adventure; Fantasy; ,7 May 2004 (USA),6.1,239437,1373
+Warcraft,2016,PG-13,2h 3min,Action; Adventure; Fantasy; ,10 June 2016 (USA),6.8,236996,983
+The Little Mermaid,1989,G,1h 23min,Animation; Fantasy; ,17 November 1989 (USA),7.6,229928,279
+Sucker Punch,2011,PG-13,1h 50min,Action; Adventure; Fantasy; ,25 March 2011 (USA),6.0,226057,1022
+The Twilight Saga: Breaking Dawn - Part 2,2012,PG-13,1h 55min,Adventure; Drama; Fantasy; ,16 November 2012 (USA),5.5,224813,374
+The Twilight Saga: Eclipse,2010,PG-13,2h 4min,Adventure; Drama; Fantasy; ,30 June 2010 (USA),5.0,221496,529
+Ender's Game,2013,PG-13,1h 54min,Action; Adventure; Fantasy; ,1 November 2013 (USA),6.6,219357,626
+Ghost Rider,2007,PG-13,1h 50min,Action; Fantasy; Thriller; ,16 February 2007 (USA),5.2,218901,724
+The Twilight Saga: Breaking Dawn - Part 1,2011,PG-13,1h 57min,Adventure; Drama; Fantasy; ,18 November 2011 (USA),4.9,217803,477
+Stranger Than Fiction,2006,PG-13,1h 53min,Comedy; Drama; Fantasy; ,10 November 2006 (USA),7.5,214510,595
+Elf,2003,PG,1h 37min,Comedy; Fantasy; ,7 November 2003 (USA),6.9,210512,501
+Aladdin,2019,PG,2h 8min,Adventure; Fantasy; ,24 May 2019 (USA),7.0,210488,2281
+Mr. Nobody,2009,R,2h 21min,Drama; Fantasy; Romance; ,26 September 2013 (USA),7.8,210310,391
+Schindler's List,1993,R,3h 15min,Biography; Drama; History; ,4 February 1994 (USA),8.9,1173324,1814
+Braveheart,1995,R,2h 58min,Biography; Drama; History; ,24 May 1995 (USA),8.3,936728,1271
+The King's Speech,2010,R,1h 58min,Biography; Drama; History; ,25 December 2010 (USA),8.0,624817,754
+12 Years a Slave,2013,R,2h 14min,Biography; Drama; History; ,8 November 2013 (USA),8.1,619715,869
+Dunkirk,2017,PG-13,1h 46min,Action; Drama; History; ,21 July 2017 (USA),7.9,523089,2359
+Troy,2004,R,2h 43min,Drama; History; ,14 May 2004 (USA),7.2,476975,1789
+Hacksaw Ridge,2016,R,2h 19min,Biography; Drama; History; ,4 November 2016 (USA),8.1,412911,893
+Amadeus,1984,R,2h 40min,Biography; Drama; History; ,19 September 1984 (USA),8.3,358503,634
+Black Hawk Down,2001,R,2h 24min,Drama; History; War; ,18 January 2002 (USA),7.7,356185,1153
+The Illusionist,2006,PG-13,1h 50min,Drama; Fantasy; History; ,1 September 2006 (USA),7.6,349169,687
+Hotel Rwanda,2004,PG-13,2h 1min,Biography; Drama; History; ,4 February 2005 (USA),8.1,327493,669
+Downfall,2004,R,2h 36min,Biography; Drama; History; ,8 April 2005 (USA),8.2,322655,633
+Pearl Harbor,2001,PG-13,3h 3min,Action; Drama; History; ,25 May 2001 (USA),6.2,305503,2022
+Les Misérables,2012,PG-13,2h 38min,Drama; History; ,25 December 2012 (USA),7.6,300852,968
+Gone with the Wind,1939,Passed,3h 58min,Drama; History; Romance; ,17 January 1940 (USA),8.1,281414,870
+Bridge of Spies,2015,PG-13,2h 22min,Drama; History; Thriller; ,16 October 2015 (USA),7.6,278999,465
+Zero Dark Thirty,2012,R,2h 37min,Drama; History; Thriller; ,11 January 2013 (USA),7.4,264555,709
+Apollo 13,1995,PG,2h 20min,Adventure; Drama; History; ,30 June 1995 (USA),7.6,260497,385
+The Patriot,2000,R,2h 45min,Action; Drama; History; ,28 June 2000 (USA),7.2,249168,1189
+Lincoln,2012,PG-13,2h 30min,Biography; Drama; History; ,16 November 2012 (USA),7.3,239112,794
+Enemy at the Gates,2001,R,2h 11min,Drama; History; War; ,16 March 2001 (USA),7.6,236660,706
+21,2008,PG-13,2h 3min,Crime; Drama; History; ,28 March 2008 (USA),6.8,224589,311
+Valkyrie,2008,PG-13,2h 1min,Drama; History; Thriller; ,25 December 2008 (USA),7.1,223620,468
+The Great Escape,1963,Not Rated,2h 52min,Adventure; Drama; History; ,4 July 1963 (USA),8.2,217996,356
+Gandhi,1982,PG,3h 11min,Biography; Drama; History; ,25 February 1983 (USA),8.0,214287,298
+Ben-Hur,1959,G,3h 32min,Adventure; Drama; History; ,29 January 1960 (Brazil),8.1,213444,443
+Shakespeare in Love,1998,R,2h 3min,Comedy; Drama; History; ,8 January 1999 (USA),7.1,209979,780
+Munich,2005,R,2h 44min,Action; Drama; History; ,6 January 2006 (USA),7.5,207019,856
+Hidden Figures,2016,PG,2h 7min,Biography; Drama; History; ,6 January 2017 (USA),7.8,191159,500
+The Impossible,2012,PG-13,1h 54min,Drama; History; Thriller; ,4 January 2013 (USA),7.6,190768,423
+Straight Outta Compton,2015,R,2h 27min,Biography; Drama; History; ,14 August 2015 (USA),7.9,174973,385
+Cinderella Man,2005,PG-13,2h 24min,Biography; Drama; History; ,3 June 2005 (USA),8.0,172730,595
+The Last King of Scotland,2006,R,2h 3min,Biography; Drama; History; ,19 January 2007 (USA),7.7,172012,371
+Hero,2002,PG-13,2h,Action; Adventure; History; ,27 August 2004 (USA),7.9,171351,864
+First Man,2018,PG-13,2h 21min,Biography; Drama; History; ,12 October 2018 (USA),7.3,155735,1305
+Invictus,2009,PG-13,2h 14min,Biography; Drama; History; ,11 December 2009 (USA),7.3,146805,277
+Deepwater Horizon,2016,PG-13,1h 47min,Action; Drama; History; ,30 September 2016 (USA),7.1,145401,281
+Barry Lyndon,1975,PG,3h 5min,Adventure; Drama; History; ,18 December 1975 (USA),8.1,143733,457
+JFK,1991,R,3h 9min,Drama; History; Thriller; ,20 December 1991 (USA),8.0,137425,485
+Cold Mountain,2003,R,2h 34min,Adventure; Drama; History; ,25 December 2003 (USA),7.2,137401,696
+Defiance,2008,R,2h 17min,Action; Drama; History; ,16 January 2009 (USA),7.2,135323,265
+We Were Soldiers,2002,R,2h 18min,Action; Drama; History; ,1 March 2002 (USA),7.2,127187,770
+The Monuments Men,2014,PG-13,1h 58min,Comedy; Drama; History; ,7 February 2014 (USA),6.1,122173,443
+Glory,1989,R,2h 2min,Biography; Drama; History; ,16 February 1990 (USA),7.8,117966,444
+The 13th Warrior,1999,R,1h 42min,Action; Adventure; History; ,27 August 1999 (USA),6.6,114167,581
+Empire of the Sun,1987,PG,2h 33min,Action; Drama; History; ,25 December 1987 (USA),7.7,112275,342
+Rang De Basanti,2006,Not Rated,2h 47min,Comedy; Drama; History; ,26 January 2006 (USA),8.2,107678,361
+The Way Back,2010,PG-13,2h 13min,Adventure; Drama; History; ,21 January 2011 (USA),7.3,107455,202
+Across the Universe,2007,PG-13,2h 13min,Drama; Fantasy; History; ,12 October 2007 (USA),7.3,104638,549
+The Queen,2006,PG-13,1h 43min,Biography; Drama; History; ,17 November 2006 (USA),7.3,101904,456
+The Other Boleyn Girl,2008,PG-13,1h 55min,Biography; Drama; History; ,29 February 2008 (USA),6.7,101416,272
+Frost_Nixon,2008,R,2h 2min,Biography; Drama; History; ,23 January 2009 (USA),7.7,100750,265
+All the President's Men,1976,PG,2h 18min,Biography; Drama; History; ,9 April 1976 (USA),8.0,98972,243
+Marie Antoinette,2006,PG-13,2h 3min,Biography; Drama; History; ,20 October 2006 (USA),6.4,97923,666
+The Good Shepherd,2006,R,2h 47min,Drama; History; Thriller; ,22 December 2006 (USA),6.7,96881,509
+United 93,2006,R,1h 51min,Drama; History; Sci-Fi; ,28 April 2006 (USA),7.5,96591,862
+Silence,2016,R,2h 41min,Drama; History; ,13 January 2017 (USA),7.2,96094,431
+"Good Night, and Good Luck.",2005,PG,1h 33min,Biography; Drama; History; ,4 November 2005 (USA),7.4,92714,542
+The Last Emperor,1987,PG-13,2h 43min,Biography; Drama; History; ,15 April 1988 (USA),7.7,91046,170
+Elizabeth,1998,R,2h 4min,Biography; Drama; History; ,19 February 1999 (USA),7.4,90737,431
+Mississippi Burning,1988,R,2h 8min,Crime; Drama; History; ,27 January 1989 (USA),7.8,84598,209
+The Grapes of Wrath,1940,Passed,2h 9min,Drama; History; ,15 March 1940 (USA),8.0,84223,338
+Selma,2014,PG-13,2h 8min,Biography; Drama; History; ,9 January 2015 (USA),7.5,83285,264
+Malcolm X,1992,PG-13,3h 22min,Biography; Drama; History; ,18 November 1992 (USA),7.7,82521,183
+The New World,2005,PG-13,2h 15min,Biography; Drama; History; ,20 January 2006 (USA),6.7,81466,721
+The Death of Stalin,2017,R,1h 47min,Comedy; Drama; History; ,9 March 2018 (USA),7.2,80253,327
+Centurion,2010,R,1h 37min,Action; Drama; History; ,30 July 2010 (USA),6.4,76569,234
+The Duchess,2008,PG-13,1h 50min,Biography; Drama; History; ,10 October 2008 (USA),6.9,76558,157
+World Trade Center,2006,PG-13,2h 9min,Drama; Fantasy; History; ,9 August 2006 (USA),5.9,76405,580
+The King,2019,R,2h 20min,Biography; Drama; History; ,1 November 2019 (USA),7.2,76205,684
+The Lost City of Z,2016,PG-13,2h 21min,Biography; Drama; History; ,21 April 2017 (USA),6.6,75131,251
+Jackie,2016,R,1h 40min,Biography; Drama; History; ,2 December 2016 (USA),6.7,70888,320
+The Water Diviner,2014,R,1h 51min,Drama; History; War; ,17 April 2015 (India),7.0,69915,223
+Amistad,1997,R,2h 35min,Biography; Drama; History; ,25 December 1997 (USA),7.3,69328,240
+The White Ribbon,2009,R,2h 24min,Drama; History; Mystery; ,5 March 2010 (USA),7.8,66893,212
+Elizabeth: The Golden Age,2007,PG-13,1h 54min,Biography; Drama; History; ,12 October 2007 (USA),6.8,65530,237
+Seabiscuit,2003,PG-13,2h 20min,Drama; History; Sport; ,25 July 2003 (USA),7.3,65166,468
+Child 44,2015,R,2h 17min,Crime; Drama; History; ,9 May 2016 (India),6.5,63768,267
+12 Strong,2018,R,2h 10min,Action; Drama; History; ,19 January 2018 (USA),6.6,63442,371
+Quiz Show,1994,PG-13,2h 13min,Biography; Drama; History; ,7 October 1994 (USA),7.5,63232,177
+The Finest Hours,2016,PG-13,1h 57min,Action; Drama; History; ,29 January 2016 (USA),6.8,59961,199
+K-19: The Widowmaker,2002,PG-13,2h 18min,Drama; History; Thriller; ,19 July 2002 (USA),6.7,58258,291
+The Young Victoria,2009,PG,1h 45min,Biography; Drama; History; ,8 January 2010 (USA),7.3,56451,108
+Conquest 1453,2012,Not Rated,2h 42min,Action; Drama; History; ,25 April 2012 (USA),6.7,56021,154
+The Mission,1986,PG,2h 5min,Adventure; Drama; History; ,31 October 1986 (USA),7.4,54283,214
+Thirteen Days,2000,PG-13,2h 25min,Drama; History; Thriller; ,12 January 2001 (USA),7.3,52807,337
+Woman in Gold,2015,PG-13,1h 49min,Biography; Drama; History; ,10 April 2015 (USA),7.3,52175,191
+Macbeth,2015,R,1h 53min,Drama; History; War; ,11 December 2015 (USA),6.6,51643,219
+Battleship Potemkin,1925,Not Rated,1h 6min,Drama; History; Thriller; ,24 December 1925 (Soviet Union),8.0,51403,208
+Airlift,2016,Not Rated,2h 10min,Drama; History; ,22 January 2016 (USA),8.0,51394,208
+The Longest Day,1962,G,2h 58min,Action; Drama; History; ,4 October 1962 (USA),7.8,51178,234
+Midway,2019,PG-13,2h 18min,Action; Drama; History; ,8 November 2019 (USA),6.7,50395,854
+A Bridge Too Far,1977,PG,2h 55min,Drama; History; War; ,15 June 1977 (USA),7.4,50195,248
+The Killing Fields,1984,R,2h 21min,Biography; Drama; History; ,1 February 1985 (USA),7.8,50036,206
+The Flowers of War,2011,R,2h 26min,Drama; History; Romance; ,16 December 2011 (China),7.6,48360,162
+Hotel Mumbai,2018,R,2h 3min,Action; Drama; History; ,29 March 2019 (USA),7.6,47726,393
+Miracle,2004,PG,2h 15min,Biography; Drama; History; ,6 February 2004 (USA),7.5,46453,315
+Detroit,2017,R,2h 23min,Crime; Drama; History; ,4 August 2017 (USA),7.3,45804,202
+The Passion of Joan of Arc,1928,Passed,1h 54min,Biography; Drama; History; ,25 October 1928 (France),8.1,45200,192
+Cold War,2018,R,1h 29min,Drama; History; Music; ,8 June 2018 (Poland),7.6,44833,195
+The Shining,1980,R,2h 26min,Drama; Horror; ,13 June 1980 (USA),8.4,860290,1805
+Alien,1979,R,1h 57min,Horror; Sci-Fi; ,22 June 1979 (USA),8.4,762793,1423
+World War Z,2013,PG-13,1h 56min,Action; Adventure; Horror; ,21 June 2013 (USA),7.0,586801,1125
+Psycho,1960,R,1h 49min,Horror; Mystery; Thriller; ,8 September 1960 (USA),8.5,580951,1263
+Shaun of the Dead,2004,R,1h 39min,Comedy; Horror; ,24 September 2004 (USA),7.9,499244,971
+Get Out,2017,R,1h 44min,Horror; Mystery; Thriller; ,24 February 2017 (USA),7.7,465577,1566
+It,2017,R,2h 15min,Horror; ,8 September 2017 (USA),7.3,437678,1914
+The Conjuring,2013,R,1h 52min,Horror; Mystery; Thriller; ,19 July 2013 (USA),7.5,427067,1054
+Split,2016,PG-13,1h 57min,Horror; Thriller; ,20 January 2017 (USA),7.3,404539,986
+A Quiet Place,2018,PG-13,1h 30min,Drama; Horror; Sci-Fi; ,6 April 2018 (USA),7.5,385782,2882
+Saw,2004,R,1h 43min,Horror; Mystery; ,29 October 2004 (USA),7.6,369825,1612
+28 Days Later...,2002,R,1h 53min,Drama; Horror; Sci-Fi; ,27 June 2003 (USA),7.6,367391,1513
+Cloverfield,2008,PG-13,1h 25min,Action; Adventure; Horror; ,18 January 2008 (USA),7.0,365910,2336
+The Cabin in the Woods,2011,R,1h 35min,Horror; ,13 April 2012 (USA),7.0,363506,1190
+The Thing,1982,R,1h 49min,Horror; Mystery; Sci-Fi; ,25 June 1982 (USA),8.1,356786,1095
+The Exorcist,1973,R,2h 2min,Horror; ,26 December 1973 (USA),8.0,352076,1220
+Sweeney Todd: The Demon Barber of Fleet Street,2007,R,1h 56min,Drama; Horror; ,21 December 2007 (USA),7.3,335791,832
+The Others,2001,PG-13,1h 44min,Horror; Mystery; Thriller; ,10 August 2001 (USA),7.6,328624,1147
+Sleepy Hollow,1999,R,1h 45min,Fantasy; Horror; Mystery; ,19 November 1999 (USA),7.3,320861,1023
+The Ring,2002,PG-13,1h 55min,Horror; Mystery; ,18 October 2002 (USA),7.1,313252,1666
+Hellboy,2004,PG-13,2h 2min,Action; Fantasy; Horror; ,2 April 2004 (USA),6.8,301510,649
+Constantine,2005,R,2h 1min,Action; Fantasy; Horror; ,18 February 2005 (USA),7.0,296689,1074
+Interview with the Vampire: The Vampire Chronicles,1994,R,2h 3min,Drama; Horror; ,11 November 1994 (USA),7.6,287602,462
+10 Cloverfield Lane,2016,PG-13,1h 43min,Drama; Horror; Mystery; ,11 March 2016 (USA),7.2,280919,752
+From Dusk Till Dawn,1996,R,1h 48min,Action; Crime; Horror; ,19 January 1996 (USA),7.2,279303,664
+Scream,1996,R,1h 51min,Horror; Mystery; ,20 December 1996 (USA),7.2,276753,969
+The Mist,2007,R,2h 6min,Horror; Sci-Fi; ,21 November 2007 (USA),7.1,274365,1184
+Alien 3,1992,R,1h 54min,Action; Horror; Sci-Fi; ,22 May 1992 (USA),6.5,269938,903
+Insidious,2010,PG-13,1h 43min,Horror; Mystery; Thriller; ,1 April 2011 (USA),6.8,269839,885
+Annihilation,2018,R,1h 55min,Adventure; Drama; Horror; ,23 February 2018 (USA),6.9,267574,1909
+Bird Box,2018,R,2h 4min,Drama; Horror; Sci-Fi; ,21 December 2018 (USA),6.6,262311,2765
+28 Weeks Later,2007,R,1h 40min,Horror; Sci-Fi; ,11 May 2007 (USA),7.0,253591,789
+1408,2007,PG-13,1h 44min,Fantasy; Horror; Mystery; ,22 June 2007 (USA),6.8,250909,635
+Alien: Covenant,2017,R,2h 2min,Horror; Sci-Fi; Thriller; ,19 May 2017 (USA),6.4,245959,2058
+Resident Evil,2002,R,1h 40min,Action; Horror; Sci-Fi; ,15 March 2002 (USA),6.7,242106,1175
+Dark Shadows,2012,PG-13,1h 53min,Comedy; Fantasy; Horror; ,11 May 2012 (USA),6.2,241602,528
+Blade,1998,R,2h,Action; Horror; Sci-Fi; ,21 August 1998 (USA),7.1,238439,631
+Dawn of the Dead,2004,R,1h 41min,Action; Horror; ,19 March 2004 (USA),7.3,229395,1102
+Saw II,2005,R,1h 33min,Horror; Mystery; ,28 October 2005 (USA),6.6,227842,885
+The Blair Witch Project,1999,R,1h 21min,Horror; Mystery; ,30 July 1999 (USA),6.5,226133,3515
+Final Destination,2000,R,1h 38min,Horror; Thriller; ,17 March 2000 (USA),6.7,223423,727
+Alien: Resurrection,1997,R,1h 49min,Action; Horror; Sci-Fi; ,26 November 1997 (USA),6.2,222998,726
+Pitch Black,2000,R,1h 49min,Action; Horror; Sci-Fi; ,18 February 2000 (USA),7.1,221434,825
+Halloween,1978,R,1h 31min,Horror; Thriller; ,27 October 1978 (USA),7.8,220718,1434
+Paranormal Activity,2007,R,1h 26min,Horror; Mystery; Thriller; ,16 October 2009 (USA),6.3,216058,1262
+The Conjuring 2,2016,R,2h 14min,Horror; Mystery; Thriller; ,10 June 2016 (USA),7.3,215863,548
+Warm Bodies,2013,PG-13,1h 38min,Comedy; Horror; Romance; ,1 February 2013 (USA),6.9,215658,378
+Hereditary,2018,R,2h 7min,Drama; Horror; Mystery; ,8 June 2018 (USA),7.3,214947,3086
+Sinister,2012,R,1h 50min,Horror; Mystery; Thriller; ,12 October 2012 (USA),6.8,212002,667
+Silent Hill,2006,R,2h 5min,Horror; ,21 April 2006 (USA),6.5,210033,1796
+Don't Breathe,2016,R,1h 28min,Crime; Horror; Thriller; ,26 August 2016 (USA),7.1,209689,639
+Us,2019,R,1h 56min,Horror; Mystery; Thriller; ,22 March 2019 (USA),6.9,204733,3049
+It Follows,2014,R,1h 40min,Horror; Mystery; Thriller; ,13 March 2015 (USA),6.8,201008,997
+Life,2017,R,1h 44min,Horror; Sci-Fi; Thriller; ,24 March 2017 (USA),6.6,199775,1042
+A Nightmare on Elm Street,1984,R,1h 31min,Horror; ,16 November 1984 (USA),7.5,198628,784
+The Purge,2013,R,1h 25min,Horror; Thriller; ,7 June 2013 (USA),5.7,197141,736
+The Descent,2005,R,1h 39min,Adventure; Horror; Thriller; ,4 August 2006 (USA),7.2,195614,1226
+Blade II,2002,R,1h 57min,Action; Fantasy; Horror; ,22 March 2002 (USA),6.7,195387,574
+Hansel & Gretel: Witch Hunters,2013,R,1h 28min,Action; Fantasy; Horror; ,25 January 2013 (USA),6.1,191273,345
+Gremlins,1984,PG,1h 46min,Comedy; Fantasy; Horror; ,8 June 1984 (USA),7.3,190570,318
+The Babadook,2014,Not Rated,1h 34min,Drama; Horror; ,28 November 2014 (USA),6.8,188571,847
+Orphan,2009,R,2h 3min,Horror; Mystery; Thriller; ,24 July 2009 (USA),6.9,186072,489
+The Witch,2015,R,1h 32min,Drama; Horror; Mystery; ,19 February 2016 (USA),6.9,185878,982
+Bram Stoker's Dracula,1992,R,2h 8min,Horror; ,13 November 1992 (USA),7.4,185695,744
+Rosemary's Baby,1968,R,2h 17min,Drama; Horror; ,17 October 1968 (France),8.0,185587,557
+Drag Me to Hell,2009,PG-13,1h 39min,Horror; Thriller; ,29 May 2009 (USA),6.5,184255,782
+It Chapter Two,2019,R,2h 49min,Drama; Fantasy; Horror; ,6 September 2019 (USA),6.6,183539,2182
+Resident Evil: Apocalypse,2004,R,1h 34min,Action; Horror; Sci-Fi; ,10 September 2004 (USA),6.2,182625,695
+Mother!,2017,R,2h 1min,Drama; Horror; Mystery; ,15 September 2017 (USA),6.6,182167,2074
+Alien vs. Predator,2004,PG-13,1h 41min,Action; Adventure; Horror; ,13 August 2004 (USA),5.6,180961,1345
+The Evil Dead,1981,NC-17,1h 25min,Horror; ,15 April 1983 (USA),7.5,180957,833
+Resident Evil: Extinction,2007,R,1h 34min,Action; Horror; Sci-Fi; ,21 September 2007 (USA),6.3,180099,383
+Grindhouse,2007,R,3h 11min,Action; Horror; Thriller; ,6 April 2007 (USA),7.5,175669,534
+Saw III,2006,R,1h 48min,Horror; Mystery; Thriller; ,27 October 2006 (USA),6.2,174387,646
+The Woman in Black,2012,PG-13,1h 35min,Drama; Fantasy; Horror; ,3 February 2012 (USA),6.4,171207,568
+Pi,1998,R,1h 24min,Drama; Horror; Mystery; ,10 July 1998 (USA),7.4,166806,610
+Hostel,2005,R,1h 34min,Horror; ,6 January 2006 (USA),5.9,165882,1566
+Mama,2013,PG-13,1h 40min,Horror; Thriller; ,18 January 2013 (USA),6.2,165839,365
+The Birds,1963,PG-13,1h 59min,Drama; Horror; Mystery; ,29 March 1963 (USA),7.7,165748,545
+Midsommar,2019,R,2h 28min,Drama; Horror; Mystery; ,3 July 2019 (USA),7.1,165346,2580
+Carrie,1976,R,1h 38min,Horror; ,16 November 1976 (USA),7.4,162668,545
+Tucker and Dale vs Evil,2010,R,1h 29min,Comedy; Horror; ,9 December 2010 (Kazakhstan),7.5,161404,294
+30 Days of Night,2007,R,1h 53min,Action; Horror; Thriller; ,19 October 2007 (USA),6.6,161126,579
+Resident Evil: Afterlife,2010,R,1h 36min,Action; Adventure; Horror; ,10 September 2010 (USA),5.8,159189,430
+Army of Darkness,1992,R,1h 21min,Comedy; Horror; ,19 February 1993 (USA),7.5,158954,658
+The Hills Have Eyes,2006,R,1h 47min,Horror; Thriller; ,10 March 2006 (USA),6.4,155206,889
+The Fly,1986,R,1h 36min,Drama; Horror; Sci-Fi; ,15 August 1986 (USA),7.6,154294,339
+Event Horizon,1997,R,1h 36min,Horror; Sci-Fi; Thriller; ,15 August 1997 (USA),6.7,153203,953
+Evil Dead,2013,R,1h 31min,Fantasy; Horror; Thriller; ,5 April 2013 (USA),6.5,153169,899
+Scream 2,1997,R,2h,Horror; Mystery; ,12 December 1997 (USA),6.2,152554,522
+Insidious: Chapter 2,2013,PG-13,1h 46min,Horror; Mystery; Thriller; ,13 September 2013 (USA),6.6,150300,313
+Final Destination 2,2003,R,1h 30min,Horror; Thriller; ,31 January 2003 (USA),6.2,148408,495
+What We Do in the Shadows,2014,R,1h 26min,Comedy; Horror; ,13 February 2015 (USA),7.7,148076,338
+Abraham Lincoln: Vampire Hunter,2012,R,1h 45min,Action; Fantasy; Horror; ,22 June 2012 (USA),5.9,147007,394
+Scary Movie 2,2001,R,1h 23min,Comedy; Horror; ,4 July 2001 (USA),5.3,146277,559
+From Hell,2001,R,2h 2min,Horror; Mystery; Thriller; ,19 October 2001 (USA),6.8,144083,553
+The Orphanage,2007,R,1h 45min,Drama; Fantasy; Horror; ,11 January 2008 (USA),7.4,143875,339
+Train to Busan,2016,TV-MA,1h 58min,Action; Horror; Thriller; ,21 October 2016 (India),7.5,143773,668
+Evil Dead II,1987,R,1h 24min,Comedy; Horror; ,13 March 1987 (USA),7.8,143769,594
+Underworld Awakening,2012,R,1h 28min,Action; Fantasy; Horror; ,20 January 2012 (USA),6.4,143381,297
+The Pianist,2002,R,2h 30min,Biography; Drama; Music; ,28 March 2003 (USA),8.5,701576,924
+Whiplash,2014,R,1h 46min,Drama; Music; ,20 February 2015 (India),8.5,683157,1195
+La La Land,2016,PG-13,2h 8min,Comedy; Drama; Music; ,25 December 2016 (USA),8.0,482858,1772
+Bohemian Rhapsody,2018,PG-13,2h 14min,Biography; Drama; Music; ,2 November 2018 (USA),8.0,428335,3356
+A Star Is Born,2018,R,2h 16min,Drama; Music; Romance; ,5 October 2018 (USA),7.7,313113,2664
+Pitch Perfect,2012,PG-13,1h 52min,Comedy; Music; Romance; ,5 October 2012 (USA),7.2,269390,316
+School of Rock,2003,PG-13,1h 49min,Comedy; Music; ,3 October 2003 (USA),7.1,260266,517
+8 Mile,2002,R,1h 50min,Drama; Music; ,8 November 2002 (USA),7.1,243272,611
+Some Like It Hot,1959,Not Rated,2h 1min,Comedy; Music; Romance; ,19 March 1959 (USA),8.2,236252,415
+Walk the Line,2005,PG-13,2h 16min,Biography; Drama; Music; ,18 November 2005 (USA),7.8,227982,897
+Dirty Dancing,1987,PG-13,1h 40min,Drama; Music; Romance; ,21 August 1987 (USA),7.0,194794,462
+Get Him to the Greek,2010,R,1h 49min,Comedy; Music; ,4 June 2010 (USA),6.4,167212,220
+High Fidelity,2000,R,1h 53min,Comedy; Drama; Music; ,31 March 2000 (USA),7.5,164661,627
+Wayne's World,1992,PG-13,1h 34min,Comedy; Music; ,14 February 1992 (USA),7.0,140324,199
+Begin Again,2013,R,1h 44min,Comedy; Drama; Music; ,11 July 2014 (USA),7.4,138458,262
+Pitch Perfect 2,2015,PG-13,1h 55min,Comedy; Music; ,15 May 2015 (USA),6.4,138421,221
+Ray,2004,PG-13,2h 32min,Biography; Drama; Music; ,29 October 2004 (USA),7.7,135305,460
+Inside Llewyn Davis,2013,R,1h 44min,Comedy; Drama; Music; ,10 January 2014 (USA),7.5,134564,381
+The Wedding Singer,1998,PG-13,1h 37min,Comedy; Music; Romance; ,13 February 1998 (USA),6.8,131174,362
+This Is Spinal Tap,1984,R,1h 22min,Comedy; Music; ,2 March 1984 (USA),7.9,125864,366
+Billy Elliot,2000,R,1h 50min,Drama; Music; ,10 November 2000 (USA),7.7,122980,469
+Rocketman,2019,R,2h 1min,Biography; Drama; Music; ,31 May 2019 (USA),7.3,120440,944
+"Hail, Caesar!",2016,PG-13,1h 46min,Comedy; Drama; Music; ,5 February 2016 (USA),6.3,120378,445
+The Bodyguard,1992,R,2h 9min,Action; Drama; Music; ,25 November 1992 (USA),6.3,115475,158
+If I Stay,2014,PG-13,1h 47min,Drama; Fantasy; Music; ,22 August 2014 (USA),6.7,113203,168
+Once,2007,R,1h 26min,Drama; Music; Romance; ,15 June 2007 (USA),7.8,108624,365
+Step Up,2006,PG-13,1h 44min,Crime; Drama; Music; ,11 August 2006 (USA),6.5,108504,285
+Bill & Ted's Excellent Adventure,1989,PG,1h 30min,Adventure; Comedy; Music; ,17 February 1989 (USA),6.9,107579,228
+Pirate Radio,2009,R,1h 57min,Comedy; Drama; Music; ,13 November 2009 (USA),7.4,105802,241
+Coyote Ugly,2000,PG-13,1h 40min,Comedy; Drama; Music; ,4 August 2000 (USA),5.7,104700,389
+Green Room,2015,R,1h 35min,Horror; Music; Thriller; ,13 May 2016 (USA),7.0,102334,321
+August Rush,2007,PG,1h 54min,Drama; Music; ,21 November 2007 (USA),7.5,101979,397
+Yesterday,2019,PG-13,1h 56min,Comedy; Fantasy; Music; ,28 June 2019 (USA),6.8,100978,934
+Tenacious D in the Pick of Destiny,2006,R,1h 33min,Adventure; Comedy; Music; ,22 November 2006 (USA),6.8,99944,208
+Music and Lyrics,2007,PG-13,1h 44min,Comedy; Music; Romance; ,14 February 2007 (USA),6.5,94921,300
+Nick and Norah's Infinite Playlist,2008,PG-13,1h 30min,Comedy; Drama; Music; ,3 October 2008 (USA),6.6,87186,157
+Three Colors: Blue,1993,R,1h 34min,Drama; Music; Mystery; ,8 September 1993 (France),7.9,85415,197
+To Rome With Love,2012,R,1h 52min,Comedy; Music; Romance; ,6 July 2012 (USA),6.3,82764,180
+Crazy Heart,2009,R,1h 52min,Drama; Music; Romance; ,5 February 2010 (USA),7.2,82500,248
+Sing Street,2016,PG-13,1h 46min,Comedy; Drama; Music; ,17 March 2016 (Ireland),7.9,81933,196
+The Doors,1991,R,2h 20min,Biography; Drama; Music; ,1 March 1991 (USA),7.2,81792,243
+La Vie En Rose,2007,PG-13,2h 20min,Biography; Drama; Music; ,20 July 2007 (USA),7.6,80970,247
+The Last Song,2010,PG,1h 47min,Drama; Music; Romance; ,31 March 2010 (USA),6.0,79196,207
+Step Up 2: The Streets,2008,PG-13,1h 38min,Drama; Music; Romance; ,14 February 2008 (USA),6.2,78573,114
+The Piano,1993,R,2h 1min,Drama; Music; Romance; ,11 February 1994 (USA),7.6,76889,269
+Burlesque,2010,PG-13,1h 59min,Drama; Music; ,24 November 2010 (USA),6.4,76164,252
+Frank,2014,R,1h 35min,Comedy; Drama; Music; ,5 September 2014 (USA),7.0,73451,146
+Youth,2015,R,2h 4min,Comedy; Drama; Music; ,4 December 2015 (USA),7.3,69311,164
+Saturday Night Fever,1977,R,1h 58min,Drama; Music; ,16 December 1977 (USA),6.8,68890,254
+Footloose,1984,PG,1h 47min,Drama; Music; Romance; ,17 February 1984 (USA),6.6,67658,141
+Dreamgirls,2006,PG-13,2h 10min,Drama; Music; ,25 December 2006 (USA),6.5,67216,528
+Walk Hard: The Dewey Cox Story,2007,R,1h 36min,Comedy; Drama; Music; ,21 December 2007 (USA),6.8,65673,226
+That Thing You Do!,1996,PG,1h 48min,Comedy; Drama; Music; ,4 October 1996 (USA),6.9,60721,228
+Control,2007,R,2h 2min,Biography; Drama; Music; ,26 September 2007 (France),7.7,60379,156
+Black Snake Moan,2006,R,1h 56min,Drama; Music; ,2 March 2007 (USA),6.9,60135,224
+Coffee and Cigarettes,2003,R,1h 35min,Comedy; Drama; Music; ,11 June 2004 (USA),7.1,58500,178
+Top Secret!,1984,PG,1h 30min,Comedy; Music; ,8 June 1984 (USA),7.2,58341,180
+The Legend of 1900,1998,R,2h 49min,Drama; Music; Romance; ,28 October 1998 (Italy),8.1,56898,276
+Save the Last Dance,2001,PG-13,1h 52min,Drama; Music; Romance; ,12 January 2001 (USA),6.2,56061,325
+A Night at the Roxbury,1998,PG-13,1h 22min,Comedy; Music; Romance; ,2 October 1998 (USA),6.3,55885,254
+The Chorus,2004,PG-13,1h 37min,Drama; Music; ,17 March 2004 (France),7.9,55837,124
+I'm Not There,2007,R,2h 15min,Biography; Drama; Music; ,7 December 2007 (USA),6.9,55709,238
+Pitch Perfect 3,2017,PG-13,1h 33min,Comedy; Music; ,22 December 2017 (USA),5.8,52949,174
+Popstar: Never Stop Never Stopping,2016,R,1h 27min,Comedy; Music; ,3 June 2016 (USA),6.7,52196,140
+Magic Mike XXL,2015,R,1h 55min,Comedy; Drama; Music; ,1 July 2015 (USA),5.6,50888,143
+The Soloist,2009,PG-13,1h 57min,Biography; Drama; Music; ,24 April 2009 (USA),6.7,50593,156
+Shine,1996,PG-13,1h 45min,Biography; Drama; Music; ,14 February 1997 (USA),7.7,50286,117
+The Producers,1967,PG,1h 28min,Comedy; Music; ,10 November 1968 (USA),7.6,48678,263
+Empire Records,1995,PG-13,1h 30min,Comedy; Drama; Music; ,20 October 1995 (USA),6.7,48158,291
+Departures,2008,PG-13,2h 10min,Drama; Music; ,19 June 2009 (USA),8.1,47355,150
+Flashdance,1983,R,1h 35min,Drama; Music; Romance; ,15 April 1983 (USA),6.2,46132,154
+The Runaways,2010,R,1h 46min,Biography; Drama; Music; ,8 April 2010 (Malaysia),6.5,45492,138
+"The Adventures of Priscilla, Queen of the Desert",1994,R,1h 44min,Comedy; Music; ,10 August 1994 (USA),7.4,45319,150
+Footloose,2011,PG-13,1h 53min,Comedy; Drama; Music; ,14 October 2011 (USA),5.9,45304,146
+Climax,2018,R,1h 37min,Drama; Horror; Music; ,19 September 2018 (France),7.1,45193,352
+Cold War,2018,R,1h 29min,Drama; History; Music; ,8 June 2018 (Poland),7.6,44833,195
+Honey,2003,PG-13,1h 34min,Drama; Music; Romance; ,5 December 2003 (USA),5.4,42673,144
+Shall We Dance,2004,PG-13,1h 46min,Comedy; Drama; Music; ,15 October 2004 (USA),6.1,42622,221
+Rab Ne Bana Di Jodi,2008,Not Rated,2h 47min,Comedy; Drama; Music; ,12 December 2008 (USA),7.2,42474,147
+Rock Star,2001,R,1h 45min,Drama; Music; ,7 September 2001 (USA),6.3,40198,197
+The Double Life of Véronique,1991,R,1h 38min,Drama; Fantasy; Music; ,22 November 1991 (USA),7.8,39948,125
+Behind The Candelabra,2013,TV-MA,1h 58min,Biography; Drama; Music; ,7 June 2013 (UK),7.0,39655,171
+A Hard Day's Night,1964,G,1h 27min,Comedy; Music; ,7 July 1964 (UK),7.6,39081,246
+Hustle & Flow,2005,R,1h 56min,Crime; Drama; Music; ,22 July 2005 (USA),7.3,38021,212
+Rockstar,2011,Not Rated,2h 39min,Drama; Music; ,11 November 2011 (USA),7.7,37740,168
+Eurovision Song Contest: The Story of Fire Saga,2020,PG-13,2h 3min,Comedy; Music; ,26 June 2020 (USA),6.6,37498,857
+The Rocker,2008,PG-13,1h 42min,Comedy; Music; ,20 August 2008 (USA),6.2,36300,112
+Love & Mercy,2014,PG-13,2h 1min,Biography; Drama; Music; ,19 June 2015 (USA),7.4,34933,160
+Mr. Holland's Opus,1995,PG,2h 23min,Drama; Music; ,19 January 1996 (USA),7.3,34755,172
+Detroit Rock City,1999,R,1h 35min,Comedy; Music; ,13 August 1999 (USA),6.9,34741,197
+Velvet Goldmine,1998,R,1h 58min,Drama; Music; ,23 October 1998 (UK),7.0,33100,324
+Happy New Year,2014,Not Rated,3h,Action; Comedy; Music; ,24 October 2014 (USA),5.0,33033,227
+Spice World,1997,PG,1h 33min,Comedy; Music; ,23 January 1998 (USA),3.5,32688,266
+Captain Corelli's Mandolin,2001,R,2h 11min,Drama; Music; Romance; ,17 August 2001 (USA),5.9,32402,218
+Jersey Boys,2014,R,2h 14min,Biography; Drama; Music; ,20 June 2014 (USA),6.8,32133,221
+Sweet and Lowdown,1999,PG-13,1h 35min,Comedy; Drama; Music; ,10 March 2000 (USA),7.2,31584,144
+The Commitments,1991,R,1h 58min,Comedy; Drama; Music; ,13 September 1991 (USA),7.6,31338,117
+Hedwig and the Angry Inch,2001,R,1h 35min,Comedy; Drama; Music; ,31 August 2001 (USA),7.7,31272,236
+The Red Violin,1998,R,2h 10min,Drama; Music; Mystery; ,11 June 1999 (USA),7.6,31107,263
+54,1998,R,1h 33min,Drama; Music; ,28 August 1998 (USA),5.9,31071,194
+Se7en,1995,R,2h 7min,Crime; Drama; Mystery; ,22 September 1995 (USA),8.6,1390231,1460
+The Prestige,2006,PG-13,2h 10min,Drama; Mystery; Sci-Fi; ,20 October 2006 (USA),8.5,1144521,1394
+Memento,2000,R,1h 53min,Mystery; Thriller; ,25 May 2001 (USA),8.4,1090298,2254
+Shutter Island,2010,R,2h 18min,Mystery; Thriller; ,19 February 2010 (USA),8.1,1086350,1269
+The Usual Suspects,1995,R,1h 46min,Crime; Mystery; Thriller; ,16 August 1995 (USA),8.5,961814,1355
+The Sixth Sense,1999,PG-13,1h 47min,Drama; Mystery; Thriller; ,6 August 1999 (USA),8.1,888925,2223
+Gone Girl,2014,R,2h 29min,Drama; Mystery; Thriller; ,3 October 2014 (USA),8.1,825450,1449
+Donnie Darko,2001,R,1h 53min,Drama; Mystery; Sci-Fi; ,30 January 2002 (France),8.0,724912,2276
+The Hunger Games: Catching Fire,2013,PG-13,2h 26min,Action; Adventure; Mystery; ,22 November 2013 (USA),7.5,600100,720
+The Bourne Ultimatum,2007,PG-13,1h 55min,Action; Mystery; Thriller; ,3 August 2007 (USA),8.0,595435,882
+Apocalypse Now,1979,R,2h 27min,Drama; Mystery; War; ,15 August 1979 (USA),8.4,585989,1183
+Now You See Me,2013,PG-13,1h 55min,Crime; Mystery; Thriller; ,31 May 2013 (USA),7.3,581644,760
+Psycho,1960,R,1h 49min,Horror; Mystery; Thriller; ,8 September 1960 (USA),8.5,580951,1263
+Prisoners,2013,R,2h 33min,Crime; Drama; Mystery; ,20 September 2013 (USA),8.1,575040,901
+Sherlock Holmes,2009,PG-13,2h 8min,Action; Adventure; Mystery; ,25 December 2009 (USA),7.6,571401,693
+Arrival,2016,PG-13,1h 56min,Drama; Mystery; Sci-Fi; ,11 November 2016 (USA),7.9,569760,1861
+12 Monkeys,1995,R,2h 9min,Mystery; Sci-Fi; Thriller; ,5 January 1996 (USA),8.0,565403,641
+Prometheus,2012,R,2h 4min,Adventure; Mystery; Sci-Fi; ,8 June 2012 (USA),7.0,557990,2543
+L.A. Confidential,1997,R,2h 18min,Crime; Drama; Mystery; ,19 September 1997 (USA),8.2,518387,710
+Oldboy,2003,R,1h 41min,Action; Drama; Mystery; ,21 November 2003 (South Korea),8.4,496687,1000
+The Bourne Identity,2002,PG-13,1h 59min,Action; Mystery; Thriller; ,14 June 2002 (USA),7.9,496180,912
+Minority Report,2002,PG-13,2h 25min,Action; Crime; Mystery; ,21 June 2002 (USA),7.6,495547,1381
+The Hateful Eight,2015,R,2h 48min,Crime; Drama; Mystery; ,30 December 2015 (USA),7.8,493754,1430
+Watchmen,2009,R,2h 42min,Action; Drama; Mystery; ,6 March 2009 (USA),7.6,487717,1398
+Source Code,2011,PG-13,1h 33min,Action; Drama; Mystery; ,1 April 2011 (USA),7.5,474236,635
+Get Out,2017,R,1h 44min,Horror; Mystery; Thriller; ,24 February 2017 (USA),7.7,465577,1566
+Ex Machina,2014,R,1h 48min,Drama; Mystery; Sci-Fi; ,24 April 2015 (USA),7.7,458187,884
+Hot Fuzz,2007,R,2h 1min,Action; Comedy; Mystery; ,20 April 2007 (USA),7.8,450223,811
+Zodiac,2007,R,2h 37min,Crime; Drama; Mystery; ,2 March 2007 (USA),7.7,436901,768
+Blade Runner 2049,2017,R,2h 44min,Action; Drama; Mystery; ,6 October 2017 (USA),8.0,434995,2337
+Rear Window,1954,PG,1h 52min,Mystery; Thriller; ,September 1954 (USA),8.4,428644,838
+The Conjuring,2013,R,1h 52min,Horror; Mystery; Thriller; ,19 July 2013 (USA),7.5,427069,1054
+The Bourne Supremacy,2004,PG-13,1h 48min,Action; Mystery; Thriller; ,23 July 2004 (USA),7.7,424855,847
+Divergent,2014,PG-13,2h 19min,Action; Adventure; Mystery; ,21 March 2014 (USA),6.7,416400,797
+Sherlock Holmes: A Game of Shadows,2011,PG-13,2h 9min,Action; Adventure; Mystery; ,16 December 2011 (USA),7.5,411748,446
+Mystic River,2003,R,2h 18min,Crime; Drama; Mystery; ,15 October 2003 (USA),7.9,409000,1036
+The Girl with the Dragon Tattoo,2011,R,2h 38min,Crime; Drama; Mystery; ,21 December 2011 (USA),7.8,408988,723
+The Maze Runner,2014,PG-13,1h 53min,Action; Mystery; Sci-Fi; ,19 September 2014 (USA),6.8,406551,612
+The Da Vinci Code,2006,PG-13,2h 29min,Mystery; Thriller; ,19 May 2006 (USA),6.6,390693,2019
+Citizen Kane,1941,PG,1h 59min,Drama; Mystery; ,5 September 1941 (USA),8.3,386235,1440
+Unbreakable,2000,PG-13,1h 46min,Drama; Mystery; Sci-Fi; ,22 November 2000 (USA),7.3,377965,1496
+Saw,2004,R,1h 43min,Horror; Mystery; ,29 October 2004 (USA),7.6,369825,1612
+The Thing,1982,R,1h 49min,Horror; Mystery; Sci-Fi; ,25 June 1982 (USA),8.1,356786,1095
+Vertigo,1958,PG,2h 8min,Mystery; Romance; Thriller; ,22 May 1958 (UK),8.3,348553,848
+The Lives of Others,2006,R,2h 17min,Drama; Mystery; Thriller; ,30 March 2007 (USA),8.4,346768,510
+Cloud Atlas,2012,R,2h 52min,Action; Drama; Mystery; ,26 October 2012 (USA),7.4,338490,984
+The Game,1997,R,2h 9min,Drama; Mystery; Thriller; ,12 September 1997 (USA),7.8,334123,631
+Super 8,2011,PG-13,1h 52min,Mystery; Sci-Fi; Thriller; ,10 June 2011 (USA),7.0,332878,924
+Signs,2002,PG-13,1h 46min,Drama; Mystery; Sci-Fi; ,2 August 2002 (USA),6.7,330229,2413
+Inside Man,2006,R,2h 9min,Crime; Drama; Mystery; ,24 March 2006 (USA),7.6,329267,718
+The Others,2001,PG-13,1h 44min,Horror; Mystery; Thriller; ,10 August 2001 (USA),7.6,328626,1147
+Moon,2009,R,1h 37min,Drama; Mystery; Sci-Fi; ,10 July 2009 (USA),7.9,327607,620
+Sleepy Hollow,1999,R,1h 45min,Fantasy; Horror; Mystery; ,19 November 1999 (USA),7.3,320863,1023
+The Devil's Advocate,1997,R,2h 24min,Drama; Mystery; Thriller; ,17 October 1997 (USA),7.5,319323,473
+The Ring,2002,PG-13,1h 55min,Horror; Mystery; ,18 October 2002 (USA),7.1,313252,1666
+Mulholland Drive,2001,R,2h 27min,Drama; Mystery; Thriller; ,19 October 2001 (USA),8.0,309859,1922
+National Treasure,2004,PG,2h 11min,Action; Adventure; Mystery; ,19 November 2004 (USA),6.9,297865,741
+Lucky Number Slevin,2006,R,1h 50min,Crime; Drama; Mystery; ,7 April 2006 (USA),7.7,295883,548
+Eyes Wide Shut,1999,R,2h 39min,Drama; Mystery; Thriller; ,16 July 1999 (USA),7.4,291877,1626
+Salt,2010,PG-13,1h 40min,Action; Mystery; Thriller; ,23 July 2010 (USA),6.4,289816,580
+North by Northwest,1959,Approved,2h 16min,Adventure; Mystery; Thriller; ,26 September 1959 (Japan),8.3,289249,602
+Chinatown,1974,R,2h 10min,Drama; Mystery; Thriller; ,20 June 1974 (USA),8.2,284178,536
+10 Cloverfield Lane,2016,PG-13,1h 43min,Drama; Horror; Mystery; ,11 March 2016 (USA),7.2,280920,752
+Scream,1996,R,1h 51min,Horror; Mystery; ,20 December 1996 (USA),7.2,276756,969
+Insidious,2010,PG-13,1h 43min,Horror; Mystery; Thriller; ,1 April 2011 (USA),6.8,269842,885
+Insomnia,2002,R,1h 58min,Drama; Mystery; Thriller; ,24 May 2002 (USA),7.2,266499,686
+Angels & Demons,2009,PG-13,2h 18min,Action; Mystery; Thriller; ,15 May 2009 (USA),6.7,266342,494
+1408,2007,PG-13,1h 44min,Fantasy; Horror; Mystery; ,22 June 2007 (USA),6.8,250909,635
+Contact,1997,PG,2h 30min,Drama; Mystery; Sci-Fi; ,11 July 1997 (USA),7.4,247426,698
+Non-Stop,2014,PG-13,1h 46min,Action; Mystery; Thriller; ,28 February 2014 (USA),6.9,245364,449
+Gone Baby Gone,2007,R,1h 54min,Crime; Drama; Mystery; ,19 October 2007 (USA),7.6,244160,563
+Unknown,2011,PG-13,1h 53min,Action; Mystery; Thriller; ,18 February 2011 (USA),6.8,243861,385
+Vanilla Sky,2001,R,2h 16min,Fantasy; Mystery; Romance; ,14 December 2001 (USA),6.9,243022,1293
+Atonement,2007,R,2h 3min,Drama; Mystery; Romance; ,11 January 2008 (USA),7.8,241597,650
+The Village,2004,PG-13,1h 48min,Drama; Mystery; Thriller; ,30 July 2004 (USA),6.5,237425,2060
+Saw II,2005,R,1h 33min,Horror; Mystery; ,28 October 2005 (USA),6.6,227844,885
+The Blair Witch Project,1999,R,1h 21min,Horror; Mystery; ,30 July 1999 (USA),6.5,226136,3515
+The Fountain,2006,PG-13,1h 37min,Drama; Mystery; Romance; ,22 November 2006 (USA),7.2,224147,985
+Identity,2003,R,1h 30min,Mystery; Thriller; ,25 April 2003 (USA),7.3,221013,772
+Knowing,2009,PG-13,2h 1min,Action; Drama; Mystery; ,20 March 2009 (USA),6.2,216703,885
+Paranormal Activity,2007,R,1h 26min,Horror; Mystery; Thriller; ,16 October 2009 (USA),6.3,216061,1262
+Disturbia,2007,PG-13,1h 45min,Crime; Drama; Mystery; ,13 April 2007 (USA),6.8,215909,528
+The Conjuring 2,2016,R,2h 14min,Horror; Mystery; Thriller; ,10 June 2016 (USA),7.3,215865,548
+Hereditary,2018,R,2h 7min,Drama; Horror; Mystery; ,8 June 2018 (USA),7.3,214954,3086
+National Treasure: Book of Secrets,2007,PG,2h 4min,Action; Adventure; Mystery; ,21 December 2007 (USA),6.5,214171,319
+Sinister,2012,R,1h 50min,Horror; Mystery; Thriller; ,12 October 2012 (USA),6.8,212002,667
+The Girl with the Dragon Tattoo,2009,R,2h 32min,Crime; Drama; Mystery; ,30 April 2010 (USA),7.8,205262,316
+Cube,1997,R,1h 30min,Drama; Mystery; Sci-Fi; ,11 July 1998 (Netherlands),7.2,204760,819
+Us,2019,R,1h 56min,Horror; Mystery; Thriller; ,22 March 2019 (USA),6.9,204739,3049
+It Follows,2014,R,1h 40min,Horror; Mystery; Thriller; ,13 March 2015 (USA),6.8,201012,997
+Murder on the Orient Express,2017,PG-13,1h 54min,Crime; Drama; Mystery; ,10 November 2017 (USA),6.5,200486,877
+Wind River,2017,R,1h 47min,Crime; Drama; Mystery; ,18 August 2017 (USA),7.7,193037,609
+The Happening,2008,R,1h 31min,Drama; Mystery; Sci-Fi; ,13 June 2008 (USA),5.0,192408,1379
+The Number 23,2007,R,1h 38min,Crime; Mystery; Thriller; ,23 February 2007 (USA),6.4,190439,414
+The Secret in Their Eyes,2009,R,2h 9min,Drama; Mystery; Romance; ,21 May 2010 (USA),8.2,186147,291
+Orphan,2009,R,2h 3min,Horror; Mystery; Thriller; ,24 July 2009 (USA),6.9,186073,489
+The Witch,2015,R,1h 32min,Drama; Horror; Mystery; ,19 February 2016 (USA),6.9,185878,982
+Dark City,1998,R,1h 40min,Mystery; Sci-Fi; Thriller; ,27 February 1998 (USA),7.6,184177,679
+Tinker Tailor Soldier Spy,2011,R,2h 2min,Drama; Mystery; Thriller; ,6 January 2012 (USA),7.1,182571,604
+Mother!,2017,R,2h 1min,Drama; Horror; Mystery; ,15 September 2017 (USA),6.6,182167,2074
+Forrest Gump,1994,PG-13,2h 22min,Romance; ,6 July 1994 (USA),8.8,1741481,2355
+Titanic,1997,PG-13,3h 14min,Romance; ,19 December 1997 (USA),7.8,1017379,2864
+Eternal Sunshine of the Spotless Mind,2004,R,1h 48min,Romance; ,19 March 2004 (USA),8.3,882688,1800
+Good Will Hunting,1997,R,2h 6min,Romance; ,9 January 1998 (USA),8.3,830366,887
+Slumdog Millionaire,2008,R,2h,Romance; ,25 December 2008 (USA),8.0,782771,1126
+Amélie,2001,R,2h 2min,Comedy; Romance; ,8 February 2002 (USA),8.3,686825,1481
+Silver Linings Playbook,2012,R,2h 2min,Comedy; Romance; ,25 December 2012 (USA),7.7,648078,836
+Life Is Beautiful,1997,PG-13,1h 56min,Comedy; Romance; ,12 February 1999 (USA),8.6,600633,1318
+The Curious Case of Benjamin Button,2008,PG-13,2h 46min,Romance; ,25 December 2008 (USA),7.8,572320,948
+Groundhog Day,1993,PG,1h 41min,Comedy; Romance; ,12 February 1993 (USA),8.0,566305,769
+Her,2013,R,2h 6min,Romance; ,10 January 2014 (USA),8.0,518426,1060
+Cast Away,2000,PG-13,2h 23min,Romance; ,22 December 2000 (USA),7.8,506482,1179
+Casablanca,1942,PG,1h 42min,Romance; ,23 January 1943 (USA),8.5,506322,1292
+The Notebook,2004,PG-13,2h 3min,Romance; ,25 June 2004 (USA),7.8,503964,1255
+The Great Gatsby,2013,PG-13,2h 23min,Romance; ,10 May 2013 (USA),7.2,462941,902
+500 Days of Summer,2009,PG-13,1h 35min,Comedy; Romance; ,7 August 2009 (USA),7.7,461834,601
+"Crazy, Stupid, Love",2011,PG-13,1h 58min,Comedy; Romance; ,29 July 2011 (USA),7.4,460023,370
+The Perks of Being a Wallflower,2012,PG-13,1h 43min,Romance; ,12 October 2012 (USA),8.0,448222,618
+Edward Scissorhands,1990,PG-13,1h 45min,Romance; ,14 December 1990 (USA),7.9,434955,656
+Love Actually,2003,R,2h 15min,Comedy; Romance; ,14 November 2003 (USA),7.6,413896,1136
+Twilight,2008,PG-13,2h 2min,Romance; ,21 November 2008 (USA),5.2,413326,1654
+The Terminal,2004,PG-13,2h 8min,Comedy; Romance; ,18 June 2004 (USA),7.4,393039,702
+The Theory of Everything,2014,PG-13,2h 3min,Romance; ,26 November 2014 (USA),7.7,387452,501
+The 40-Year-Old Virgin,2005,R,1h 56min,Comedy; Romance; ,19 August 2005 (USA),7.1,384072,587
+Midnight in Paris,2011,PG-13,1h 34min,Comedy; Romance; ,10 June 2011 (USA),7.7,376680,609
+Vertigo,1958,PG,2h 8min,Romance; ,22 May 1958 (UK),8.3,348647,848
+Easy A,2010,PG-13,1h 32min,Comedy; Romance; ,17 September 2010 (USA),7.0,348230,339
+Knocked Up,2007,R,2h 9min,Comedy; Romance; ,1 June 2007 (USA),6.9,343791,584
+Passengers,2016,PG-13,1h 56min,Romance; ,21 December 2016 (USA),7.0,337271,1173
+The Fault in Our Stars,2014,PG-13,2h 6min,Romance; ,6 June 2014 (USA),7.7,334274,679
+Friends with Benefits,2011,R,1h 49min,Comedy; Romance; ,22 July 2011 (USA),6.5,332366,238
+Yes Man,2008,PG-13,1h 44min,Comedy; Romance; ,19 December 2008 (USA),6.8,327950,302
+Wedding Crashers,2005,R,1h 59min,Comedy; Romance; ,15 July 2005 (USA),6.9,326314,667
+50 First Dates,2004,PG-13,1h 39min,Comedy; Romance; ,13 February 2004 (USA),6.8,318838,505
+Brokeback Mountain,2005,R,2h 14min,Romance; ,13 January 2006 (USA),7.7,315187,2337
+A Star Is Born,2018,R,2h 16min,Romance; ,5 October 2018 (USA),7.7,313248,2667
+Up in the Air,2009,R,1h 49min,Comedy; Romance; ,23 December 2009 (USA),7.4,312919,522
+50_50,2011,R,1h 40min,Comedy; Romance; ,30 September 2011 (USA),7.6,310708,428
+Moonrise Kingdom,2012,PG-13,1h 34min,Comedy; Romance; ,29 June 2012 (USA),7.8,309368,438
+Meet the Parents,2000,PG-13,1h 48min,Comedy; Romance; ,6 October 2000 (USA),7.0,304804,517
+Fifty Shades of Grey,2015,R,2h 5min,Romance; ,13 February 2015 (USA),4.1,291846,1543
+Hitch,2005,PG-13,1h 58min,Comedy; Romance; ,11 February 2005 (USA),6.6,290474,410
+10 Things I Hate About You,1999,PG-13,1h 37min,Comedy; Romance; ,31 March 1999 (USA),7.3,287665,616
+The Proposal,2009,PG-13,1h 48min,Comedy; Romance; ,19 June 2009 (USA),6.7,287564,330
+There's Something About Mary,1998,R,1h 59min,Comedy; Romance; ,15 July 1998 (USA),7.1,284962,649
+Gone with the Wind,1939,Passed,3h 58min,Romance; ,17 January 1940 (USA),8.1,281474,870
+Pretty Woman,1990,R,1h 59min,Comedy; Romance; ,23 March 1990 (USA),7.0,279357,334
+Pitch Perfect,2012,PG-13,1h 52min,Comedy; Romance; ,5 October 2012 (USA),7.2,269450,316
+As Good as It Gets,1997,PG-13,2h 19min,Comedy; Romance; ,25 December 1997 (USA),7.7,268396,539
+Notting Hill,1999,PG-13,2h 4min,Comedy; Romance; ,28 May 1999 (USA),7.1,263330,669
+Moulin Rouge!,2001,PG-13,2h 7min,Romance; ,1 June 2001 (USA),7.6,261663,2352
+Bridesmaids,2011,R,2h 5min,Comedy; Romance; ,13 May 2011 (USA),6.8,261604,563
+Before Sunrise,1995,R,1h 41min,Romance; ,27 January 1995 (USA),8.1,259505,491
+Forgetting Sarah Marshall,2008,R,1h 51min,Comedy; Romance; ,18 April 2008 (USA),7.1,257218,367
+The Graduate,1967,PG,1h 46min,Comedy; Romance; ,21 December 1967 (USA),8.0,248509,747
+Meet the Fockers,2004,PG-13,1h 55min,Comedy; Romance; ,22 December 2004 (USA),6.3,247839,440
+Annie Hall,1977,PG,1h 33min,Comedy; Romance; ,20 April 1977 (USA),8.0,247004,534
+Pride & Prejudice,2005,PG,2h 9min,Romance; ,23 November 2005 (USA),7.8,244775,1158
+Vanilla Sky,2001,R,2h 16min,Romance; ,14 December 2001 (USA),6.9,243067,1294
+Atonement,2007,R,2h 3min,Romance; ,11 January 2008 (USA),7.8,241646,650
+The Adjustment Bureau,2011,PG-13,1h 46min,Romance; ,4 March 2011 (USA),7.0,238519,473
+Vicky Cristina Barcelona,2008,PG-13,1h 36min,Comedy; Romance; ,15 August 2008 (USA),7.1,237781,398
+Some Like It Hot,1959,Not Rated,2h 1min,Comedy; Romance; ,19 March 1959 (USA),8.2,236307,416
+Jerry Maguire,1996,R,2h 19min,Comedy; Romance; ,13 December 1996 (USA),7.3,235416,366
+The Holiday,2006,PG-13,2h 16min,Comedy; Romance; ,8 December 2006 (USA),6.9,235047,560
+Grease,1978,PG,1h 50min,Romance; ,16 June 1978 (USA),7.2,230215,415
+The Reader,2008,R,2h 4min,Romance; ,30 January 2009 (USA),7.6,226284,431
+Before Sunset,2004,R,1h 20min,Romance; ,30 July 2004 (USA),8.0,226255,542
+The Artist,2011,PG-13,1h 40min,Comedy; Romance; ,20 January 2012 (USA),7.9,226187,661
+Don Jon,2013,R,1h 30min,Comedy; Romance; ,27 September 2013 (USA),6.5,224896,338
+The Fountain,2006,PG-13,1h 37min,Romance; ,22 November 2006 (USA),7.2,224185,985
+Marriage Story,2019,R,2h 17min,Comedy; Romance; ,6 December 2019 (USA),8.0,219894,1178
+Bridget Jones's Diary,2001,R,1h 37min,Comedy; Romance; ,13 April 2001 (USA),6.7,218715,588
+The Beach,2000,R,1h 59min,Romance; ,11 February 2000 (USA),6.7,218197,587
+Warm Bodies,2013,PG-13,1h 38min,Comedy; Romance; ,1 February 2013 (USA),6.9,215679,378
+Just Go with It,2011,PG-13,1h 57min,Comedy; Romance; ,11 February 2011 (USA),6.4,215475,271
+Singin' in the Rain,1952,G,1h 43min,Comedy; Romance; ,11 April 1952 (USA),8.3,211370,664
+Mr. Nobody,2009,R,2h 21min,Romance; ,26 September 2013 (USA),7.8,210352,393
+Meet Joe Black,1998,PG-13,2h 58min,Romance; ,13 November 1998 (USA),7.2,208791,799
+Mamma Mia!,2008,PG-13,1h 48min,Comedy; Romance; ,18 July 2008 (USA),6.4,208596,752
+No Strings Attached,2011,R,1h 48min,Comedy; Romance; ,21 January 2011 (USA),6.2,208289,214
+The Lobster,2015,R,1h 59min,Comedy; Romance; ,16 October 2015 (Ireland),7.2,207454,646
+Romeo + Juliet,1996,PG-13,2h,Romance; ,1 November 1996 (USA),6.7,205296,576
+Garden State,2004,R,1h 42min,Comedy; Romance; ,20 August 2004 (USA),7.4,204812,973
+How to Lose a Guy in 10 Days,2003,PG-13,1h 56min,Comedy; Romance; ,7 February 2003 (USA),6.4,203365,383
+Match Point,2005,R,2h 4min,Romance; ,20 January 2006 (USA),7.6,201777,786
+True Romance,1993,R,1h 59min,Romance; ,10 September 1993 (USA),7.9,200842,537
+The Ugly Truth,2009,R,1h 36min,Comedy; Romance; ,24 July 2009 (USA),6.4,199488,195
+Closer,2004,R,1h 44min,Romance; ,3 December 2004 (USA),7.2,198838,952
+The Girl Next Door,2004,R,1h 49min,Comedy; Romance; ,9 April 2004 (USA),6.7,197489,540
+Me Before You,2016,PG-13,1h 46min,Romance; ,3 June 2016 (USA),7.4,197474,457
+P.S. I Love You,2007,PG-13,2h 6min,Comedy; Romance; ,21 December 2007 (USA),7.0,197346,276
+Call Me by Your Name,2017,R,2h 12min,Romance; ,19 January 2018 (USA),7.9,195583,951
+A Walk to Remember,2002,PG,1h 41min,Romance; ,25 January 2002 (USA),7.4,195515,1010
+Dirty Dancing,1987,PG-13,1h 40min,Romance; ,21 August 1987 (USA),7.0,194838,462
+"I Love You, Man",2009,R,1h 45min,Comedy; Romance; ,20 March 2009 (USA),7.0,191014,234
+Ghost,1990,PG-13,2h 7min,Romance; ,13 July 1990 (USA),7.0,190746,301
+Revolutionary Road,2008,R,1h 59min,Romance; ,23 January 2009 (USA),7.3,190069,486
+When Harry Met Sally...,1989,R,1h 35min,Comedy; Romance; ,21 July 1989 (USA),7.6,189079,326
+Bad Teacher,2011,R,1h 32min,Comedy; Romance; ,24 June 2011 (USA),5.6,189027,325
+Inception,2010,PG-13,2h 28min,Action; Adventure; Sci-Fi; ,16 July 2010 (USA),8.8,1981688,3820
+The Matrix,1999,R,2h 16min,Action; Sci-Fi; ,31 March 1999 (USA),8.7,1619772,4281
+Interstellar,2014,PG-13,2h 49min,Adventure; Drama; Sci-Fi; ,7 November 2014 (USA),8.6,1430810,3977
+The Avengers,2012,PG-13,2h 23min,Action; Adventure; Sci-Fi; ,4 May 2012 (USA),8.0,1236053,1929
+The Prestige,2006,PG-13,2h 10min,Drama; Mystery; Sci-Fi; ,20 October 2006 (USA),8.5,1144521,1394
+Back to the Future,1985,PG,1h 56min,Adventure; Comedy; Sci-Fi; ,3 July 1985 (USA),8.5,1015026,1176
+V for Vendetta,2005,R,2h 12min,Action; Drama; Sci-Fi; ,17 March 2006 (USA),8.2,1002950,2205
+Terminator 2: Judgment Day,1991,R,2h 17min,Action; Sci-Fi; ,3 July 1991 (USA),8.5,968511,1269
+Iron Man,2008,PG-13,2h 6min,Action; Adventure; Sci-Fi; ,2 May 2008 (USA),7.9,915644,1319
+The Truman Show,1998,PG,1h 43min,Comedy; Drama; Sci-Fi; ,5 June 1998 (USA),8.1,901077,1151
+Eternal Sunshine of the Spotless Mind,2004,R,1h 48min,Drama; Romance; Sci-Fi; ,19 March 2004 (USA),8.3,882500,1800
+Mad Max: Fury Road,2015,R,2h,Action; Adventure; Sci-Fi; ,15 May 2015 (USA),8.1,848014,1990
+Star Wars: Episode VII - The Force Awakens,2015,PG-13,2h 18min,Action; Adventure; Sci-Fi; ,18 December 2015 (USA),7.9,841239,4794
+Jurassic Park,1993,PG-13,2h 7min,Action; Adventure; Sci-Fi; ,11 June 1993 (USA),8.1,836798,1133
+The Hunger Games,2012,PG-13,2h 22min,Action; Adventure; Sci-Fi; ,23 March 2012 (USA),7.2,826508,2037
+Avengers: Infinity War,2018,PG-13,2h 29min,Action; Adventure; Sci-Fi; ,27 April 2018 (USA),8.4,784785,4248
+The Terminator,1984,R,1h 47min,Action; Sci-Fi; ,26 October 1984 (USA),8.0,779037,885
+Alien,1979,R,1h 57min,Horror; Sci-Fi; ,22 June 1979 (USA),8.4,762796,1423
+Gravity,2013,PG-13,1h 31min,Drama; Sci-Fi; Thriller; ,4 October 2013 (USA),7.7,751308,2090
+Iron Man 3,2013,PG-13,2h 10min,Action; Adventure; Sci-Fi; ,3 May 2013 (USA),7.2,735571,1314
+A Clockwork Orange,1971,R,2h 16min,Crime; Drama; Sci-Fi; ,2 February 1972 (USA),8.3,735084,1553
+The Martian,2015,PG-13,2h 24min,Adventure; Drama; Sci-Fi; ,2 October 2015 (USA),8.0,734927,1312
+Donnie Darko,2001,R,1h 53min,Drama; Mystery; Sci-Fi; ,30 January 2002 (France),8.0,724912,2276
+Captain America: The First Avenger,2011,PG-13,2h 4min,Action; Adventure; Sci-Fi; ,22 July 2011 (USA),6.9,718921,882
+Avengers: Age of Ultron,2015,PG-13,2h 21min,Action; Adventure; Sci-Fi; ,1 May 2015 (USA),7.3,717523,1303
+Captain America: The Winter Soldier,2014,PG-13,2h 16min,Action; Adventure; Sci-Fi; ,4 April 2014 (USA),7.7,714448,937
+Iron Man 2,2010,PG-13,2h 4min,Action; Adventure; Sci-Fi; ,7 May 2010 (USA),7.0,701924,881
+Man of Steel,2013,PG-13,2h 23min,Action; Adventure; Sci-Fi; ,14 June 2013 (USA),7.0,675231,2747
+Blade Runner,1982,R,1h 57min,Action; Sci-Fi; Thriller; ,25 June 1982 (USA),8.1,673129,1541
+Spider-Man,2002,PG-13,2h 1min,Action; Adventure; Sci-Fi; ,3 May 2002 (USA),7.3,671754,2124
+X-Men: Days of Future Past,2014,PG-13,2h 12min,Action; Adventure; Sci-Fi; ,23 May 2014 (USA),8.0,647272,821
+Captain America: Civil War,2016,PG-13,2h 27min,Action; Adventure; Sci-Fi; ,6 May 2016 (USA),7.8,638736,1410
+Aliens,1986,R,2h 17min,Action; Adventure; Sci-Fi; ,18 July 1986 (USA),8.3,635166,1280
+X-Men: First Class,2011,PG-13,2h 11min,Action; Adventure; Sci-Fi; ,3 June 2011 (USA),7.7,634152,767
+District 9,2009,R,1h 52min,Action; Sci-Fi; Thriller; ,14 August 2009 (USA),7.9,627698,1375
+Logan,2017,R,2h 17min,Action; Drama; Sci-Fi; ,3 March 2017 (USA),8.1,621181,1559
+Batman v Superman: Dawn of Justice,2016,PG-13,2h 31min,Action; Adventure; Sci-Fi; ,25 March 2016 (USA),6.4,608230,3696
+Black Panther,2018,PG-13,2h 14min,Action; Adventure; Sci-Fi; ,16 February 2018 (USA),7.3,587394,3190
+Transformers,2007,PG-13,2h 24min,Action; Adventure; Sci-Fi; ,3 July 2007 (USA),7.0,586898,1869
+2001: A Space Odyssey,1968,G,2h 29min,Adventure; Sci-Fi; ,12 May 1968 (UK),8.3,582726,2143
+Edge of Tomorrow,2014,PG-13,1h 53min,Action; Adventure; Sci-Fi; ,6 June 2014 (USA),7.9,581945,967
+Star Trek,2009,PG-13,2h 7min,Action; Adventure; Sci-Fi; ,8 May 2009 (USA),7.9,570082,1650
+Arrival,2016,PG-13,1h 56min,Drama; Mystery; Sci-Fi; ,11 November 2016 (USA),7.9,569765,1861
+Jurassic World,2015,PG-13,2h 4min,Action; Adventure; Sci-Fi; ,12 June 2015 (USA),7.0,566277,1531
+12 Monkeys,1995,R,2h 9min,Mystery; Sci-Fi; Thriller; ,5 January 1996 (USA),8.0,565403,641
+X-Men,2000,PG-13,1h 44min,Action; Adventure; Sci-Fi; ,14 July 2000 (USA),7.4,559248,1447
+Prometheus,2012,R,2h 4min,Adventure; Mystery; Sci-Fi; ,8 June 2012 (USA),7.0,557990,2543
+The Amazing Spider-Man,2012,PG-13,2h 16min,Action; Adventure; Sci-Fi; ,3 July 2012 (USA),6.9,547661,1342
+Rogue One: A Star Wars Story,2016,PG-13,2h 13min,Action; Adventure; Sci-Fi; ,16 December 2016 (USA),7.8,534491,1763
+Spider-Man 2,2004,PG-13,2h 7min,Action; Adventure; Sci-Fi; ,30 June 2004 (USA),7.3,529345,1450
+Looper,2012,R,1h 53min,Action; Drama; Sci-Fi; ,28 September 2012 (USA),7.4,523456,761
+Her,2013,R,2h 6min,Drama; Romance; Sci-Fi; ,10 January 2014 (USA),8.0,518285,1060
+Independence Day,1996,PG-13,2h 25min,Action; Adventure; Sci-Fi; ,3 July 1996 (USA),7.0,516794,939
+Limitless,2011,PG-13,1h 45min,Sci-Fi; Thriller; ,18 March 2011 (USA),7.4,516619,485
+The Matrix Reloaded,2003,R,2h 18min,Action; Sci-Fi; ,15 May 2003 (USA),7.2,503185,2781
+X2: X-Men United,2003,PG-13,2h 14min,Action; Sci-Fi; Thriller; ,2 May 2003 (USA),7.4,501727,1105
+Spider-Man: Homecoming,2017,PG-13,2h 13min,Action; Adventure; Sci-Fi; ,7 July 2017 (USA),7.4,488800,1356
+Rise of the Planet of the Apes,2011,PG-13,1h 45min,Action; Drama; Sci-Fi; ,5 August 2011 (USA),7.6,488751,706
+"I, Robot",2004,PG-13,1h 55min,Action; Drama; Sci-Fi; ,16 July 2004 (USA),7.1,488325,839
+Spider-Man 3,2007,PG-13,2h 19min,Action; Adventure; Sci-Fi; ,4 May 2007 (USA),6.2,486585,2061
+Oblivion,2013,PG-13,2h 4min,Action; Adventure; Sci-Fi; ,19 April 2013 (USA),7.0,474456,1006
+X-Men: The Last Stand,2006,PG-13,1h 44min,Action; Adventure; Sci-Fi; ,26 May 2006 (USA),6.7,473265,1955
+Back to the Future Part II,1989,PG,1h 48min,Adventure; Comedy; Sci-Fi; ,22 November 1989 (USA),7.8,462381,412
+Ex Machina,2014,R,1h 48min,Drama; Mystery; Sci-Fi; ,24 April 2015 (USA),7.7,458187,884
+Pacific Rim,2013,PG-13,2h 11min,Action; Adventure; Sci-Fi; ,12 July 2013 (USA),6.9,458119,1240
+X-Men Origins: Wolverine,2009,PG-13,1h 47min,Action; Adventure; Sci-Fi; ,1 May 2009 (USA),6.6,457518,712
+Star Trek Into Darkness,2013,PG-13,2h 12min,Action; Adventure; Sci-Fi; ,16 May 2013 (USA),7.7,457107,1243
+Children of Men,2006,R,1h 49min,Drama; Sci-Fi; Thriller; ,5 January 2007 (USA),7.9,452558,1342
+The Butterfly Effect,2004,R,1h 53min,Drama; Sci-Fi; Thriller; ,23 January 2004 (USA),7.6,441951,1180
+The Matrix Revolutions,2003,R,2h 9min,Action; Sci-Fi; ,5 November 2003 (USA),6.8,437028,2126
+Lucy,2014,R,1h 29min,Action; Sci-Fi; Thriller; ,25 July 2014 (USA),6.4,430676,1137
+The Incredible Hulk,2008,PG-13,1h 52min,Action; Adventure; Sci-Fi; ,13 June 2008 (USA),6.7,423889,797
+The Fifth Element,1997,PG-13,2h 6min,Action; Adventure; Sci-Fi; ,9 May 1997 (USA),7.7,423434,852
+The Wolverine,2013,PG-13,2h 6min,Action; Adventure; Sci-Fi; ,26 July 2013 (USA),6.7,420261,607
+Captain Marvel,2019,PG-13,2h 3min,Action; Adventure; Sci-Fi; ,8 March 2019 (USA),6.9,417001,7184
+Elysium,2013,R,1h 49min,Action; Drama; Sci-Fi; ,9 August 2013 (USA),6.6,411958,915
+The Amazing Spider-Man 2,2014,PG-13,2h 22min,Action; Adventure; Sci-Fi; ,2 May 2014 (USA),6.6,407309,1181
+War of the Worlds,2005,PG-13,1h 56min,Adventure; Sci-Fi; Thriller; ,29 June 2005 (USA),6.5,406710,2838
+The Maze Runner,2014,PG-13,1h 53min,Action; Mystery; Sci-Fi; ,19 September 2014 (USA),6.8,406551,612
+The Day After Tomorrow,2004,PG-13,2h 4min,Action; Adventure; Sci-Fi; ,28 May 2004 (USA),6.4,406360,1223
+The Hunger Games: Mockingjay - Part 1,2014,PG-13,2h 3min,Action; Adventure; Sci-Fi; ,21 November 2014 (USA),6.6,401820,611
+Back to the Future Part III,1990,PG,1h 58min,Adventure; Comedy; Sci-Fi; ,25 May 1990 (USA),7.4,389699,335
+Armageddon,1998,PG-13,2h 31min,Action; Adventure; Sci-Fi; ,1 July 1998 (USA),6.7,387963,1224
+A Quiet Place,2018,PG-13,1h 30min,Drama; Horror; Sci-Fi; ,6 April 2018 (USA),7.5,385789,2882
+X-Men: Apocalypse,2016,PG-13,2h 24min,Action; Adventure; Sci-Fi; ,27 May 2016 (USA),6.9,381865,830
+Transformers: Dark of the Moon,2011,PG-13,2h 34min,Action; Adventure; Sci-Fi; ,29 June 2011 (USA),6.2,378545,939
+Unbreakable,2000,PG-13,1h 46min,Drama; Mystery; Sci-Fi; ,22 November 2000 (USA),7.3,377965,1496
+Transformers: Revenge of the Fallen,2009,PG-13,2h 29min,Action; Adventure; Sci-Fi; ,24 June 2009 (USA),6.0,377753,1494
+Terminator 3: Rise of the Machines,2003,R,1h 49min,Action; Sci-Fi; ,2 July 2003 (USA),6.3,369941,1719
+Godzilla,2014,PG-13,2h 3min,Action; Adventure; Sci-Fi; ,16 May 2014 (USA),6.4,368278,1634
+The Lost World: Jurassic Park,1997,PG-13,2h 9min,Action; Adventure; Sci-Fi; ,23 May 1997 (USA),6.6,367727,653
+28 Days Later...,2002,R,1h 53min,Drama; Horror; Sci-Fi; ,27 June 2003 (USA),7.6,367391,1513
+Predator,1987,R,1h 47min,Action; Adventure; Sci-Fi; ,12 June 1987 (USA),7.8,362463,783
+In Time,2011,PG-13,1h 49min,Action; Sci-Fi; Thriller; ,28 October 2011 (USA),6.7,361536,533
+E.T. the Extra-Terrestrial,1982,PG,1h 55min,Sci-Fi; ,11 June 1982 (USA),7.8,359808,610
+The Thing,1982,R,1h 49min,Horror; Mystery; Sci-Fi; ,25 June 1982 (USA),8.1,356790,1095
+Ready Player One,2018,PG-13,2h 20min,Action; Adventure; Sci-Fi; ,29 March 2018 (USA),7.5,348661,1988
+2012,2009,PG-13,2h 38min,Action; Adventure; Sci-Fi; ,13 November 2009 (USA),5.8,345451,1174
+Face_Off,1997,R,2h 18min,Action; Crime; Sci-Fi; ,27 June 1997 (USA),7.3,341453,609
+Terminator Salvation,2009,PG-13,1h 55min,Action; Adventure; Sci-Fi; ,21 May 2009 (USA),6.5,337484,1083
+The Silence of the Lambs,1991,R,1h 58min,Crime; Drama; Thriller; ,14 February 1991 (USA),8.6,1223466,1298
+The Departed,2006,R,2h 31min,Crime; Drama; Thriller; ,6 October 2006 (USA),8.5,1150798,2313
+Memento,2000,R,1h 53min,Mystery; Thriller; ,25 May 2001 (USA),8.4,1090298,2254
+Shutter Island,2010,R,2h 18min,Mystery; Thriller; ,19 February 2010 (USA),8.1,1086350,1269
+Kill Bill: Vol. 1,2003,R,1h 51min,Action; Crime; Thriller; ,10 October 2003 (USA),8.1,970445,2272
+The Usual Suspects,1995,R,1h 46min,Crime; Mystery; Thriller; ,16 August 1995 (USA),8.5,961814,1355
+Reservoir Dogs,1992,R,1h 39min,Crime; Drama; Thriller; ,2 September 1992 (France),8.3,889969,1145
+The Sixth Sense,1999,PG-13,1h 47min,Drama; Mystery; Thriller; ,6 August 1999 (USA),8.1,888925,2223
+Gone Girl,2014,R,2h 29min,Drama; Mystery; Thriller; ,3 October 2014 (USA),8.1,825453,1449
+No Country for Old Men,2007,R,2h 2min,Crime; Drama; Thriller; ,21 November 2007 (USA),8.1,823139,1824
+Joker,2019,R,2h 2min,Crime; Drama; Thriller; ,4 October 2019 (USA),8.5,822374,10279
+Die Hard,1988,R,2h 12min,Action; Thriller; ,20 July 1988 (USA),8.2,763305,912
+Gravity,2013,PG-13,1h 31min,Drama; Sci-Fi; Thriller; ,4 October 2013 (USA),7.7,751308,2090
+Sin City,2005,R,2h 4min,Crime; Thriller; ,1 April 2005 (USA),8.0,731421,1777
+Black Swan,2010,R,1h 48min,Drama; Thriller; ,17 December 2010 (USA),8.0,682526,1273
+Blade Runner,1982,R,1h 57min,Action; Sci-Fi; Thriller; ,25 June 1982 (USA),8.1,673129,1541
+Kill Bill: Vol. 2,2004,R,2h 17min,Action; Crime; Thriller; ,16 April 2004 (USA),8.0,663575,1022
+The Imitation Game,2014,PG-13,1h 54min,Biography; Drama; Thriller; ,25 December 2014 (USA),8.0,662299,825
+District 9,2009,R,1h 52min,Action; Sci-Fi; Thriller; ,14 August 2009 (USA),7.9,627698,1375
+Skyfall,2012,PG-13,2h 23min,Action; Adventure; Thriller; ,9 November 2012 (USA),7.7,617648,1587
+Fargo,1996,R,1h 38min,Crime; Drama; Thriller; ,5 April 1996 (USA),8.1,596614,947
+The Bourne Ultimatum,2007,PG-13,1h 55min,Action; Mystery; Thriller; ,3 August 2007 (USA),8.0,595435,882
+Now You See Me,2013,PG-13,1h 55min,Crime; Mystery; Thriller; ,31 May 2013 (USA),7.3,581644,760
+Psycho,1960,R,1h 49min,Horror; Mystery; Thriller; ,8 September 1960 (USA),8.5,580962,1263
+Casino Royale,2006,PG-13,2h 24min,Action; Adventure; Thriller; ,17 November 2006 (USA),8.0,566971,2401
+12 Monkeys,1995,R,2h 9min,Mystery; Sci-Fi; Thriller; ,5 January 1996 (USA),8.0,565403,641
+Argo,2012,R,2h,Biography; Drama; Thriller; ,12 October 2012 (USA),7.7,560357,789
+Heat,1995,R,2h 50min,Crime; Drama; Thriller; ,15 December 1995 (USA),8.2,557731,1074
+Taken,2008,PG-13,1h 30min,Action; Thriller; ,30 January 2009 (USA),7.8,555825,1056
+Jaws,1975,PG,2h 4min,Adventure; Thriller; ,20 June 1975 (USA),8.0,531984,1203
+Limitless,2011,PG-13,1h 45min,Sci-Fi; Thriller; ,18 March 2011 (USA),7.4,516619,485
+John Wick,2014,R,1h 41min,Action; Crime; Thriller; ,24 October 2014 (USA),7.4,514556,1157
+X2: X-Men United,2003,PG-13,2h 14min,Action; Sci-Fi; Thriller; ,2 May 2003 (USA),7.4,501727,1105
+Ocean's Eleven,2001,PG-13,1h 56min,Crime; Thriller; ,7 December 2001 (USA),7.7,500923,932
+The Bourne Identity,2002,PG-13,1h 59min,Action; Mystery; Thriller; ,14 June 2002 (USA),7.9,496182,912
+Blood Diamond,2006,R,2h 23min,Adventure; Drama; Thriller; ,8 December 2006 (USA),8.0,486643,725
+Get Out,2017,R,1h 44min,Horror; Mystery; Thriller; ,24 February 2017 (USA),7.7,465583,1566
+Children of Men,2006,R,1h 49min,Drama; Sci-Fi; Thriller; ,5 January 2007 (USA),7.9,452558,1342
+Mission: Impossible - Ghost Protocol,2011,PG-13,2h 12min,Action; Adventure; Thriller; ,21 December 2011 (USA),7.4,447114,576
+Nightcrawler,2014,R,1h 57min,Crime; Drama; Thriller; ,31 October 2014 (USA),7.9,443662,758
+Parasite,2019,R,2h 12min,Comedy; Drama; Thriller; ,8 November 2019 (USA),8.6,442239,2595
+The Butterfly Effect,2004,R,1h 53min,Drama; Sci-Fi; Thriller; ,23 January 2004 (USA),7.6,441951,1180
+Lucy,2014,R,1h 29min,Action; Sci-Fi; Thriller; ,25 July 2014 (USA),6.4,430676,1137
+Rear Window,1954,PG,1h 52min,Mystery; Thriller; ,September 1954 (USA),8.4,428646,838
+The Conjuring,2013,R,1h 52min,Horror; Mystery; Thriller; ,19 July 2013 (USA),7.5,427069,1054
+The Bourne Supremacy,2004,PG-13,1h 48min,Action; Mystery; Thriller; ,23 July 2004 (USA),7.7,424858,847
+Crash,2004,R,1h 52min,Crime; Drama; Thriller; ,6 May 2005 (USA),7.7,413655,1693
+The Hurt Locker,2008,R,2h 11min,Drama; Thriller; War; ,31 July 2009 (USA),7.6,411933,973
+War of the Worlds,2005,PG-13,1h 56min,Adventure; Sci-Fi; Thriller; ,29 June 2005 (USA),6.5,406710,2838
+Split,2016,PG-13,1h 57min,Horror; Thriller; ,20 January 2017 (USA),7.3,404540,986
+Quantum of Solace,2008,PG-13,1h 46min,Action; Adventure; Thriller; ,14 November 2008 (USA),6.6,395714,1316
+The Da Vinci Code,2006,PG-13,2h 29min,Mystery; Thriller; ,19 May 2006 (USA),6.6,390693,2019
+Live Free or Die Hard,2007,PG-13,2h 8min,Action; Thriller; ,27 June 2007 (USA),7.1,382657,824
+Training Day,2001,R,2h 2min,Crime; Drama; Thriller; ,5 October 2001 (USA),7.7,378414,711
+Mission: Impossible,1996,PG-13,1h 50min,Action; Adventure; Thriller; ,22 May 1996 (USA),7.1,377738,450
+Spectre,2015,PG-13,2h 28min,Action; Adventure; Thriller; ,6 November 2015 (USA),6.8,374071,1152
+In Time,2011,PG-13,1h 49min,Action; Sci-Fi; Thriller; ,28 October 2011 (USA),6.7,361536,533
+Fast & Furious 6,2013,PG-13,2h 10min,Action; Adventure; Thriller; ,24 May 2013 (USA),7.1,361499,492
+Die Hard with a Vengeance,1995,R,2h 8min,Action; Adventure; Thriller; ,19 May 1995 (USA),7.6,355455,384
+Room,2015,R,1h 58min,Drama; Thriller; ,22 January 2016 (USA),8.1,352682,662
+Furious 7,2015,PG-13,2h 17min,Action; Adventure; Thriller; ,3 April 2015 (USA),7.1,351611,739
+Collateral,2004,R,2h,Crime; Drama; Thriller; ,6 August 2004 (USA),7.5,350031,890
+Ocean's Twelve,2004,PG-13,2h 5min,Crime; Thriller; ,10 December 2004 (USA),6.5,349319,669
+The Machinist,2004,R,1h 41min,Drama; Thriller; ,3 December 2004 (USA),7.7,348658,538
+Vertigo,1958,PG,2h 8min,Mystery; Romance; Thriller; ,22 May 1958 (UK),8.3,348553,848
+John Wick: Chapter 2,2017,R,2h 2min,Action; Crime; Thriller; ,10 February 2017 (USA),7.5,347583,860
+The Lives of Others,2006,R,2h 17min,Drama; Mystery; Thriller; ,30 March 2007 (USA),8.4,346768,510
+The Town,2010,R,2h 5min,Crime; Drama; Thriller; ,17 September 2010 (USA),7.5,341093,498
+The Fast and the Furious,2001,PG-13,1h 46min,Action; Crime; Thriller; ,22 June 2001 (USA),6.8,338840,1059
+The Italian Job,2003,PG-13,1h 51min,Action; Crime; Thriller; ,30 May 2003 (USA),7.0,335571,519
+The Game,1997,R,2h 9min,Drama; Mystery; Thriller; ,12 September 1997 (USA),7.8,334123,631
+Super 8,2011,PG-13,1h 52min,Mystery; Sci-Fi; Thriller; ,10 June 2011 (USA),7.0,332878,924
+Mission: Impossible - Rogue Nation,2015,PG-13,2h 11min,Action; Adventure; Thriller; ,31 July 2015 (USA),7.4,332108,536
+The Others,2001,PG-13,1h 44min,Horror; Mystery; Thriller; ,10 August 2001 (USA),7.6,328626,1147
+Die Hard 2,1990,R,2h 4min,Action; Thriller; ,3 July 1990 (USA),7.2,328030,363
+The Equalizer,2014,R,2h 12min,Action; Crime; Thriller; ,26 September 2014 (USA),7.2,322282,613
+Mission: Impossible III,2006,PG-13,2h 6min,Action; Adventure; Thriller; ,5 May 2006 (USA),6.9,322182,909
+Speed,1994,R,1h 56min,Action; Adventure; Thriller; ,10 June 1994 (USA),7.2,320047,439
+The Expendables,2010,R,1h 43min,Action; Adventure; Thriller; ,13 August 2010 (USA),6.5,319722,769
+The Devil's Advocate,1997,R,2h 24min,Drama; Mystery; Thriller; ,17 October 1997 (USA),7.5,319323,473
+Flight,2012,R,2h 18min,Drama; Thriller; ,2 November 2012 (USA),7.3,317752,573
+Ocean's Thirteen,2007,PG-13,2h 2min,Action; Crime; Thriller; ,8 June 2007 (USA),6.9,312813,316
+Mulholland Drive,2001,R,2h 27min,Drama; Mystery; Thriller; ,19 October 2001 (USA),8.0,309859,1922
+Jackie Brown,1997,R,2h 34min,Crime; Drama; Thriller; ,25 December 1997 (USA),7.5,306881,536
+Mission: Impossible II,2000,PG-13,2h 3min,Action; Adventure; Thriller; ,24 May 2000 (USA),6.1,306425,1490
+The Rock,1996,R,2h 16min,Action; Adventure; Thriller; ,7 June 1996 (USA),7.4,305379,466
+Shooter,2007,R,2h 4min,Action; Drama; Thriller; ,23 March 2007 (USA),7.2,303822,374
+Jack Reacher,2012,PG-13,2h 10min,Action; Thriller; ,21 December 2012 (USA),7.0,300121,527
+The Island,2005,PG-13,2h 16min,Action; Sci-Fi; Thriller; ,22 July 2005 (USA),6.8,296267,948
+Total Recall,1990,R,1h 53min,Action; Sci-Fi; Thriller; ,1 June 1990 (USA),7.5,292730,459
+Eyes Wide Shut,1999,R,2h 39min,Drama; Mystery; Thriller; ,16 July 1999 (USA),7.4,291877,1626
+Fifty Shades of Grey,2015,R,2h 5min,Drama; Romance; Thriller; ,13 February 2015 (USA),4.1,291813,1542
+Salt,2010,PG-13,1h 40min,Action; Mystery; Thriller; ,23 July 2010 (USA),6.4,289816,580
+North by Northwest,1959,Approved,2h 16min,Adventure; Mystery; Thriller; ,26 September 1959 (Japan),8.3,289251,602
+The Expendables 2,2012,R,1h 43min,Action; Adventure; Thriller; ,17 August 2012 (USA),6.6,287241,508
+Taken 2,2012,PG-13,1h 32min,Action; Thriller; ,5 October 2012 (USA),6.3,284295,505
+Chinatown,1974,R,2h 10min,Drama; Mystery; Thriller; ,20 June 1974 (USA),8.2,284180,536
+The Transporter,2002,PG-13,1h 32min,Action; Crime; Thriller; ,11 October 2002 (USA),6.8,279982,473
+The Bourne Legacy,2012,PG-13,2h 15min,Action; Adventure; Thriller; ,10 August 2012 (USA),6.7,279239,559
+Bridge of Spies,2015,PG-13,2h 22min,Drama; History; Thriller; ,16 October 2015 (USA),7.6,279001,465
+Inglourious Basterds,2009,R,2h 33min,Adventure; Drama; War; ,21 August 2009 (USA),8.3,1219382,1856
+Saving Private Ryan,1998,R,2h 49min,Drama; War; ,24 July 1998 (USA),8.6,1194206,2588
+Full Metal Jacket,1987,R,1h 56min,Drama; War; ,10 July 1987 (USA),8.3,652866,844
+Pan's Labyrinth,2006,R,1h 58min,Drama; Fantasy; War; ,19 January 2007 (USA),8.2,603272,1271
+Apocalypse Now,1979,R,2h 27min,Drama; Mystery; War; ,15 August 1979 (USA),8.4,585990,1183
+Casablanca,1942,PG,1h 42min,Drama; Romance; War; ,23 January 1943 (USA),8.5,506227,1292
+Fury,2014,R,2h 14min,Action; Drama; War; ,17 October 2014 (USA),7.6,411964,929
+The Hurt Locker,2008,R,2h 11min,Drama; Thriller; War; ,31 July 2009 (USA),7.6,411933,973
+The Last Samurai,2003,R,2h 34min,Action; Drama; War; ,5 December 2003 (USA),7.7,389279,1030
+Platoon,1986,R,2h,Drama; War; ,6 February 1987 (USA),8.1,370941,603
+Tropic Thunder,2008,R,1h 47min,Action; Comedy; War; ,13 August 2008 (USA),7.0,369926,629
+Black Hawk Down,2001,R,2h 24min,Drama; History; War; ,18 January 2002 (USA),7.7,356187,1153
+1917,2019,R,1h 59min,Drama; War; ,10 January 2020 (USA),8.3,339629,2745
+The Deer Hunter,1978,R,3h 3min,Drama; War; ,23 February 1979 (USA),8.1,302090,1138
+Enemy at the Gates,2001,R,2h 11min,Drama; History; War; ,16 March 2001 (USA),7.6,236664,706
+Jojo Rabbit,2019,PG-13,1h 48min,Comedy; Drama; War; ,8 November 2019 (USA),7.9,234610,1334
+Grave of the Fireflies,1988,Not Rated,1h 29min,Animation; Drama; War; ,26 July 1989 (USA),8.5,221961,707
+The Bridge on the River Kwai,1957,PG,2h 41min,Adventure; Drama; War; ,14 December 1957 (USA),8.1,197254,327
+The Great Dictator,1940,Passed,2h 5min,Comedy; Drama; War; ,7 March 1941 (USA),8.4,195477,260
+The Boy in the Striped Pajamas,2008,PG-13,1h 34min,Drama; War; ,26 November 2008 (USA),7.8,184484,482
+The English Patient,1996,R,2h 42min,Drama; Romance; War; ,6 December 1996 (USA),7.4,174451,510
+Paths of Glory,1957,Approved,1h 28min,Drama; War; ,25 December 1957 (USA),8.4,170708,424
+The Thin Red Line,1998,R,2h 50min,Drama; War; ,15 January 1999 (USA),7.6,168244,1498
+Legends of the Fall,1994,R,2h 13min,Drama; Romance; War; ,13 January 1995 (USA),7.6,143280,399
+Incendies,2010,R,2h 11min,Drama; Mystery; War; ,12 January 2011 (France),8.3,140182,244
+Dear John,2010,PG-13,1h 48min,Drama; Romance; War; ,5 February 2010 (USA),6.3,135449,228
+The Men Who Stare at Goats,2009,R,1h 34min,Comedy; War; ,6 November 2009 (USA),6.2,125141,295
+The Book Thief,2013,PG-13,2h 11min,Drama; War; ,27 November 2013 (USA),7.6,124617,286
+13 Hours,2016,R,2h 24min,Action; Drama; War; ,15 January 2016 (USA),7.3,113586,358
+Ran,1985,R,2h 42min,Action; Drama; War; ,1 June 1985 (Japan),8.2,107488,279
+The Mountain II,2016,Null,2h 15min,Action; Drama; War; ,4 November 2016 (Turkey),8.9,103674,146
+Born on the Fourth of July,1989,R,2h 25min,Biography; Drama; War; ,5 January 1990 (USA),7.2,95537,204
+Patton,1970,GP,2h 52min,Biography; Drama; War; ,2 April 1970 (USA),7.9,91924,287
+U-571,2000,PG-13,1h 56min,Action; War; ,21 April 2000 (USA),6.6,75183,631
+G.I. Jane,1997,R,2h 5min,Action; Drama; War; ,22 August 1997 (USA),5.9,71669,150
+Black Book,2006,R,2h 25min,Drama; Thriller; War; ,18 May 2007 (USA),7.7,71193,248
+Beasts of No Nation,2015,Not Rated,2h 17min,Drama; War; ,16 October 2015 (USA),7.7,70819,169
+The Water Diviner,2014,R,1h 51min,Drama; History; War; ,17 April 2015 (India),7.0,69915,223
+Doctor Zhivago,1965,PG-13,3h 17min,Drama; Romance; War; ,31 December 1965 (USA),8.0,67798,295
+Judgment at Nuremberg,1961,Approved,2h 59min,Drama; War; ,18 December 1961 (Sweden),8.2,66650,212
+MASH,1970,R,1h 56min,Comedy; Drama; War; ,18 March 1970 (USA),7.5,66087,254
+The Dirty Dozen,1967,Not Rated,2h 30min,Action; Adventure; War; ,22 October 1967 (UK),7.7,65283,190
+Windtalkers,2002,R,2h 14min,Action; Drama; War; ,14 June 2002 (USA),6.1,64349,461
+Stripes,1981,R,1h 46min,Comedy; War; ,26 June 1981 (USA),6.9,63335,165
+All Quiet on the Western Front,1930,Not Rated,2h 32min,Drama; War; ,24 August 1930 (USA),8.0,55980,239
+The Best Years of Our Lives,1946,Approved,2h 50min,Drama; Romance; War; ,29 May 1947 (Mexico),8.0,55935,285
+Duck Soup,1933,Not Rated,1h 9min,Comedy; War; ,17 November 1933 (USA),7.8,54450,280
+Underground,1995,Not Rated,2h 47min,Comedy; Drama; War; ,20 June 1997 (USA),8.1,53854,145
+"Salò, or the 120 Days of Sodom",1975,Not Rated,1h 57min,Drama; Horror; War; ,19 May 1976 (France),5.9,52316,428
+Come and See,1985,Not Rated,2h 22min,Drama; War; ,17 October 1985 (Hungary),8.3,52118,501
+Macbeth,2015,R,1h 53min,Drama; History; War; ,11 December 2015 (USA),6.6,51644,219
+The Battle of Algiers,1966,Not Rated,2h 1min,Drama; War; ,20 September 1967 (USA),8.1,50367,286
+Where Eagles Dare,1968,M/PG,2h 38min,Action; Adventure; War; ,12 March 1969 (USA),7.7,50313,270
+A Bridge Too Far,1977,PG,2h 55min,Drama; History; War; ,15 June 1977 (USA),7.4,50196,248
+Stalag 17,1953,Not Rated,2h,Comedy; Drama; War; ,10 August 1953 (Brazil),8.0,50069,161
+Hart's War,2002,R,2h 5min,Drama; War; ,15 February 2002 (USA),6.3,50062,202
+The Wind that Shakes the Barley,2006,Not Rated,2h 7min,Drama; War; ,23 March 2007 (USA),7.5,45234,235
+Kelly's Heroes,1970,GP,2h 24min,Adventure; Comedy; War; ,23 June 1970 (USA),7.6,44031,209
+No Man's Land,2001,R,1h 38min,Comedy; Drama; War; ,19 September 2001 (France),7.9,43762,181
+Rules of Engagement,2000,R,2h 8min,Drama; Thriller; War; ,7 April 2000 (USA),6.4,43553,281
+Son of Saul,2015,R,1h 47min,Drama; War; ,11 June 2015 (Hungary),7.5,43370,147
+The Man Who Would Be King,1975,PG,2h 9min,Adventure; History; War; ,19 December 1975 (UK),7.8,42865,189
+From Here to Eternity,1953,Passed,1h 58min,Drama; Romance; War; ,28 August 1953 (USA),7.6,42026,180
+Uri: The Surgical Strike,2019,Not Rated,2h 18min,Action; Drama; War; ,11 January 2019 (USA),8.3,39997,947
+Mudbound,2017,R,2h 14min,Drama; War; ,17 November 2017 (USA),7.4,39943,139
+Casualties of War,1989,R,1h 53min,Crime; Drama; War; ,18 August 1989 (USA),7.1,39934,135
+War Machine,2017,TV-MA,2h 2min,Comedy; Drama; War; ,26 May 2017 (USA),6.0,39926,191
+Heartbreak Ridge,1986,R,2h 10min,Drama; War; ,5 December 1986 (USA),6.9,38473,137
+Tigerland,2000,R,1h 41min,Drama; War; ,24 May 2001 (Germany),7.0,37364,157
+Tae Guk Gi: The Brotherhood of War,2004,R,2h 20min,Action; Drama; War; ,24 September 2004 (USA),8.1,37166,241
+Love and Death,1975,PG,1h 25min,Comedy; War; ,18 July 1975 (Canada),7.7,34959,118
+Zulu,1964,Not Rated,2h 18min,Drama; History; War; ,17 June 1964 (USA),7.7,34911,263
+The Last Legion,2007,PG-13,1h 41min,Action; Adventure; War; ,17 August 2007 (USA),5.4,33704,180
+In the Land of Blood and Honey,2011,R,2h 7min,Drama; Romance; War; ,16 February 2012 (Netherlands),4.5,33167,153
+La Grande Illusion,1937,Not Rated,1h 53min,Drama; War; ,12 September 1938 (USA),8.1,32997,136
+Kagemusha,1980,PG,2h 42min,Drama; History; War; ,10 October 1980 (USA),8.0,30892,104
+The Guernsey Literary and Potato Peel Pie Society,2018,TV-14,2h 4min,Drama; Romance; War; ,10 August 2018 (USA),7.4,30652,258
+1941,1979,PG,1h 58min,Action; Comedy; War; ,14 December 1979 (USA),5.8,30625,252
+Coriolanus,2011,R,2h 3min,Drama; Thriller; War; ,20 January 2012 (India),6.1,30543,131
+Au Revoir les Enfants,1987,PG,1h 44min,Drama; War; ,12 February 1988 (USA),8.0,30195,105
+Stalingrad,1993,Not Rated,2h 14min,Drama; War; ,21 January 1993 (Germany),7.5,29900,163
+Duck You Sucker,1971,PG,2h 18min,Drama; War; Western; ,7 July 1972 (USA),7.6,28849,148
+Victory,1981,PG,1h 56min,Drama; Sport; War; ,31 July 1981 (USA),6.7,26806,108
+To Be or Not to Be,1942,Passed,1h 39min,Comedy; War; ,6 March 1942 (USA),8.2,26579,138
+Lifeboat,1944,Not Rated,1h 37min,Drama; War; ,28 January 1944 (USA),7.6,25656,151
+Gettysburg,1993,PG,4h 31min,Drama; History; War; ,8 October 1993 (USA),7.6,25505,287
+Cross of Iron,1977,R,1h 59min,Drama; War; ,20 May 1977 (USA),7.5,24560,177
+The Caine Mutiny,1954,Not Rated,2h 4min,Drama; War; ,24 June 1954 (USA),7.7,23779,180
+The Ottoman Lieutenant,2017,R,1h 46min,Drama; War; ,10 March 2017 (USA),6.6,23718,121
+Da 5 Bloods,2020,R,2h 34min,Adventure; Drama; War; ,12 June 2020 (USA),6.6,23105,586
+Bloody Sunday,2002,R,1h 47min,Drama; History; War; ,19 April 2002 (Portugal),7.6,22908,131
+Saboteur,1942,Passed,1h 49min,Thriller; War; ,24 April 1942 (USA),7.2,22497,157
+The Birth of a Nation,1915,TV-PG,3h 15min,Drama; History; War; ,21 March 1915 (USA),6.3,21976,366
+Little Boy,2015,PG-13,1h 46min,Drama; History; War; ,24 April 2015 (USA),7.4,21808,139
+Last Flag Flying,2017,R,2h 5min,Comedy; Drama; War; ,3 November 2017 (USA),6.9,21540,128
+Catch-22,1970,R,2h 2min,Comedy; Drama; War; ,24 June 1970 (USA),7.1,21424,145
+The Great Raid,2005,R,2h 12min,Action; Drama; War; ,12 August 2005 (USA),6.7,20965,194
+Saints and Soldiers,2003,PG-13,1h 30min,Action; Drama; War; ,25 March 2005 (USA),6.7,19730,163
+Stop-Loss,2008,R,1h 52min,Drama; War; ,28 March 2008 (USA),6.4,19456,102
+The Alamo,2004,PG-13,2h 17min,Drama; History; War; ,9 April 2004 (USA),6.0,19290,306
